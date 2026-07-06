@@ -1,0 +1,1001 @@
+tahun_keluaran,nama_laptop,cpu,ram_gb,storage_gb,gpu,ukuran_layar_inch,resolusi_lebar,resolusi_tinggi,tipe_panel,kapasitas_baterai_wh,sistem_operasi,fitur_keamanan,harga_idr
+2019,Asus ROG Zephyrus 42,AMD Ryzen 7 5800H,4,1024,NVIDIA RTX 3050,15.6,1366,768,TN,82,Windows 10 Home,Fingerprint,9000000
+2021,Lenovo IdeaPad Slim 82,AMD Ryzen 3 3200U,4,512,NVIDIA RTX 3050,16.1,1920,1080,IPS,55,Windows 10 Home,Firmware TPM,12900000
+2023,HP Victus 38,Intel Core i5-1240P,16,512,AMD Radeon Graphics,15.6,1366,768,OLED,71,Windows 11 Home,Kensington Lock,15300000
+2019,Acer Aspire 81,Intel Core i7-1165G7,16,256,Intel UHD Graphics,16.0,1920,1200,TN,69,Windows 11 Home,Firmware TPM,7700000
+2021,Apple MacBook Air 59,Apple M4 10-Core,24,256,Apple M4 10-Core GPU,14.0,1920,1080,Liquid Retina,57,macOS,Touch ID Apple T2,34500000
+2019,Dell Vostro 79,Intel Core i5-1035G1,8,512,AMD Radeon Graphics,16.0,1920,1080,IPS 144Hz,90,Windows 11 Pro,Fingerprint,7300000
+2023,Apple MacBook Air 40,Apple M3 8-Core,24,256,Apple M3 8-Core GPU,13.6,3024,1964,Liquid Retina,71,macOS,Touch ID,29400000
+2025,Acer Predator 29,Intel Core i9-16900HX,64,2048,NVIDIA RTX 4070,16.0,2560,1600,Mini LED 240Hz,92,Windows 11 Home,Fingerprint,48000000
+2021,Lenovo ThinkPad 22,Intel Core i5-1035G1,16,256,NVIDIA GTX 1650,13.3,2560,1600,IPS 144Hz,59,Windows 10 Home,Kensington Lock,15200000
+2026,HP OmniBook 12,Snapdragon X 2nd Gen,32,2048,Qualcomm Adreno,14.0,1920,1080,OLED 120Hz,62,Windows 11 Pro,Kensington Lock,22300000
+2022,Dell Vostro 75,AMD Ryzen 9 8945HS,32,512,Intel Arc Graphics,16.1,2880,1800,OLED,65,Windows 10 Home,Privacy Shutter,19800000
+2018,Dell XPS 73,Intel Core i7-1165G7,8,256,Intel UHD Graphics,15.6,1366,768,TN,60,Windows 10 Home,Kensington Lock,6400000
+2025,Apple MacBook Air 79,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,13.6,2880,1800,IPS Retina,51,macOS,Touch ID,38600000
+2026,Apple MacBook Air 50,Apple M4 10-Core,24,512,Apple M4 10-Core GPU,15.6,1366,768,Liquid Retina XDR,83,macOS,Touch ID Apple T2,29300000
+2023,Asus Zenbook 86,Intel Core i5-1240P,32,512,Intel Arc Graphics,13.3,1366,768,IPS,56,Windows 10 Home,Kensington Lock,15300000
+2021,HP Spectre 38,AMD Ryzen 7 5800H,16,1024,NVIDIA GTX 1650,16.1,2560,1600,TN,85,Windows 11 Pro,Fingerprint,13800000
+2019,MSI Stealth 56,AMD Ryzen 3 3200U,16,256,Intel UHD Graphics,14.2,1366,768,TN,56,Windows 11 Home,IR Camera TPM 2.0,8000000
+2021,Lenovo ThinkPad 28,Intel Core i7-1165G7,8,256,Intel UHD Graphics,16.1,1366,768,IPS,90,Windows 11 Home,Fingerprint,6800000
+2026,Apple MacBook Air 22,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,13.6,1366,768,IPS Retina,60,macOS,Touch ID,30400000
+2024,HP Spectre 47,AMD Ryzen 9 8945HS,32,1024,Intel Arc Graphics,14.0,1366,768,IPS 144Hz,48,Windows 11 Home,Firmware TPM,16900000
+2026,Asus ROG Zephyrus 18,Snapdragon X Elite X1E-78-100,64,2048,AMD Radeon 880M,15.6,1920,1080,OLED 120Hz,60,Windows 10 Home,Firmware TPM,29900000
+2019,MSI Cyborg 62,Intel Core i5-1035G1,16,1024,Intel UHD Graphics,13.3,3024,1964,IPS 144Hz,61,Windows 10 Home,Firmware TPM,9900000
+2026,HP Envy 37,Intel Core i9-16900HX,32,1024,AMD Radeon 880M,16.0,2560,1600,IPS 165Hz,74,Windows 11 Pro,Privacy Shutter,17500000
+2019,Asus TUF Gaming 90,Intel Core i3-8130U,16,256,NVIDIA RTX 3050,13.6,1366,768,IPS,57,Windows 11 Pro,Kensington Lock,14700000
+2023,HP Victus 67,AMD Ryzen 7 7840HS,32,512,NVIDIA RTX 4060,16.0,1920,1080,OLED,61,Windows 11 Pro,Privacy Shutter,31100000
+2019,MSI Cyborg 45,Intel Core i5-1035G1,16,512,Intel Iris Xe,16.0,2880,1800,IPS 144Hz,71,Windows 11 Home,Firmware TPM,8900000
+2022,Apple MacBook Air 22,Apple M2 8-Core,8,512,Apple M2 8-Core GPU,16.1,3024,1964,Liquid Retina,63,macOS,Touch ID Apple T2,11100000
+2025,Dell Alienware 82,Intel Core Ultra 7 258V,64,512,NVIDIA RTX 4070,16.1,2880,1800,OLED 120Hz,78,Windows 10 Home,Kensington Lock,44300000
+2020,Asus ROG Zephyrus 57,Intel Core i5-1035G1,16,256,Intel UHD Graphics,16.1,2560,1600,IPS,90,Windows 10 Home,Privacy Shutter,9400000
+2020,Lenovo Yoga 33,Intel Core i5-1035G1,16,512,NVIDIA GTX 1650,16.1,1920,1200,IPS 144Hz,70,Windows 11 Home,Kensington Lock,13800000
+2019,Acer Aspire 71,AMD Ryzen 3 3200U,8,512,Intel Iris Xe,13.3,2560,1600,TN,47,Windows 10 Home,Fingerprint,6600000
+2022,Apple MacBook Air 46,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,16.1,1920,1200,Liquid Retina XDR,89,macOS,Touch ID Apple T2,27200000
+2022,Lenovo Legion 15,AMD Ryzen 5 7520U,16,1024,NVIDIA RTX 3050,14.2,1920,1080,IPS,71,Windows 10 Home,Firmware TPM,14600000
+2024,Asus Zenbook 57,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4060,16.0,2880,1800,IPS,74,Windows 11 Home,Kensington Lock,26200000
+2024,HP Spectre 48,Intel Core i7-13700H,16,1024,NVIDIA RTX 4060,15.6,1920,1200,IPS 144Hz,91,Windows 11 Pro,Fingerprint,27600000
+2018,HP Envy 37,AMD Ryzen 5 4500U,16,512,NVIDIA GTX 1650,14.2,2880,1800,IPS,48,Windows 11 Home,Firmware TPM,13900000
+2020,MSI Modern 47,Intel Core i7-1165G7,4,256,AMD Radeon Graphics,16.1,1920,1080,TN,67,Windows 11 Pro,Firmware TPM,5100000
+2018,Lenovo ThinkPad 89,AMD Ryzen 3 3200U,16,1024,Intel Iris Xe,16.0,2560,1600,IPS 144Hz,79,Windows 10 Home,IR Camera TPM 2.0,8900000
+2021,Lenovo IdeaPad Slim 24,Intel Core i5-1035G1,16,1024,NVIDIA GTX 1650,15.6,1366,768,TN,70,Windows 11 Home,Fingerprint,15000000
+2025,MSI Katana 67,Snapdragon X Elite X1E-78-100,64,1024,AMD Radeon 880M,16.1,2560,1600,IPS 165Hz,85,Windows 11 Pro,Firmware TPM,24800000
+2021,Apple MacBook Pro 77,Apple M2 8-Core,24,512,Apple M2 8-Core GPU,13.3,1920,1080,Liquid Retina XDR,53,macOS,Touch ID Apple T2,14900000
+2023,Dell Inspiron 28,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 4060,13.3,2560,1600,IPS 144Hz,61,Windows 10 Home,Fingerprint,29000000
+2025,Acer Aspire 37,Snapdragon X 2nd Gen,64,512,NVIDIA RTX 4070,14.2,1920,1200,Mini LED 240Hz,35,Windows 11 Home,IR Camera TPM 2.0,41900000
+2024,Dell Vostro 73,AMD Ryzen 5 7520U,16,512,NVIDIA RTX 3050,16.0,2560,1600,OLED,98,Windows 10 Home,Privacy Shutter,21400000
+2025,Lenovo IdeaPad Slim 61,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 4060,16.1,1920,1080,OLED 120Hz,84,Windows 11 Pro,Firmware TPM,26500000
+2023,Lenovo ThinkPad 52,Intel Core Ultra 7 155H,16,1024,NVIDIA RTX 4070,14.2,3024,1964,IPS,36,Windows 11 Home,IR Camera TPM 2.0,28200000
+2023,Lenovo IdeaPad Slim 94,Intel Core i7-13700H,8,512,NVIDIA RTX 4050,13.6,2560,1600,IPS 144Hz,43,Windows 10 Home,Kensington Lock,9700000
+2019,Dell Vostro 70,Intel Core i7-1165G7,4,1024,NVIDIA RTX 3050,16.0,1920,1080,IPS 144Hz,62,Windows 11 Pro,Privacy Shutter,10200000
+2018,HP OmniBook 97,AMD Ryzen 7 5800H,4,256,NVIDIA RTX 3050,16.1,1920,1080,IPS 144Hz,95,Windows 11 Home,IR Camera TPM 2.0,8800000
+2022,Apple MacBook Air 83,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,14.0,2880,1800,Liquid Retina,39,macOS,Touch ID,36800000
+2024,Apple MacBook Pro 24,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,13.6,1920,1080,Liquid Retina,62,macOS,Touch ID Apple T2,37700000
+2026,Apple MacBook Pro 70,Apple M4 10-Core,24,512,Apple M4 10-Core GPU,16.1,1366,768,Liquid Retina XDR,70,macOS,Touch ID Apple T2,31100000
+2025,Dell Alienware 54,AMD Ryzen 7 9840U,16,1024,AMD Radeon 880M,16.1,1920,1200,Mini LED 240Hz,71,Windows 10 Home,IR Camera TPM 2.0,17300000
+2022,Dell Inspiron 77,Intel Core i7-13700H,32,1024,NVIDIA RTX 3050,16.0,3024,1964,IPS 144Hz,85,Windows 10 Home,Kensington Lock,21500000
+2025,Apple MacBook Air 22,Apple M3 8-Core,16,512,Apple M3 8-Core GPU,16.0,1920,1200,IPS Retina,92,macOS,Touch ID Apple T2,32800000
+2023,Acer Nitro 56,Intel Core Ultra 7 155H,16,1024,Intel Arc Graphics,16.0,1920,1200,IPS,67,Windows 11 Pro,IR Camera TPM 2.0,11300000
+2026,Apple MacBook Air 35,Apple M3 8-Core,24,1024,Apple M3 8-Core GPU,15.6,2880,1800,Liquid Retina XDR,88,macOS,Touch ID,31800000
+2021,HP Victus 57,Intel Core i3-8130U,16,1024,Intel Iris Xe,13.3,2880,1800,IPS,38,Windows 10 Home,Privacy Shutter,10400000
+2020,MSI Stealth 24,Intel Core i7-1165G7,8,512,NVIDIA GTX 1650,13.6,1920,1200,IPS,38,Windows 10 Home,Firmware TPM,15200000
+2025,Asus Vivobook 62,Snapdragon X 2nd Gen,64,2048,Intel Arc Graphics 140V,13.6,1920,1200,OLED 120Hz,71,Windows 11 Home,Kensington Lock,28600000
+2019,Dell Alienware 88,Intel Core i5-1035G1,16,512,NVIDIA GTX 1650,14.0,2560,1600,IPS,72,Windows 11 Pro,Firmware TPM,13300000
+2018,Dell Inspiron 37,Intel Core i7-1165G7,16,256,Intel Iris Xe,13.6,1366,768,TN,70,Windows 11 Pro,Fingerprint,7200000
+2018,Acer Predator 99,Intel Core i7-1165G7,4,256,AMD Radeon Graphics,14.0,1366,768,IPS 144Hz,64,Windows 11 Pro,IR Camera TPM 2.0,5300000
+2021,HP OmniBook 95,Intel Core i3-8130U,16,256,Intel Iris Xe,16.1,1366,768,IPS,64,Windows 10 Home,IR Camera TPM 2.0,8800000
+2020,Apple MacBook Pro 87,Intel Core i5-8210Y,16,512,Intel UHD Graphics,14.0,1920,1200,Liquid Retina,60,macOS,Touch ID Apple T2,13700000
+2025,Acer Aspire 87,AMD Ryzen 7 9840U,64,1024,Intel Arc Graphics 140V,13.6,2880,1800,OLED 120Hz,71,Windows 10 Home,IR Camera TPM 2.0,27900000
+2022,Dell Inspiron 33,AMD Ryzen 9 8945HS,16,1024,Intel Arc Graphics,16.0,1366,768,OLED 120Hz,86,Windows 11 Home,Firmware TPM,15100000
+2024,HP Envy 96,Intel Core Ultra 7 155H,16,1024,AMD Radeon Graphics,16.1,1366,768,OLED 120Hz,90,Windows 10 Home,Fingerprint,15700000
+2023,HP Envy 25,Intel Core i5-1240P,32,1024,NVIDIA RTX 3050,13.6,1920,1200,IPS,68,Windows 11 Home,Firmware TPM,22200000
+2025,MSI Stealth 17,Snapdragon X 2nd Gen,16,1024,NVIDIA RTX 4060,14.2,1366,768,IPS 165Hz,42,Windows 10 Home,Privacy Shutter,32100000
+2021,MSI Cyborg 50,AMD Ryzen 5 4500U,8,256,Intel Iris Xe,14.2,3024,1964,TN,42,Windows 11 Pro,Kensington Lock,8400000
+2020,Acer Nitro 76,AMD Ryzen 3 3200U,8,512,Intel Iris Xe,15.6,2560,1600,IPS,64,Windows 11 Pro,Privacy Shutter,6900000
+2026,MSI Cyborg 19,AMD Ryzen 7 9840U,64,1024,Intel Arc Graphics 140V,16.0,2880,1800,Mini LED 240Hz,74,Windows 11 Home,IR Camera TPM 2.0,30700000
+2025,Apple MacBook Air 68,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,14.0,3024,1964,Liquid Retina,47,macOS,Touch ID Apple T2,32700000
+2021,Apple MacBook Pro 16,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,16.0,1920,1080,Liquid Retina XDR,96,macOS,Touch ID Apple T2,31800000
+2026,Dell XPS 23,Snapdragon X 2nd Gen,32,512,NVIDIA RTX 5070,14.2,1366,768,OLED 120Hz,44,Windows 11 Home,Kensington Lock,35800000
+2024,MSI Modern 53,AMD Ryzen 5 7520U,16,1024,NVIDIA RTX 4070,15.6,1920,1080,IPS,59,Windows 11 Pro,Firmware TPM,31700000
+2022,Lenovo IdeaPad Slim 66,AMD Ryzen 5 7520U,8,1024,Intel Iris Xe,14.0,1920,1200,IPS,38,Windows 10 Home,Kensington Lock,9200000
+2023,Acer Swift 42,AMD Ryzen 7 7840HS,32,512,Intel Arc Graphics,13.3,2560,1600,IPS 144Hz,74,Windows 11 Pro,IR Camera TPM 2.0,15600000
+2021,Acer Swift 40,AMD Ryzen 3 3200U,8,1024,Intel UHD Graphics,14.0,1920,1080,IPS,69,Windows 11 Home,Privacy Shutter,8000000
+2025,HP OmniBook 49,AMD Ryzen 7 9840U,32,1024,AMD Radeon 880M,16.1,1366,768,Mini LED 240Hz,85,Windows 11 Pro,IR Camera TPM 2.0,20000000
+2023,Dell XPS 48,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4050,16.1,1920,1080,OLED 120Hz,73,Windows 10 Home,IR Camera TPM 2.0,14500000
+2023,Lenovo Yoga 90,AMD Ryzen 9 8945HS,8,512,AMD Radeon Graphics,13.3,1920,1200,OLED 120Hz,72,Windows 11 Home,Fingerprint,11000000
+2022,HP Spectre 33,AMD Ryzen 7 7840HS,16,1024,NVIDIA RTX 4070,14.0,1920,1200,IPS 144Hz,65,Windows 10 Home,Fingerprint,25800000
+2019,Acer Aspire 29,AMD Ryzen 5 4500U,8,256,NVIDIA GTX 1650,14.0,1366,768,TN,69,Windows 10 Home,IR Camera TPM 2.0,11200000
+2022,Dell Alienware 92,AMD Ryzen 9 8945HS,8,1024,Intel Iris Xe,15.6,3024,1964,OLED,69,Windows 11 Home,Kensington Lock,12000000
+2025,MSI Katana 94,Intel Core i9-16900HX,16,512,Qualcomm Adreno,13.3,1920,1080,Mini LED 240Hz,41,Windows 11 Home,Kensington Lock,16000000
+2024,Acer Nitro 96,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 3050,16.1,2880,1800,IPS,86,Windows 11 Pro,Firmware TPM,21500000
+2022,Asus ROG Zephyrus 38,Intel Core i7-13700H,16,512,NVIDIA RTX 4060,15.6,1920,1200,OLED,96,Windows 11 Home,IR Camera TPM 2.0,22900000
+2021,Asus TUF Gaming 22,AMD Ryzen 7 5800H,16,1024,Intel UHD Graphics,16.1,1920,1080,TN,76,Windows 11 Pro,Fingerprint,10100000
+2021,Asus Zenbook 86,Intel Core i7-1165G7,4,1024,Intel UHD Graphics,16.1,1920,1080,IPS,64,Windows 10 Home,Fingerprint,8000000
+2022,Apple MacBook Air 25,Apple M2 8-Core,24,256,Apple M2 8-Core GPU,15.6,1366,768,IPS Retina,75,macOS,Touch ID,14600000
+2018,Lenovo ThinkPad 78,AMD Ryzen 3 3200U,8,512,NVIDIA RTX 3050,13.3,2880,1800,IPS 144Hz,63,Windows 10 Home,Kensington Lock,11200000
+2018,MSI Katana 69,Intel Core i3-8130U,8,512,NVIDIA GTX 1650,13.3,3024,1964,IPS 144Hz,66,Windows 11 Pro,Kensington Lock,13000000
+2019,Asus ROG Zephyrus 88,Intel Core i5-1035G1,8,1024,NVIDIA RTX 3050,16.0,2560,1600,IPS 144Hz,75,Windows 10 Home,Kensington Lock,13300000
+2022,Acer Predator 23,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 3050,13.6,1920,1200,OLED 120Hz,61,Windows 11 Pro,Kensington Lock,24900000
+2024,MSI Modern 51,AMD Ryzen 9 8945HS,16,1024,Intel Arc Graphics,13.3,1366,768,OLED 120Hz,40,Windows 11 Home,Privacy Shutter,14900000
+2019,MSI Katana 27,AMD Ryzen 5 4500U,16,1024,AMD Radeon Graphics,13.3,1920,1200,IPS 144Hz,61,Windows 11 Pro,Kensington Lock,10500000
+2024,Apple MacBook Air 47,Apple M2 8-Core,16,256,Apple M2 8-Core GPU,16.0,1920,1080,Liquid Retina,85,macOS,Touch ID Apple T2,13700000
+2026,HP Pavilion 46,Snapdragon X Elite X1E-78-100,64,2048,NVIDIA RTX 4070,16.0,1366,768,IPS 165Hz,90,Windows 11 Pro,Fingerprint,46500000
+2022,Asus Zenbook 45,Intel Core Ultra 7 155H,16,512,Intel Arc Graphics,15.6,2560,1600,IPS 144Hz,97,Windows 11 Pro,Privacy Shutter,9800000
+2020,MSI Modern 22,Intel Core i5-1035G1,8,512,NVIDIA GTX 1650,13.6,1920,1200,IPS,58,Windows 11 Pro,Firmware TPM,13200000
+2019,Asus Zenbook 31,AMD Ryzen 7 5800H,4,512,NVIDIA GTX 1650,14.2,2880,1800,IPS 144Hz,66,Windows 11 Pro,Kensington Lock,10600000
+2022,Lenovo IdeaPad Slim 55,Intel Core Ultra 7 155H,32,1024,NVIDIA RTX 4050,13.3,2560,1600,OLED,49,Windows 11 Home,Kensington Lock,19100000
+2018,Lenovo Legion 38,Intel Core i7-1165G7,8,256,Intel UHD Graphics,16.0,1920,1080,IPS,82,Windows 10 Home,Privacy Shutter,5200000
+2024,Dell Vostro 75,Intel Core i5-1240P,16,512,NVIDIA RTX 3050,14.2,1920,1200,IPS,39,Windows 11 Pro,Privacy Shutter,17200000
+2024,MSI Stealth 48,Intel Core i5-1240P,16,512,NVIDIA RTX 4070,16.1,1920,1200,OLED 120Hz,99,Windows 10 Home,IR Camera TPM 2.0,25900000
+2019,Lenovo ThinkPad 86,Intel Core i3-8130U,8,512,AMD Radeon Graphics,14.0,1366,768,TN,45,Windows 11 Home,Firmware TPM,6900000
+2019,Dell Vostro 55,Intel Core i5-1035G1,4,256,AMD Radeon Graphics,13.6,1920,1080,TN,73,Windows 11 Home,Fingerprint,6100000
+2019,Lenovo ThinkPad 70,AMD Ryzen 3 3200U,16,1024,NVIDIA RTX 3050,16.1,1920,1200,IPS,95,Windows 11 Pro,Firmware TPM,13200000
+2019,Acer Predator 91,AMD Ryzen 5 4500U,4,512,NVIDIA RTX 3050,14.0,2560,1600,TN,64,Windows 11 Home,Privacy Shutter,8100000
+2023,Apple MacBook Pro 20,Apple M4 10-Core,32,512,Apple M4 10-Core GPU,15.6,3024,1964,Liquid Retina XDR,90,macOS,Touch ID,28700000
+2021,HP OmniBook 71,Intel Core i3-8130U,8,256,AMD Radeon Graphics,13.3,3024,1964,IPS 144Hz,67,Windows 11 Pro,Fingerprint,7000000
+2018,Lenovo ThinkPad 67,AMD Ryzen 5 4500U,4,512,AMD Radeon Graphics,14.2,1920,1200,IPS,61,Windows 11 Pro,Firmware TPM,5700000
+2018,Apple MacBook Pro 19,Apple M1 8-Core,16,256,Apple M1 7-Core GPU,14.0,1920,1080,IPS Retina,73,macOS,Touch ID Apple T2,10500000
+2020,HP Envy 94,Intel Core i5-1035G1,16,1024,Intel UHD Graphics,15.6,3024,1964,IPS,79,Windows 11 Pro,IR Camera TPM 2.0,10900000
+2023,Apple MacBook Air 96,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,14.0,1920,1200,Liquid Retina XDR,36,macOS,Touch ID,33000000
+2021,HP Spectre 35,Intel Core i5-1035G1,4,512,Intel UHD Graphics,16.1,3024,1964,IPS 144Hz,89,Windows 10 Home,Fingerprint,7900000
+2026,Asus ROG Zephyrus 90,Snapdragon X Elite X1E-78-100,16,512,AMD Radeon 880M,16.1,1920,1080,IPS 165Hz,94,Windows 10 Home,Firmware TPM,13600000
+2025,Asus TUF Gaming 57,Snapdragon X Elite X1E-78-100,64,1024,NVIDIA RTX 5070,13.6,1920,1080,Mini LED 240Hz,69,Windows 11 Pro,Fingerprint,43300000
+2021,HP OmniBook 67,AMD Ryzen 3 3200U,16,1024,NVIDIA GTX 1650,16.1,2880,1800,TN,67,Windows 11 Home,Privacy Shutter,15200000
+2022,Asus TUF Gaming 58,AMD Ryzen 9 8945HS,32,512,AMD Radeon Graphics,16.1,1920,1200,IPS,65,Windows 11 Pro,Kensington Lock,14600000
+2026,Lenovo ThinkPad 22,AMD Ryzen 7 9840U,16,1024,Intel Arc Graphics 140V,15.6,1920,1080,Mini LED 240Hz,78,Windows 10 Home,IR Camera TPM 2.0,16600000
+2023,Lenovo IdeaPad Slim 51,Intel Core i7-13700H,8,512,AMD Radeon Graphics,16.0,3024,1964,OLED 120Hz,63,Windows 10 Home,Privacy Shutter,13200000
+2018,Asus Vivobook 43,AMD Ryzen 5 4500U,16,1024,NVIDIA RTX 3050,13.3,1920,1080,IPS,53,Windows 10 Home,Fingerprint,12600000
+2018,Lenovo ThinkPad 92,Intel Core i3-8130U,4,512,NVIDIA RTX 3050,13.3,2880,1800,IPS 144Hz,75,Windows 11 Pro,IR Camera TPM 2.0,10200000
+2020,HP Spectre 11,Intel Core i5-1035G1,16,512,Intel Iris Xe,16.0,2880,1800,IPS 144Hz,60,Windows 11 Pro,Privacy Shutter,9200000
+2019,Dell Inspiron 60,AMD Ryzen 7 5800H,8,512,AMD Radeon Graphics,13.3,1366,768,IPS 144Hz,57,Windows 11 Home,Kensington Lock,6600000
+2021,MSI Modern 85,Intel Core i5-1035G1,4,512,NVIDIA RTX 3050,16.1,1920,1080,IPS,96,Windows 11 Pro,Privacy Shutter,14200000
+2025,MSI Stealth 91,Intel Core Ultra 7 258V,64,1024,Intel Arc Graphics 140V,13.6,1920,1080,Mini LED 240Hz,37,Windows 10 Home,Fingerprint,27100000
+2022,Dell Alienware 80,Intel Core i5-1240P,32,512,AMD Radeon Graphics,16.1,3024,1964,OLED,58,Windows 11 Home,Privacy Shutter,17600000
+2019,Apple MacBook Pro 66,Intel Core i7-9750H,16,256,Intel UHD Graphics,13.6,3024,1964,Liquid Retina XDR,66,macOS,Touch ID Apple T2,12300000
+2026,HP Pavilion 65,Snapdragon X 2nd Gen,16,2048,Qualcomm Adreno,13.3,1920,1200,Mini LED 240Hz,40,Windows 10 Home,IR Camera TPM 2.0,19800000
+2022,Acer Predator 32,Intel Core Ultra 7 155H,16,512,NVIDIA RTX 4060,15.6,1920,1200,OLED,82,Windows 11 Pro,IR Camera TPM 2.0,30800000
+2024,HP OmniBook 97,Intel Core i7-13700H,32,1024,Intel Iris Xe,13.3,3024,1964,IPS 144Hz,50,Windows 10 Home,Kensington Lock,16400000
+2023,Acer Aspire 88,Intel Core Ultra 7 155H,16,1024,NVIDIA RTX 4070,15.6,2880,1800,IPS,63,Windows 10 Home,IR Camera TPM 2.0,26000000
+2023,MSI Katana 42,AMD Ryzen 9 8945HS,8,1024,NVIDIA RTX 4050,15.6,1920,1200,OLED 120Hz,62,Windows 10 Home,Kensington Lock,13600000
+2025,Lenovo Legion 99,Intel Core Ultra 7 258V,16,512,NVIDIA RTX 4060,16.0,1366,768,OLED 120Hz,83,Windows 11 Home,Fingerprint,35600000
+2023,MSI Modern 81,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4070,15.6,1366,768,OLED,69,Windows 11 Pro,Privacy Shutter,22700000
+2025,Asus ROG Zephyrus 81,Snapdragon X Elite X1E-78-100,64,512,NVIDIA RTX 4070,13.3,2560,1600,OLED 120Hz,54,Windows 11 Pro,Privacy Shutter,44600000
+2024,Apple MacBook Air 27,Apple M2 8-Core,32,512,Apple M2 8-Core GPU,16.0,1920,1200,Liquid Retina XDR,88,macOS,Touch ID Apple T2,19200000
+2026,MSI Cyborg 27,Intel Core Ultra 7 258V,16,2048,AMD Radeon 880M,13.6,1920,1200,Mini LED 240Hz,45,Windows 11 Home,Firmware TPM,19800000
+2023,Dell XPS 21,AMD Ryzen 9 8945HS,32,1024,Intel Arc Graphics,15.6,1366,768,OLED,89,Windows 11 Home,Fingerprint,20500000
+2020,Dell Vostro 32,AMD Ryzen 7 5800H,16,512,NVIDIA RTX 3050,16.1,1366,768,TN,56,Windows 11 Pro,Firmware TPM,13600000
+2022,MSI Cyborg 84,AMD Ryzen 9 8945HS,8,1024,NVIDIA RTX 4060,16.0,2560,1600,OLED,74,Windows 11 Home,Firmware TPM,26300000
+2022,Acer Aspire 99,AMD Ryzen 5 7520U,16,1024,NVIDIA RTX 3050,14.0,1920,1080,IPS 144Hz,73,Windows 10 Home,Fingerprint,16600000
+2023,MSI Katana 62,AMD Ryzen 7 7840HS,32,512,AMD Radeon Graphics,14.2,1920,1200,IPS 144Hz,42,Windows 10 Home,Privacy Shutter,15200000
+2021,Lenovo IdeaPad Slim 17,AMD Ryzen 5 4500U,8,256,Intel Iris Xe,15.6,1920,1080,IPS,75,Windows 11 Home,IR Camera TPM 2.0,8300000
+2020,Acer Predator 74,Intel Core i3-8130U,4,512,NVIDIA RTX 3050,13.6,2880,1800,IPS,48,Windows 11 Home,IR Camera TPM 2.0,10100000
+2018,HP Spectre 87,Intel Core i7-1165G7,16,256,Intel UHD Graphics,13.6,3024,1964,IPS,51,Windows 11 Pro,IR Camera TPM 2.0,7700000
+2024,HP Pavilion 62,AMD Ryzen 7 7840HS,8,1024,NVIDIA RTX 4050,13.3,2880,1800,OLED,59,Windows 10 Home,Firmware TPM,15100000
+2026,HP OmniBook 98,Intel Core i9-16900HX,16,1024,Qualcomm Adreno,15.6,1920,1080,Mini LED 240Hz,78,Windows 11 Pro,Kensington Lock,16900000
+2026,Acer Aspire 16,AMD Ryzen 7 9840U,32,2048,NVIDIA RTX 4060,15.6,1920,1080,OLED 120Hz,87,Windows 10 Home,Fingerprint,37100000
+2020,Acer Nitro 86,AMD Ryzen 5 4500U,16,512,NVIDIA RTX 3050,14.2,1920,1200,IPS,36,Windows 11 Home,Firmware TPM,14300000
+2019,Acer Nitro 99,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,13.6,2880,1800,IPS 144Hz,38,Windows 11 Pro,Kensington Lock,11200000
+2026,MSI Stealth 29,Intel Core Ultra 7 258V,64,2048,Intel Arc Graphics 140V,13.3,1920,1200,OLED 120Hz,63,Windows 11 Pro,Fingerprint,30400000
+2024,MSI Cyborg 63,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 4060,15.6,2880,1800,IPS 144Hz,68,Windows 11 Pro,Firmware TPM,29700000
+2025,Dell Alienware 51,Snapdragon X 2nd Gen,32,2048,Qualcomm Adreno,16.1,3024,1964,IPS 165Hz,98,Windows 10 Home,IR Camera TPM 2.0,19500000
+2022,Dell Alienware 35,AMD Ryzen 7 7840HS,16,512,AMD Radeon Graphics,16.0,3024,1964,OLED,68,Windows 10 Home,Privacy Shutter,15700000
+2023,Acer Nitro 82,Intel Core Ultra 7 155H,8,1024,NVIDIA RTX 3050,16.1,1920,1200,OLED,64,Windows 11 Pro,Privacy Shutter,16900000
+2019,HP Spectre 94,Intel Core i5-1035G1,4,1024,AMD Radeon Graphics,16.0,1920,1080,IPS 144Hz,72,Windows 11 Home,IR Camera TPM 2.0,5900000
+2021,Lenovo IdeaPad Slim 96,AMD Ryzen 7 5800H,4,256,Intel UHD Graphics,14.0,1366,768,IPS,65,Windows 11 Pro,Fingerprint,7100000
+2020,Asus Zenbook 63,AMD Ryzen 3 3200U,16,256,AMD Radeon Graphics,14.0,1366,768,IPS,38,Windows 11 Pro,IR Camera TPM 2.0,9500000
+2021,Dell Inspiron 33,Intel Core i3-8130U,8,512,Intel Iris Xe,16.1,1366,768,IPS 144Hz,73,Windows 11 Home,Fingerprint,7100000
+2022,Dell Inspiron 53,AMD Ryzen 9 8945HS,32,1024,Intel Arc Graphics,14.0,1366,768,OLED 120Hz,47,Windows 11 Home,IR Camera TPM 2.0,18200000
+2025,MSI Katana 34,AMD Ryzen 7 9840U,64,2048,AMD Radeon 880M,15.6,2560,1600,OLED 120Hz,95,Windows 10 Home,Privacy Shutter,30600000
+2023,Asus TUF Gaming 96,Intel Core i7-13700H,16,1024,Intel Arc Graphics,14.0,1920,1080,IPS,59,Windows 10 Home,Fingerprint,12000000
+2022,HP Envy 85,Intel Core i5-1240P,16,1024,NVIDIA RTX 4060,13.3,2560,1600,IPS 144Hz,42,Windows 11 Pro,Firmware TPM,23900000
+2024,MSI Katana 99,Intel Core Ultra 7 155H,32,512,Intel Arc Graphics,14.2,2560,1600,IPS 144Hz,44,Windows 10 Home,Privacy Shutter,16400000
+2023,Acer Predator 79,Intel Core i7-13700H,32,512,NVIDIA RTX 4050,15.6,1366,768,OLED 120Hz,78,Windows 11 Pro,Fingerprint,18900000
+2018,Apple MacBook Air 84,Intel Core i7-9750H,16,128,Intel UHD Graphics,16.0,3024,1964,IPS Retina,68,macOS,Touch ID,12200000
+2019,Dell Alienware 18,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,15.6,3024,1964,TN,84,Windows 11 Home,Fingerprint,12900000
+2018,Acer Nitro 11,AMD Ryzen 5 4500U,4,256,NVIDIA GTX 1650,16.0,2880,1800,IPS,59,Windows 11 Pro,Fingerprint,9100000
+2019,Acer Aspire 47,Intel Core i5-1035G1,16,1024,NVIDIA GTX 1650,14.2,2560,1600,IPS,63,Windows 11 Home,Fingerprint,13400000
+2026,Lenovo Legion 26,Snapdragon X Elite X1E-78-100,64,512,NVIDIA RTX 5070,16.1,1366,768,OLED 120Hz,55,Windows 10 Home,Firmware TPM,42400000
+2026,Acer Predator 40,AMD Ryzen 7 9840U,16,1024,AMD Radeon 880M,16.1,1366,768,IPS 165Hz,62,Windows 10 Home,IR Camera TPM 2.0,14500000
+2024,Dell Inspiron 41,Intel Core i5-1240P,32,512,NVIDIA RTX 3050,13.6,2560,1600,IPS,37,Windows 10 Home,Kensington Lock,20200000
+2026,Lenovo IdeaPad Slim 28,Intel Core i9-16900HX,64,2048,Qualcomm Adreno,15.6,1920,1200,IPS 165Hz,98,Windows 11 Pro,Privacy Shutter,26900000
+2022,Lenovo Yoga 63,Intel Core i5-1240P,32,512,NVIDIA RTX 4060,15.6,1366,768,OLED 120Hz,86,Windows 11 Home,Privacy Shutter,33600000
+2024,Apple MacBook Pro 64,Apple M3 8-Core,32,256,Apple M3 8-Core GPU,16.1,2560,1600,IPS Retina,89,macOS,Touch ID Apple T2,30100000
+2020,Apple MacBook Pro 18,Apple M1 8-Core,8,256,Apple M1 7-Core GPU,13.6,1920,1080,Liquid Retina,51,macOS,Touch ID Apple T2,10800000
+2019,Acer Nitro 22,Intel Core i3-8130U,8,512,NVIDIA RTX 3050,13.3,1920,1080,IPS 144Hz,39,Windows 11 Pro,Fingerprint,13800000
+2026,Lenovo ThinkPad 37,Intel Core Ultra 7 258V,16,512,NVIDIA RTX 5070,16.0,1920,1080,OLED 120Hz,85,Windows 11 Home,Privacy Shutter,37700000
+2021,Acer Swift 81,AMD Ryzen 3 3200U,8,1024,AMD Radeon Graphics,14.0,2880,1800,IPS,58,Windows 11 Home,Privacy Shutter,9700000
+2025,Acer Aspire 71,AMD Ryzen 7 9840U,32,1024,Intel Arc Graphics 140V,16.1,3024,1964,IPS 165Hz,69,Windows 11 Home,Fingerprint,16500000
+2018,HP OmniBook 85,Intel Core i7-1165G7,4,256,AMD Radeon Graphics,14.2,1920,1080,TN,71,Windows 11 Pro,IR Camera TPM 2.0,4900000
+2026,MSI Katana 43,Snapdragon X Elite X1E-78-100,16,2048,Qualcomm Adreno,13.6,2560,1600,OLED 120Hz,69,Windows 11 Home,IR Camera TPM 2.0,19100000
+2026,MSI Modern 78,Intel Core Ultra 7 258V,16,1024,AMD Radeon 880M,13.6,3024,1964,IPS 165Hz,39,Windows 10 Home,Kensington Lock,13200000
+2018,Lenovo ThinkPad 58,AMD Ryzen 7 5800H,16,1024,NVIDIA GTX 1650,14.2,1366,768,IPS 144Hz,36,Windows 10 Home,Firmware TPM,14400000
+2024,Asus Vivobook 78,AMD Ryzen 7 7840HS,16,512,NVIDIA RTX 4050,16.1,1366,768,OLED 120Hz,66,Windows 11 Pro,Privacy Shutter,14400000
+2020,Lenovo Yoga 90,Intel Core i7-1165G7,8,512,Intel UHD Graphics,14.2,2880,1800,IPS,64,Windows 11 Pro,Privacy Shutter,7000000
+2021,HP Pavilion 94,Intel Core i3-8130U,8,512,NVIDIA GTX 1650,14.2,3024,1964,IPS 144Hz,38,Windows 11 Pro,Kensington Lock,11600000
+2020,Asus TUF Gaming 66,AMD Ryzen 5 4500U,4,1024,Intel UHD Graphics,13.6,2560,1600,TN,71,Windows 11 Pro,Privacy Shutter,6800000
+2018,Asus ROG Zephyrus 80,Intel Core i5-1035G1,8,256,Intel Iris Xe,13.6,1366,768,IPS 144Hz,60,Windows 11 Pro,Kensington Lock,5500000
+2020,Dell Vostro 83,Intel Core i7-1165G7,8,1024,Intel Iris Xe,16.0,2880,1800,IPS 144Hz,60,Windows 11 Home,Firmware TPM,8800000
+2023,Asus Vivobook 66,Intel Core Ultra 7 155H,32,1024,NVIDIA RTX 4070,13.3,1920,1200,OLED,75,Windows 10 Home,Kensington Lock,35100000
+2023,Dell Alienware 66,AMD Ryzen 9 8945HS,16,512,NVIDIA RTX 4070,16.1,3024,1964,OLED,70,Windows 10 Home,Firmware TPM,22400000
+2020,Acer Swift 60,Intel Core i3-8130U,4,256,AMD Radeon Graphics,14.0,1366,768,IPS,52,Windows 11 Home,Privacy Shutter,5400000
+2019,Lenovo ThinkPad 68,AMD Ryzen 5 4500U,8,256,Intel UHD Graphics,14.0,1366,768,TN,70,Windows 11 Pro,Firmware TPM,6700000
+2023,Apple MacBook Pro 12,Apple M3 8-Core,8,1024,Apple M3 8-Core GPU,15.6,2880,1800,Liquid Retina,70,macOS,Touch ID Apple T2,29900000
+2024,Lenovo Yoga 45,AMD Ryzen 5 7520U,8,512,Intel Arc Graphics,14.0,1920,1200,OLED 120Hz,61,Windows 11 Home,Privacy Shutter,14500000
+2019,HP Envy 42,AMD Ryzen 5 4500U,16,256,NVIDIA GTX 1650,13.6,1366,768,TN,54,Windows 11 Pro,IR Camera TPM 2.0,15300000
+2023,Apple MacBook Pro 53,Apple M3 8-Core,16,512,Apple M3 8-Core GPU,14.0,3024,1964,Liquid Retina,73,macOS,Touch ID Apple T2,26300000
+2020,Acer Nitro 48,AMD Ryzen 5 4500U,4,512,NVIDIA GTX 1650,16.1,1920,1200,IPS,80,Windows 11 Pro,IR Camera TPM 2.0,10900000
+2021,Dell Vostro 98,AMD Ryzen 7 5800H,8,1024,Intel Iris Xe,16.1,3024,1964,IPS,73,Windows 11 Pro,Kensington Lock,8000000
+2024,MSI Stealth 28,Intel Core i7-13700H,16,512,NVIDIA RTX 4060,16.1,1366,768,OLED 120Hz,79,Windows 11 Pro,Privacy Shutter,31900000
+2024,Dell Alienware 80,AMD Ryzen 9 8945HS,32,512,Intel Iris Xe,16.0,1920,1200,IPS 144Hz,97,Windows 10 Home,Privacy Shutter,15200000
+2018,Dell Alienware 53,Intel Core i3-8130U,4,512,Intel Iris Xe,16.0,2880,1800,IPS 144Hz,88,Windows 11 Home,Kensington Lock,5500000
+2021,Acer Nitro 61,AMD Ryzen 7 5800H,16,256,AMD Radeon Graphics,14.2,1920,1200,TN,41,Windows 11 Home,Firmware TPM,9600000
+2019,Asus Zenbook 55,AMD Ryzen 3 3200U,4,1024,NVIDIA GTX 1650,14.2,2560,1600,IPS,41,Windows 11 Home,Privacy Shutter,13100000
+2025,HP Pavilion 49,Intel Core Ultra 7 258V,32,2048,Intel Arc Graphics 140V,16.1,3024,1964,IPS 165Hz,65,Windows 10 Home,Kensington Lock,18300000
+2026,Lenovo Yoga 53,Snapdragon X Elite X1E-78-100,16,1024,NVIDIA RTX 5070,13.6,3024,1964,OLED 120Hz,75,Windows 11 Pro,IR Camera TPM 2.0,31800000
+2021,Acer Predator 60,Intel Core i5-1035G1,8,1024,Intel UHD Graphics,13.3,1920,1080,IPS 144Hz,69,Windows 10 Home,Fingerprint,8600000
+2023,Lenovo ThinkPad 25,AMD Ryzen 7 7840HS,32,1024,NVIDIA RTX 4050,15.6,2880,1800,OLED 120Hz,80,Windows 11 Home,IR Camera TPM 2.0,18200000
+2023,Apple MacBook Pro 90,Apple M4 10-Core,24,1024,Apple M4 10-Core GPU,15.6,3024,1964,Liquid Retina XDR,60,macOS,Touch ID,26800000
+2021,HP Pavilion 34,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,15.6,2560,1600,TN,79,Windows 11 Home,Fingerprint,11900000
+2026,MSI Cyborg 82,AMD Ryzen 7 9840U,16,512,Qualcomm Adreno,15.6,1920,1200,Mini LED 240Hz,58,Windows 10 Home,IR Camera TPM 2.0,15100000
+2020,Lenovo ThinkPad 82,AMD Ryzen 3 3200U,16,512,NVIDIA GTX 1650,16.1,2560,1600,IPS 144Hz,83,Windows 11 Pro,IR Camera TPM 2.0,12300000
+2018,Apple MacBook Air 48,Intel Core i5-8210Y,16,128,Intel UHD Graphics,16.1,2880,1800,Liquid Retina,84,macOS,Touch ID,11900000
+2026,Asus Vivobook 45,Snapdragon X 2nd Gen,16,2048,NVIDIA RTX 4060,13.6,1366,768,IPS 165Hz,62,Windows 11 Pro,Privacy Shutter,34900000
+2021,HP Pavilion 68,Intel Core i3-8130U,8,256,Intel Iris Xe,16.1,3024,1964,TN,92,Windows 11 Home,Privacy Shutter,7400000
+2024,Lenovo Yoga 37,AMD Ryzen 7 7840HS,16,1024,NVIDIA RTX 4050,14.0,1920,1200,IPS 144Hz,53,Windows 10 Home,Kensington Lock,12800000
+2022,Apple MacBook Air 28,Apple M3 8-Core,16,1024,Apple M3 8-Core GPU,16.1,1920,1080,IPS Retina,63,macOS,Touch ID Apple T2,26500000
+2021,Apple MacBook Pro 73,Apple M4 10-Core,24,1024,Apple M4 10-Core GPU,14.2,2560,1600,Liquid Retina XDR,59,macOS,Touch ID,27400000
+2019,Acer Nitro 99,AMD Ryzen 3 3200U,8,1024,Intel UHD Graphics,13.3,3024,1964,IPS 144Hz,64,Windows 11 Home,IR Camera TPM 2.0,8000000
+2023,Apple MacBook Air 79,Apple M3 8-Core,16,512,Apple M3 8-Core GPU,14.0,1920,1200,IPS Retina,55,macOS,Touch ID Apple T2,29400000
+2020,Dell Alienware 54,Intel Core i3-8130U,4,1024,NVIDIA GTX 1650,13.3,2560,1600,TN,45,Windows 11 Pro,Kensington Lock,11200000
+2024,Lenovo Yoga 94,Intel Core Ultra 7 155H,8,1024,AMD Radeon Graphics,14.0,1366,768,IPS,45,Windows 11 Home,Fingerprint,10500000
+2022,MSI Cyborg 65,AMD Ryzen 9 8945HS,8,512,Intel Arc Graphics,13.3,2880,1800,OLED 120Hz,43,Windows 11 Pro,Kensington Lock,11700000
+2025,Asus Vivobook 54,Intel Core i9-16900HX,32,512,AMD Radeon 880M,13.3,1366,768,Mini LED 240Hz,41,Windows 10 Home,IR Camera TPM 2.0,19600000
+2022,Lenovo ThinkPad 28,Intel Core i5-1240P,32,512,NVIDIA RTX 4050,14.2,3024,1964,IPS 144Hz,57,Windows 11 Pro,Fingerprint,14100000
+2020,Acer Predator 38,Intel Core i5-1035G1,4,1024,NVIDIA GTX 1650,14.2,1920,1080,IPS,55,Windows 10 Home,Kensington Lock,10900000
+2019,Lenovo Legion 99,Intel Core i5-1035G1,16,1024,NVIDIA RTX 3050,16.0,1920,1200,TN,80,Windows 10 Home,Privacy Shutter,14500000
+2021,Acer Predator 25,AMD Ryzen 7 5800H,16,256,NVIDIA RTX 3050,14.0,1920,1080,TN,55,Windows 10 Home,IR Camera TPM 2.0,15100000
+2024,HP OmniBook 98,Intel Core i5-1240P,8,512,Intel Iris Xe,13.6,1366,768,OLED,37,Windows 10 Home,IR Camera TPM 2.0,13600000
+2022,MSI Stealth 65,Intel Core i5-1240P,32,512,AMD Radeon Graphics,14.0,2880,1800,IPS,40,Windows 11 Pro,IR Camera TPM 2.0,15600000
+2021,Apple MacBook Air 79,Apple M4 10-Core,8,512,Apple M4 10-Core GPU,16.0,3024,1964,Liquid Retina,82,macOS,Touch ID Apple T2,21800000
+2019,Acer Aspire 69,Intel Core i3-8130U,8,1024,Intel Iris Xe,13.3,3024,1964,TN,43,Windows 11 Pro,Firmware TPM,6700000
+2020,Acer Nitro 77,Intel Core i5-1035G1,8,256,AMD Radeon Graphics,13.3,1920,1200,IPS 144Hz,36,Windows 11 Pro,Privacy Shutter,7800000
+2024,HP OmniBook 19,AMD Ryzen 9 8945HS,8,1024,NVIDIA RTX 3050,13.3,2880,1800,OLED,66,Windows 11 Home,Firmware TPM,17200000
+2022,Apple MacBook Air 84,Apple M4 10-Core,8,256,Apple M4 10-Core GPU,16.1,1920,1080,IPS Retina,55,macOS,Touch ID,20800000
+2024,Lenovo Yoga 15,Intel Core i7-13700H,16,512,NVIDIA RTX 3050,14.0,2880,1800,OLED,39,Windows 11 Pro,IR Camera TPM 2.0,19000000
+2018,Lenovo Yoga 77,Intel Core i3-8130U,8,512,AMD Radeon Graphics,13.3,2560,1600,IPS,70,Windows 10 Home,IR Camera TPM 2.0,5300000
+2023,Lenovo Legion 83,Intel Core i7-13700H,16,1024,NVIDIA RTX 4050,16.1,3024,1964,OLED 120Hz,67,Windows 11 Home,Firmware TPM,16900000
+2021,Lenovo IdeaPad Slim 63,AMD Ryzen 5 4500U,8,1024,Intel UHD Graphics,13.3,3024,1964,IPS,59,Windows 10 Home,Fingerprint,9400000
+2022,Asus Zenbook 78,AMD Ryzen 5 7520U,8,512,NVIDIA RTX 4060,13.3,1920,1080,OLED,37,Windows 10 Home,IR Camera TPM 2.0,29600000
+2023,Acer Aspire 85,Intel Core i7-13700H,32,1024,Intel Iris Xe,14.2,1920,1080,IPS,43,Windows 10 Home,Firmware TPM,15600000
+2022,Apple MacBook Pro 61,Apple M3 8-Core,24,256,Apple M3 8-Core GPU,13.3,1920,1080,Liquid Retina,47,macOS,Touch ID Apple T2,31900000
+2019,Lenovo ThinkPad 70,Intel Core i3-8130U,16,512,Intel Iris Xe,14.0,1920,1200,IPS,64,Windows 11 Home,IR Camera TPM 2.0,9700000
+2019,Asus Zenbook 98,Intel Core i3-8130U,4,512,Intel Iris Xe,16.0,1920,1200,TN,70,Windows 11 Home,Firmware TPM,5700000
+2026,Asus ROG Zephyrus 44,Snapdragon X Elite X1E-78-100,32,2048,NVIDIA RTX 5070,13.6,2560,1600,IPS 165Hz,41,Windows 10 Home,Kensington Lock,29800000
+2020,Asus Vivobook 18,Intel Core i5-1035G1,8,512,Intel UHD Graphics,15.6,1366,768,IPS 144Hz,71,Windows 10 Home,Fingerprint,6500000
+2019,Lenovo ThinkPad 27,Intel Core i3-8130U,4,512,Intel UHD Graphics,15.6,3024,1964,TN,82,Windows 10 Home,Privacy Shutter,5700000
+2025,Asus TUF Gaming 98,AMD Ryzen 7 9840U,16,512,Qualcomm Adreno,14.2,1366,768,Mini LED 240Hz,44,Windows 11 Home,Fingerprint,17300000
+2021,MSI Katana 74,AMD Ryzen 3 3200U,4,256,AMD Radeon Graphics,13.6,1920,1080,IPS,61,Windows 11 Home,Firmware TPM,7000000
+2026,Lenovo IdeaPad Slim 59,Snapdragon X Elite X1E-78-100,64,1024,Qualcomm Adreno,15.6,2560,1600,IPS 165Hz,75,Windows 11 Pro,Privacy Shutter,25400000
+2020,Asus ROG Zephyrus 87,Intel Core i7-1165G7,4,512,NVIDIA RTX 3050,16.1,1920,1080,IPS,92,Windows 10 Home,Kensington Lock,9300000
+2021,MSI Cyborg 45,Intel Core i5-1035G1,16,512,AMD Radeon Graphics,13.6,2880,1800,TN,50,Windows 11 Pro,Kensington Lock,9700000
+2023,Dell Inspiron 56,Intel Core i7-13700H,32,512,NVIDIA RTX 4070,15.6,1920,1080,OLED 120Hz,74,Windows 11 Pro,Firmware TPM,32800000
+2018,Lenovo Yoga 13,Intel Core i3-8130U,8,1024,Intel Iris Xe,14.0,1920,1200,TN,46,Windows 11 Pro,IR Camera TPM 2.0,6200000
+2018,Lenovo Yoga 25,Intel Core i3-8130U,8,1024,NVIDIA GTX 1650,13.3,1920,1200,IPS 144Hz,56,Windows 11 Pro,Privacy Shutter,10700000
+2020,MSI Stealth 92,Intel Core i5-1035G1,16,1024,NVIDIA RTX 3050,13.6,1920,1080,IPS,72,Windows 11 Home,Privacy Shutter,14500000
+2022,Lenovo Yoga 11,AMD Ryzen 5 7520U,32,512,Intel Arc Graphics,16.1,1920,1080,OLED,94,Windows 11 Pro,Firmware TPM,19500000
+2019,Acer Swift 53,Intel Core i5-1035G1,8,512,Intel Iris Xe,13.3,3024,1964,IPS 144Hz,75,Windows 11 Pro,Kensington Lock,7700000
+2023,Acer Aspire 44,AMD Ryzen 9 8945HS,8,1024,AMD Radeon Graphics,16.0,1366,768,IPS,55,Windows 10 Home,Fingerprint,9800000
+2025,MSI Stealth 32,Snapdragon X Elite X1E-78-100,32,2048,NVIDIA RTX 4060,16.1,2880,1800,OLED 120Hz,85,Windows 11 Home,IR Camera TPM 2.0,42000000
+2020,Acer Aspire 15,Intel Core i7-1165G7,8,256,Intel UHD Graphics,13.6,1920,1080,IPS,59,Windows 11 Home,Kensington Lock,7600000
+2019,Dell Inspiron 54,AMD Ryzen 3 3200U,16,256,NVIDIA GTX 1650,13.6,2560,1600,IPS 144Hz,73,Windows 11 Pro,Firmware TPM,11300000
+2019,HP Victus 35,AMD Ryzen 7 5800H,16,1024,AMD Radeon Graphics,14.0,1920,1080,IPS 144Hz,54,Windows 11 Home,Firmware TPM,8800000
+2018,Acer Predator 30,Intel Core i3-8130U,8,256,AMD Radeon Graphics,16.0,2560,1600,IPS 144Hz,93,Windows 10 Home,Privacy Shutter,5300000
+2019,Asus Zenbook 32,Intel Core i3-8130U,8,256,AMD Radeon Graphics,14.2,3024,1964,IPS,66,Windows 11 Pro,Privacy Shutter,6000000
+2019,MSI Stealth 34,Intel Core i7-1165G7,4,512,Intel UHD Graphics,14.2,1920,1200,IPS,64,Windows 11 Home,IR Camera TPM 2.0,5300000
+2022,Dell Inspiron 30,Intel Core i5-1240P,32,1024,NVIDIA RTX 4070,16.1,1920,1080,OLED 120Hz,92,Windows 11 Pro,Kensington Lock,35700000
+2024,Apple MacBook Pro 79,Apple M2 8-Core,32,512,Apple M2 8-Core GPU,13.3,3024,1964,Liquid Retina XDR,60,macOS,Touch ID Apple T2,18100000
+2026,Apple MacBook Air 26,Apple M2 8-Core,16,256,Apple M2 8-Core GPU,13.6,2560,1600,IPS Retina,37,macOS,Touch ID Apple T2,15400000
+2024,Lenovo Yoga 87,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 3050,15.6,1920,1200,OLED 120Hz,75,Windows 11 Home,Privacy Shutter,19900000
+2018,Apple MacBook Pro 25,Intel Core i5-8210Y,8,128,Intel UHD Graphics,15.6,1920,1200,IPS Retina,61,macOS,Touch ID Apple T2,10800000
+2023,Acer Nitro 60,AMD Ryzen 7 7840HS,32,1024,Intel Iris Xe,14.0,1920,1080,IPS 144Hz,60,Windows 11 Pro,IR Camera TPM 2.0,16300000
+2024,Asus TUF Gaming 53,Intel Core i5-1240P,32,1024,AMD Radeon Graphics,13.3,1920,1200,OLED,56,Windows 11 Pro,Fingerprint,19500000
+2025,Apple MacBook Air 40,Apple M4 10-Core,32,512,Apple M4 10-Core GPU,14.0,2880,1800,Liquid Retina,61,macOS,Touch ID,37100000
+2025,Lenovo ThinkPad 73,Intel Core Ultra 7 258V,64,512,Intel Arc Graphics 140V,16.0,2560,1600,Mini LED 240Hz,87,Windows 11 Pro,Privacy Shutter,27700000
+2026,Dell Inspiron 33,Intel Core Ultra 7 258V,16,512,NVIDIA RTX 4060,14.0,1920,1200,OLED 120Hz,47,Windows 10 Home,Fingerprint,31300000
+2024,MSI Modern 98,Intel Core Ultra 7 155H,16,1024,Intel Arc Graphics,15.6,1920,1200,OLED 120Hz,90,Windows 10 Home,Fingerprint,15400000
+2022,MSI Modern 47,Intel Core i5-1240P,8,512,NVIDIA RTX 4070,16.0,3024,1964,IPS 144Hz,69,Windows 10 Home,IR Camera TPM 2.0,19700000
+2024,Dell Inspiron 98,Intel Core i7-13700H,32,512,NVIDIA RTX 4050,13.6,2880,1800,IPS,51,Windows 10 Home,IR Camera TPM 2.0,16600000
+2022,MSI Katana 65,AMD Ryzen 5 7520U,16,512,NVIDIA RTX 3050,16.0,2880,1800,OLED,88,Windows 11 Home,Privacy Shutter,19000000
+2018,Dell XPS 82,AMD Ryzen 5 4500U,8,512,Intel UHD Graphics,13.3,1920,1200,IPS,56,Windows 11 Pro,Firmware TPM,6600000
+2023,Apple MacBook Pro 44,Apple M2 8-Core,16,256,Apple M2 8-Core GPU,16.1,2560,1600,IPS Retina,93,macOS,Touch ID Apple T2,15300000
+2020,MSI Modern 94,Intel Core i7-1165G7,8,512,NVIDIA GTX 1650,13.3,3024,1964,IPS 144Hz,72,Windows 11 Home,Privacy Shutter,13600000
+2021,HP Victus 98,AMD Ryzen 7 5800H,8,1024,AMD Radeon Graphics,16.1,2880,1800,TN,97,Windows 11 Pro,IR Camera TPM 2.0,8200000
+2022,Asus TUF Gaming 27,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 4060,16.0,1920,1080,OLED,60,Windows 11 Pro,Privacy Shutter,32100000
+2022,Acer Nitro 58,Intel Core Ultra 7 155H,16,512,NVIDIA RTX 3050,16.1,2880,1800,IPS,95,Windows 11 Home,Firmware TPM,17100000
+2019,Acer Swift 75,AMD Ryzen 5 4500U,8,512,Intel UHD Graphics,13.6,1920,1200,TN,47,Windows 10 Home,IR Camera TPM 2.0,6700000
+2025,Lenovo Legion 34,AMD Ryzen 7 9840U,64,512,Qualcomm Adreno,13.3,2560,1600,IPS 165Hz,35,Windows 10 Home,IR Camera TPM 2.0,24000000
+2021,Apple MacBook Air 84,Apple M2 8-Core,16,1024,Apple M2 8-Core GPU,14.2,2560,1600,Liquid Retina,75,macOS,Touch ID,14400000
+2025,Acer Aspire 15,AMD Ryzen 7 9840U,16,1024,NVIDIA RTX 4070,13.3,3024,1964,OLED 120Hz,35,Windows 11 Pro,Fingerprint,28800000
+2023,HP Victus 24,AMD Ryzen 7 7840HS,16,512,Intel Iris Xe,14.0,2560,1600,IPS,53,Windows 11 Home,Firmware TPM,11800000
+2026,Dell XPS 66,AMD Ryzen 7 9840U,32,1024,AMD Radeon 880M,16.1,1366,768,OLED 120Hz,80,Windows 11 Pro,Fingerprint,20300000
+2020,Lenovo IdeaPad Slim 86,Intel Core i3-8130U,8,1024,Intel UHD Graphics,16.0,2880,1800,IPS,71,Windows 11 Pro,Fingerprint,8500000
+2018,Dell Inspiron 95,Intel Core i3-8130U,16,256,NVIDIA GTX 1650,14.2,2880,1800,IPS,42,Windows 10 Home,Kensington Lock,11900000
+2020,Lenovo IdeaPad Slim 49,AMD Ryzen 7 5800H,16,512,NVIDIA RTX 3050,16.0,2560,1600,IPS 144Hz,63,Windows 11 Home,Kensington Lock,16800000
+2019,Dell Inspiron 47,AMD Ryzen 3 3200U,4,1024,Intel Iris Xe,16.1,1920,1080,IPS,88,Windows 10 Home,Kensington Lock,6400000
+2024,HP Victus 16,Intel Core i7-13700H,32,1024,AMD Radeon Graphics,13.3,3024,1964,IPS 144Hz,35,Windows 11 Pro,IR Camera TPM 2.0,15800000
+2019,Apple MacBook Pro 30,Intel Core i5-8210Y,8,256,Intel UHD Graphics,16.0,2560,1600,Liquid Retina XDR,69,macOS,Touch ID,9300000
+2025,Asus Vivobook 33,AMD Ryzen 7 9840U,64,1024,NVIDIA RTX 4060,13.3,1366,768,IPS 165Hz,41,Windows 10 Home,Privacy Shutter,34200000
+2020,MSI Cyborg 53,AMD Ryzen 5 4500U,8,1024,Intel UHD Graphics,16.1,1920,1080,IPS,76,Windows 11 Home,IR Camera TPM 2.0,7500000
+2024,Acer Predator 45,AMD Ryzen 5 7520U,32,512,Intel Iris Xe,16.0,1920,1080,IPS 144Hz,58,Windows 11 Home,IR Camera TPM 2.0,15100000
+2024,Dell Alienware 83,Intel Core i7-13700H,32,1024,NVIDIA RTX 4070,15.6,3024,1964,OLED,56,Windows 11 Pro,IR Camera TPM 2.0,31800000
+2025,Asus TUF Gaming 67,AMD Ryzen 7 9840U,64,1024,Intel Arc Graphics 140V,16.1,2880,1800,IPS 165Hz,98,Windows 10 Home,Kensington Lock,25800000
+2021,MSI Katana 77,Intel Core i3-8130U,8,1024,Intel Iris Xe,14.0,1920,1080,IPS,59,Windows 11 Pro,Firmware TPM,9600000
+2026,Dell Inspiron 12,Snapdragon X 2nd Gen,32,1024,AMD Radeon 880M,16.1,1920,1200,OLED 120Hz,86,Windows 11 Pro,Fingerprint,20500000
+2022,Asus Zenbook 81,AMD Ryzen 5 7520U,8,512,NVIDIA RTX 3050,16.1,2560,1600,OLED 120Hz,91,Windows 11 Pro,IR Camera TPM 2.0,16100000
+2023,Asus TUF Gaming 94,AMD Ryzen 5 7520U,16,512,NVIDIA RTX 4050,16.1,2880,1800,IPS,60,Windows 10 Home,Kensington Lock,11600000
+2022,Dell Vostro 94,Intel Core Ultra 7 155H,16,512,NVIDIA RTX 4070,16.1,1920,1200,IPS 144Hz,84,Windows 11 Pro,IR Camera TPM 2.0,28700000
+2025,MSI Katana 68,Intel Core i9-16900HX,16,1024,Qualcomm Adreno,16.1,2880,1800,IPS 165Hz,73,Windows 10 Home,Kensington Lock,13300000
+2023,MSI Modern 16,Intel Core i7-13700H,32,1024,Intel Iris Xe,15.6,1920,1080,OLED,67,Windows 10 Home,IR Camera TPM 2.0,19500000
+2024,Lenovo ThinkPad 35,Intel Core i5-1240P,16,512,NVIDIA RTX 4060,16.1,2560,1600,IPS,83,Windows 11 Pro,Privacy Shutter,31200000
+2026,Lenovo ThinkPad 11,Snapdragon X 2nd Gen,32,2048,NVIDIA RTX 4060,16.1,3024,1964,IPS 165Hz,66,Windows 11 Pro,Kensington Lock,36400000
+2020,Asus TUF Gaming 95,Intel Core i7-1165G7,16,512,NVIDIA GTX 1650,16.0,1920,1200,IPS 144Hz,70,Windows 11 Pro,Firmware TPM,13900000
+2022,Acer Swift 28,AMD Ryzen 9 8945HS,32,1024,NVIDIA RTX 4070,16.0,3024,1964,OLED,90,Windows 11 Home,Firmware TPM,29400000
+2022,MSI Katana 97,AMD Ryzen 7 7840HS,32,1024,NVIDIA RTX 4060,16.1,2880,1800,IPS,77,Windows 10 Home,Fingerprint,31700000
+2024,MSI Katana 65,Intel Core i5-1240P,8,1024,Intel Arc Graphics,16.0,1920,1080,IPS,58,Windows 10 Home,Firmware TPM,10200000
+2020,HP Envy 29,Intel Core i5-1035G1,16,256,AMD Radeon Graphics,13.3,3024,1964,IPS,74,Windows 10 Home,Privacy Shutter,9600000
+2026,Apple MacBook Air 93,Apple M4 10-Core,24,1024,Apple M4 10-Core GPU,16.0,2560,1600,IPS Retina,58,macOS,Touch ID Apple T2,34700000
+2023,Dell Inspiron 12,Intel Core i7-13700H,32,1024,NVIDIA RTX 4070,16.0,1920,1200,IPS 144Hz,96,Windows 11 Pro,Privacy Shutter,34100000
+2021,Apple MacBook Air 48,Apple M4 10-Core,8,256,Apple M4 10-Core GPU,13.6,1366,768,IPS Retina,67,macOS,Touch ID Apple T2,24100000
+2022,Dell XPS 27,Intel Core Ultra 7 155H,8,1024,NVIDIA RTX 3050,13.3,1920,1200,IPS 144Hz,44,Windows 10 Home,Firmware TPM,14000000
+2022,Acer Nitro 20,AMD Ryzen 7 7840HS,8,512,NVIDIA RTX 4050,16.1,1920,1080,IPS,87,Windows 11 Pro,Privacy Shutter,8500000
+2026,Dell Alienware 22,Intel Core i9-16900HX,64,1024,Qualcomm Adreno,14.0,2880,1800,Mini LED 240Hz,48,Windows 11 Home,Fingerprint,30100000
+2026,Apple MacBook Air 25,Apple M2 8-Core,16,256,Apple M2 8-Core GPU,16.0,2560,1600,Liquid Retina,75,macOS,Touch ID Apple T2,15000000
+2022,Dell XPS 14,AMD Ryzen 7 7840HS,32,1024,NVIDIA RTX 3050,14.0,1920,1200,IPS,47,Windows 11 Pro,Privacy Shutter,19800000
+2019,Lenovo IdeaPad Slim 91,AMD Ryzen 7 5800H,16,256,NVIDIA GTX 1650,13.6,3024,1964,TN,69,Windows 10 Home,Fingerprint,15700000
+2024,MSI Modern 98,AMD Ryzen 5 7520U,32,1024,Intel Iris Xe,13.3,1920,1080,IPS,38,Windows 10 Home,Kensington Lock,17300000
+2022,Dell Inspiron 84,AMD Ryzen 5 7520U,16,1024,NVIDIA RTX 4060,14.2,1366,768,OLED 120Hz,55,Windows 10 Home,Privacy Shutter,30000000
+2026,Asus Vivobook 85,AMD Ryzen 7 9840U,64,512,Qualcomm Adreno,14.0,1366,768,IPS 165Hz,73,Windows 10 Home,Kensington Lock,24700000
+2025,Acer Predator 95,Intel Core i9-16900HX,64,512,AMD Radeon 880M,14.2,1920,1200,IPS 165Hz,69,Windows 10 Home,IR Camera TPM 2.0,24800000
+2020,HP Envy 12,Intel Core i5-1035G1,4,256,Intel UHD Graphics,15.6,2880,1800,IPS 144Hz,80,Windows 11 Pro,Firmware TPM,6200000
+2019,HP Victus 55,AMD Ryzen 7 5800H,16,256,Intel Iris Xe,13.6,1920,1200,TN,74,Windows 10 Home,IR Camera TPM 2.0,7900000
+2019,Lenovo IdeaPad Slim 81,Intel Core i3-8130U,8,1024,Intel UHD Graphics,13.3,3024,1964,IPS,47,Windows 11 Home,Firmware TPM,7900000
+2025,HP Envy 27,Intel Core Ultra 7 258V,32,2048,Intel Arc Graphics 140V,14.0,2560,1600,OLED 120Hz,66,Windows 11 Pro,Fingerprint,22400000
+2022,MSI Cyborg 83,Intel Core Ultra 7 155H,16,512,Intel Iris Xe,13.6,3024,1964,OLED,49,Windows 11 Pro,Privacy Shutter,15300000
+2022,Apple MacBook Pro 28,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,16.1,2560,1600,Liquid Retina,74,macOS,Touch ID Apple T2,33700000
+2019,Apple MacBook Pro 28,Apple M1 8-Core,8,512,Apple M1 7-Core GPU,13.3,2880,1800,Liquid Retina,36,macOS,Touch ID,10600000
+2024,Apple MacBook Air 15,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,16.1,1920,1200,Liquid Retina XDR,64,macOS,Touch ID Apple T2,35000000
+2022,Lenovo ThinkPad 75,AMD Ryzen 5 7520U,16,512,NVIDIA RTX 4060,16.1,3024,1964,IPS 144Hz,94,Windows 11 Pro,Kensington Lock,22000000
+2026,Lenovo ThinkPad 31,Snapdragon X 2nd Gen,64,512,NVIDIA RTX 5070,14.2,1366,768,IPS 165Hz,57,Windows 10 Home,Firmware TPM,37300000
+2025,Lenovo IdeaPad Slim 44,Intel Core Ultra 7 258V,64,512,NVIDIA RTX 4070,14.2,2560,1600,Mini LED 240Hz,65,Windows 11 Home,Fingerprint,35800000
+2023,Asus ROG Zephyrus 44,AMD Ryzen 7 7840HS,8,1024,NVIDIA RTX 4060,14.0,3024,1964,OLED 120Hz,72,Windows 11 Pro,Firmware TPM,23000000
+2024,Lenovo ThinkPad 56,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 4050,14.2,1920,1080,IPS 144Hz,45,Windows 11 Home,IR Camera TPM 2.0,15000000
+2026,MSI Katana 38,Intel Core i9-16900HX,32,2048,NVIDIA RTX 5070,16.0,2560,1600,OLED 120Hz,69,Windows 10 Home,Fingerprint,35400000
+2025,Acer Swift 86,Intel Core Ultra 7 258V,16,512,AMD Radeon 880M,15.6,1920,1080,IPS 165Hz,65,Windows 10 Home,IR Camera TPM 2.0,12800000
+2026,Asus Zenbook 18,Intel Core i9-16900HX,64,1024,NVIDIA RTX 4070,16.0,3024,1964,IPS 165Hz,56,Windows 10 Home,Privacy Shutter,45700000
+2022,Asus Zenbook 68,AMD Ryzen 5 7520U,8,512,NVIDIA RTX 4070,15.6,2880,1800,OLED 120Hz,64,Windows 11 Pro,IR Camera TPM 2.0,24700000
+2026,HP Victus 98,Snapdragon X 2nd Gen,64,512,AMD Radeon 880M,14.2,1366,768,Mini LED 240Hz,43,Windows 11 Home,IR Camera TPM 2.0,26600000
+2026,Apple MacBook Pro 30,Apple M3 8-Core,8,1024,Apple M3 8-Core GPU,15.6,1366,768,IPS Retina,62,macOS,Touch ID,32000000
+2026,Apple MacBook Air 97,Apple M3 8-Core,24,256,Apple M3 8-Core GPU,16.0,2560,1600,Liquid Retina XDR,88,macOS,Touch ID Apple T2,31200000
+2024,HP OmniBook 84,Intel Core i7-13700H,16,1024,NVIDIA RTX 4070,16.1,1920,1200,IPS 144Hz,60,Windows 10 Home,IR Camera TPM 2.0,31500000
+2026,Acer Nitro 35,Snapdragon X 2nd Gen,64,512,NVIDIA RTX 4070,14.2,3024,1964,OLED 120Hz,48,Windows 10 Home,Kensington Lock,41800000
+2019,Lenovo ThinkPad 94,Intel Core i7-1165G7,16,512,NVIDIA RTX 3050,15.6,3024,1964,IPS,72,Windows 11 Pro,Privacy Shutter,14100000
+2021,Acer Predator 33,AMD Ryzen 5 4500U,8,512,AMD Radeon Graphics,14.0,3024,1964,IPS 144Hz,60,Windows 11 Home,Firmware TPM,7400000
+2019,MSI Cyborg 68,Intel Core i3-8130U,4,1024,NVIDIA GTX 1650,16.1,2880,1800,IPS,90,Windows 11 Pro,Fingerprint,13000000
+2018,Lenovo ThinkPad 92,Intel Core i5-1035G1,8,1024,NVIDIA GTX 1650,13.3,1920,1080,TN,51,Windows 10 Home,Kensington Lock,10800000
+2018,MSI Stealth 62,Intel Core i7-1165G7,16,1024,Intel UHD Graphics,16.0,2560,1600,TN,86,Windows 11 Pro,Firmware TPM,8100000
+2021,Apple MacBook Pro 35,Apple M4 10-Core,16,1024,Apple M4 10-Core GPU,13.6,1920,1200,Liquid Retina XDR,37,macOS,Touch ID,26600000
+2020,Asus ROG Zephyrus 62,AMD Ryzen 3 3200U,16,256,NVIDIA RTX 3050,16.0,1366,768,TN,59,Windows 11 Home,IR Camera TPM 2.0,14000000
+2026,Dell XPS 55,Snapdragon X 2nd Gen,16,1024,NVIDIA RTX 4060,13.3,1920,1080,IPS 165Hz,51,Windows 11 Home,Fingerprint,28700000
+2019,Dell Inspiron 75,Intel Core i3-8130U,16,512,NVIDIA RTX 3050,14.0,2560,1600,IPS 144Hz,63,Windows 11 Home,Privacy Shutter,14200000
+2021,Apple MacBook Pro 69,Apple M2 8-Core,32,256,Apple M2 8-Core GPU,14.0,2560,1600,Liquid Retina XDR,39,macOS,Touch ID Apple T2,19000000
+2021,MSI Cyborg 51,AMD Ryzen 5 4500U,16,256,AMD Radeon Graphics,14.0,2560,1600,TN,40,Windows 11 Home,Privacy Shutter,10100000
+2023,Asus Zenbook 71,Intel Core i7-13700H,32,1024,Intel Arc Graphics,14.2,1920,1080,IPS 144Hz,47,Windows 11 Home,Privacy Shutter,16600000
+2021,Apple MacBook Pro 37,Apple M2 8-Core,24,256,Apple M2 8-Core GPU,16.1,1366,768,IPS Retina,61,macOS,Touch ID,14400000
+2025,Dell Inspiron 80,AMD Ryzen 7 9840U,64,1024,NVIDIA RTX 4060,16.1,2560,1600,IPS 165Hz,72,Windows 10 Home,IR Camera TPM 2.0,36900000
+2026,HP Spectre 39,Intel Core Ultra 7 258V,64,1024,NVIDIA RTX 4060,13.3,1920,1200,IPS 165Hz,67,Windows 11 Pro,Fingerprint,41200000
+2020,Acer Aspire 77,AMD Ryzen 7 5800H,4,256,Intel Iris Xe,15.6,1920,1200,IPS,61,Windows 11 Home,Privacy Shutter,5800000
+2022,Lenovo Legion 41,AMD Ryzen 7 7840HS,16,1024,Intel Arc Graphics,14.2,2560,1600,OLED 120Hz,48,Windows 11 Home,IR Camera TPM 2.0,17000000
+2023,HP Spectre 46,AMD Ryzen 7 7840HS,8,512,NVIDIA RTX 4070,16.0,1920,1080,IPS,72,Windows 11 Home,Fingerprint,26500000
+2024,Lenovo Yoga 30,Intel Core i7-13700H,16,1024,Intel Arc Graphics,16.1,1920,1200,OLED,86,Windows 11 Home,Kensington Lock,15900000
+2018,Acer Aspire 99,Intel Core i5-1035G1,8,512,Intel UHD Graphics,16.0,1920,1200,IPS,76,Windows 10 Home,Kensington Lock,6000000
+2023,Dell XPS 55,Intel Core i5-1240P,16,512,NVIDIA RTX 4050,16.1,1920,1200,IPS 144Hz,73,Windows 10 Home,IR Camera TPM 2.0,10900000
+2026,Acer Predator 21,AMD Ryzen 7 9840U,32,2048,AMD Radeon 880M,16.0,2560,1600,OLED 120Hz,76,Windows 11 Home,Firmware TPM,24300000
+2024,Apple MacBook Air 21,Apple M2 8-Core,24,512,Apple M2 8-Core GPU,16.0,3024,1964,Liquid Retina,73,macOS,Touch ID,17300000
+2024,HP Spectre 57,AMD Ryzen 7 7840HS,16,1024,Intel Arc Graphics,16.1,1920,1080,IPS 144Hz,56,Windows 11 Pro,Firmware TPM,13200000
+2021,MSI Katana 21,AMD Ryzen 3 3200U,4,256,Intel UHD Graphics,15.6,1366,768,IPS,58,Windows 10 Home,Fingerprint,7300000
+2024,Dell Inspiron 24,Intel Core i7-13700H,8,1024,AMD Radeon Graphics,13.6,2560,1600,IPS 144Hz,53,Windows 11 Home,Firmware TPM,10900000
+2020,Lenovo Yoga 14,Intel Core i7-1165G7,8,512,NVIDIA RTX 3050,15.6,1920,1080,IPS,83,Windows 10 Home,Privacy Shutter,14900000
+2026,Lenovo ThinkPad 91,Snapdragon X Elite X1E-78-100,64,2048,NVIDIA RTX 5070,14.0,2560,1600,IPS 165Hz,57,Windows 11 Pro,Firmware TPM,43900000
+2019,Acer Nitro 57,Intel Core i5-1035G1,8,256,Intel UHD Graphics,16.1,1920,1200,IPS 144Hz,63,Windows 11 Home,Privacy Shutter,6100000
+2025,Dell Inspiron 99,AMD Ryzen 7 9840U,16,1024,Qualcomm Adreno,13.6,2880,1800,IPS 165Hz,35,Windows 11 Home,IR Camera TPM 2.0,13000000
+2021,Acer Predator 61,AMD Ryzen 7 5800H,16,1024,NVIDIA GTX 1650,13.6,1366,768,IPS,51,Windows 10 Home,Fingerprint,15900000
+2021,Dell XPS 47,Intel Core i7-1165G7,8,256,Intel UHD Graphics,13.6,1366,768,TN,53,Windows 11 Pro,Firmware TPM,8000000
+2025,Dell Alienware 45,Snapdragon X Elite X1E-78-100,16,1024,Intel Arc Graphics 140V,13.3,1366,768,OLED 120Hz,69,Windows 11 Pro,Firmware TPM,15200000
+2022,HP Victus 67,Intel Core i7-13700H,8,512,Intel Iris Xe,13.6,2560,1600,OLED 120Hz,56,Windows 11 Pro,Kensington Lock,12600000
+2025,HP Spectre 15,Intel Core i9-16900HX,16,1024,NVIDIA RTX 4060,15.6,1920,1080,OLED 120Hz,85,Windows 11 Home,Kensington Lock,28200000
+2024,Apple MacBook Air 26,Apple M3 8-Core,16,1024,Apple M3 8-Core GPU,13.3,2560,1600,Liquid Retina,47,macOS,Touch ID,26800000
+2021,Acer Predator 98,Intel Core i5-1035G1,16,1024,Intel UHD Graphics,15.6,1366,768,IPS 144Hz,88,Windows 11 Home,Privacy Shutter,10400000
+2025,MSI Katana 36,Intel Core i9-16900HX,16,512,NVIDIA RTX 5070,14.0,1920,1080,Mini LED 240Hz,35,Windows 11 Home,Kensington Lock,28800000
+2024,Apple MacBook Air 12,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,15.6,1920,1200,Liquid Retina XDR,64,macOS,Touch ID,28500000
+2025,Asus ROG Zephyrus 91,AMD Ryzen 7 9840U,64,512,NVIDIA RTX 5070,16.1,1920,1080,IPS 165Hz,61,Windows 10 Home,Kensington Lock,40100000
+2023,Dell XPS 67,Intel Core i5-1240P,32,1024,AMD Radeon Graphics,14.0,2560,1600,IPS 144Hz,37,Windows 11 Pro,Fingerprint,16500000
+2025,Dell XPS 80,Intel Core i9-16900HX,64,512,NVIDIA RTX 4070,14.0,1920,1200,Mini LED 240Hz,64,Windows 11 Pro,IR Camera TPM 2.0,46200000
+2019,Dell Vostro 68,AMD Ryzen 5 4500U,8,512,Intel UHD Graphics,15.6,3024,1964,IPS 144Hz,79,Windows 11 Home,Privacy Shutter,6300000
+2018,Dell XPS 90,AMD Ryzen 7 5800H,4,1024,NVIDIA RTX 3050,13.6,3024,1964,IPS,68,Windows 10 Home,Privacy Shutter,11700000
+2026,Lenovo Legion 52,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 5070,13.3,1920,1080,OLED 120Hz,43,Windows 11 Home,Privacy Shutter,26000000
+2025,Lenovo IdeaPad Slim 15,Snapdragon X Elite X1E-78-100,64,2048,NVIDIA RTX 5070,14.0,1920,1200,IPS 165Hz,38,Windows 11 Pro,IR Camera TPM 2.0,38700000
+2019,Asus Zenbook 94,AMD Ryzen 3 3200U,16,256,AMD Radeon Graphics,16.0,1920,1200,IPS 144Hz,81,Windows 11 Home,Kensington Lock,9100000
+2018,Apple MacBook Pro 78,Intel Core i5-8210Y,16,128,Intel UHD Graphics,13.6,1366,768,Liquid Retina XDR,68,macOS,Touch ID,10600000
+2021,Dell Alienware 35,AMD Ryzen 7 5800H,4,1024,Intel Iris Xe,16.0,2560,1600,IPS 144Hz,90,Windows 10 Home,Firmware TPM,8400000
+2019,Apple MacBook Pro 97,Apple M1 8-Core,16,128,Apple M1 7-Core GPU,13.6,2880,1800,Liquid Retina XDR,46,macOS,Touch ID Apple T2,12000000
+2023,MSI Cyborg 79,Intel Core Ultra 7 155H,16,1024,NVIDIA RTX 4070,14.2,2560,1600,OLED,75,Windows 11 Pro,IR Camera TPM 2.0,29500000
+2026,Lenovo ThinkPad 81,AMD Ryzen 7 9840U,32,1024,NVIDIA RTX 4060,16.0,1920,1200,OLED 120Hz,57,Windows 11 Pro,Privacy Shutter,38000000
+2020,HP Pavilion 49,Intel Core i7-1165G7,4,1024,AMD Radeon Graphics,15.6,2880,1800,IPS 144Hz,90,Windows 10 Home,Fingerprint,8200000
+2020,Asus Vivobook 69,Intel Core i5-1035G1,8,512,NVIDIA RTX 3050,13.6,1920,1200,TN,51,Windows 11 Home,Fingerprint,11000000
+2024,Dell Vostro 20,AMD Ryzen 5 7520U,8,1024,NVIDIA RTX 4070,15.6,1920,1200,IPS,96,Windows 11 Pro,Privacy Shutter,19800000
+2024,Asus Vivobook 53,AMD Ryzen 5 7520U,8,512,NVIDIA RTX 4060,16.0,2560,1600,IPS,95,Windows 11 Home,IR Camera TPM 2.0,18400000
+2026,Asus ROG Zephyrus 80,AMD Ryzen 7 9840U,64,2048,AMD Radeon 880M,13.3,2560,1600,OLED 120Hz,60,Windows 11 Pro,Fingerprint,32100000
+2026,Asus Zenbook 66,Intel Core i9-16900HX,16,1024,Intel Arc Graphics 140V,15.6,2880,1800,Mini LED 240Hz,58,Windows 11 Home,IR Camera TPM 2.0,17100000
+2019,Acer Predator 27,AMD Ryzen 5 4500U,4,512,NVIDIA GTX 1650,15.6,2880,1800,IPS 144Hz,67,Windows 10 Home,IR Camera TPM 2.0,12000000
+2026,Lenovo Yoga 20,AMD Ryzen 7 9840U,64,2048,Intel Arc Graphics 140V,16.0,2560,1600,OLED 120Hz,81,Windows 11 Home,IR Camera TPM 2.0,30600000
+2021,HP Envy 87,Intel Core i7-1165G7,4,512,NVIDIA RTX 3050,15.6,2560,1600,IPS,64,Windows 11 Pro,Kensington Lock,11200000
+2021,Lenovo Legion 30,Intel Core i3-8130U,16,256,Intel Iris Xe,13.6,1366,768,IPS 144Hz,53,Windows 11 Pro,Kensington Lock,9400000
+2019,HP Spectre 71,Intel Core i5-1035G1,16,1024,Intel Iris Xe,15.6,1920,1200,TN,88,Windows 10 Home,Privacy Shutter,9800000
+2025,Dell Vostro 99,Snapdragon X Elite X1E-78-100,64,2048,NVIDIA RTX 4070,14.0,1366,768,OLED 120Hz,45,Windows 11 Pro,Kensington Lock,43000000
+2022,Asus TUF Gaming 94,AMD Ryzen 5 7520U,32,1024,NVIDIA RTX 4060,16.1,1366,768,OLED,61,Windows 10 Home,Kensington Lock,32900000
+2021,Acer Aspire 51,AMD Ryzen 5 4500U,4,256,Intel Iris Xe,14.2,3024,1964,IPS 144Hz,70,Windows 11 Home,Firmware TPM,5700000
+2018,Lenovo Legion 53,AMD Ryzen 7 5800H,4,256,AMD Radeon Graphics,14.0,3024,1964,IPS 144Hz,57,Windows 11 Home,IR Camera TPM 2.0,4500000
+2021,Dell XPS 18,AMD Ryzen 3 3200U,4,1024,AMD Radeon Graphics,13.6,2560,1600,TN,56,Windows 11 Pro,Privacy Shutter,8200000
+2020,Asus TUF Gaming 77,AMD Ryzen 7 5800H,16,256,NVIDIA GTX 1650,15.6,2560,1600,TN,64,Windows 11 Pro,Firmware TPM,14300000
+2023,Acer Swift 37,AMD Ryzen 7 7840HS,32,512,NVIDIA RTX 4070,14.0,1920,1080,IPS 144Hz,68,Windows 11 Pro,Fingerprint,31400000
+2020,MSI Cyborg 51,AMD Ryzen 5 4500U,16,256,Intel Iris Xe,16.1,3024,1964,IPS,64,Windows 10 Home,Firmware TPM,8100000
+2023,Acer Predator 49,Intel Core i7-13700H,8,512,Intel Arc Graphics,13.3,2880,1800,IPS 144Hz,74,Windows 11 Home,Privacy Shutter,8800000
+2021,Dell Vostro 40,Intel Core i7-1165G7,4,1024,NVIDIA GTX 1650,15.6,2560,1600,TN,93,Windows 11 Pro,Kensington Lock,14200000
+2023,Lenovo ThinkPad 73,Intel Core i7-13700H,8,512,Intel Iris Xe,16.1,1920,1200,OLED 120Hz,55,Windows 11 Home,Fingerprint,12500000
+2021,Apple MacBook Air 19,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,14.0,1920,1080,Liquid Retina,64,macOS,Touch ID,34300000
+2018,Dell Alienware 51,AMD Ryzen 7 5800H,16,1024,NVIDIA RTX 3050,16.0,2880,1800,IPS 144Hz,57,Windows 11 Home,Firmware TPM,12400000
+2025,Apple MacBook Air 42,Apple M2 8-Core,32,1024,Apple M2 8-Core GPU,16.1,1366,768,Liquid Retina XDR,95,macOS,Touch ID Apple T2,19600000
+2025,Acer Nitro 47,Snapdragon X Elite X1E-78-100,32,2048,Intel Arc Graphics 140V,15.6,2560,1600,IPS 165Hz,64,Windows 11 Home,Fingerprint,19500000
+2025,Asus Vivobook 34,Intel Core i9-16900HX,32,1024,Qualcomm Adreno,13.3,2560,1600,Mini LED 240Hz,46,Windows 11 Pro,Firmware TPM,22600000
+2021,Acer Aspire 43,AMD Ryzen 7 5800H,16,256,Intel UHD Graphics,16.0,3024,1964,TN,83,Windows 11 Home,Fingerprint,9400000
+2019,Dell Alienware 76,AMD Ryzen 3 3200U,16,512,Intel UHD Graphics,14.0,3024,1964,TN,71,Windows 11 Pro,Fingerprint,9700000
+2020,Lenovo Yoga 33,AMD Ryzen 3 3200U,8,512,NVIDIA GTX 1650,16.0,1366,768,IPS,66,Windows 11 Pro,Kensington Lock,13500000
+2021,Asus ROG Zephyrus 12,AMD Ryzen 3 3200U,16,256,NVIDIA RTX 3050,13.6,2880,1800,IPS,48,Windows 11 Home,IR Camera TPM 2.0,15400000
+2025,Acer Predator 21,Intel Core Ultra 7 258V,16,2048,Qualcomm Adreno,16.0,1920,1080,IPS 165Hz,90,Windows 11 Pro,Firmware TPM,13900000
+2020,Lenovo IdeaPad Slim 94,Intel Core i5-1035G1,4,1024,NVIDIA RTX 3050,14.0,1366,768,IPS 144Hz,56,Windows 11 Home,Kensington Lock,9700000
+2024,Lenovo Yoga 97,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 3050,13.3,1920,1200,OLED,40,Windows 11 Home,Firmware TPM,24700000
+2024,Apple MacBook Air 65,Apple M3 8-Core,16,256,Apple M3 8-Core GPU,16.0,1920,1200,Liquid Retina,72,macOS,Touch ID,32200000
+2021,MSI Cyborg 89,AMD Ryzen 5 4500U,16,1024,NVIDIA RTX 3050,14.2,3024,1964,TN,73,Windows 10 Home,Kensington Lock,14900000
+2023,HP OmniBook 84,Intel Core i7-13700H,32,1024,NVIDIA RTX 4050,14.2,2880,1800,OLED 120Hz,46,Windows 11 Pro,Privacy Shutter,19500000
+2022,Lenovo IdeaPad Slim 26,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 4070,14.2,1920,1200,OLED 120Hz,37,Windows 10 Home,IR Camera TPM 2.0,27600000
+2021,Asus Zenbook 99,Intel Core i3-8130U,8,512,NVIDIA RTX 3050,14.0,1366,768,IPS 144Hz,35,Windows 11 Home,Privacy Shutter,13600000
+2023,Acer Aspire 33,Intel Core Ultra 7 155H,32,1024,NVIDIA RTX 3050,16.0,2560,1600,IPS,63,Windows 10 Home,Privacy Shutter,20000000
+2025,Apple MacBook Pro 70,Apple M2 8-Core,24,1024,Apple M2 8-Core GPU,16.0,1920,1200,Liquid Retina XDR,98,macOS,Touch ID Apple T2,19700000
+2018,Lenovo Legion 56,Intel Core i7-1165G7,4,512,NVIDIA GTX 1650,15.6,2880,1800,IPS 144Hz,65,Windows 10 Home,Fingerprint,10600000
+2020,Dell Inspiron 50,AMD Ryzen 7 5800H,4,512,NVIDIA GTX 1650,14.2,1920,1200,TN,50,Windows 11 Pro,Privacy Shutter,12100000
+2022,Lenovo Legion 33,Intel Core i5-1240P,8,512,NVIDIA RTX 3050,16.1,2880,1800,IPS,85,Windows 10 Home,Privacy Shutter,11700000
+2023,Acer Nitro 52,AMD Ryzen 7 7840HS,32,512,Intel Arc Graphics,14.2,3024,1964,IPS,59,Windows 10 Home,Kensington Lock,16100000
+2026,Asus Vivobook 50,Intel Core Ultra 7 258V,32,1024,Intel Arc Graphics 140V,15.6,3024,1964,OLED 120Hz,97,Windows 10 Home,Firmware TPM,20200000
+2022,MSI Cyborg 52,Intel Core Ultra 7 155H,16,1024,NVIDIA RTX 4070,16.0,1920,1200,OLED 120Hz,62,Windows 10 Home,Fingerprint,24200000
+2019,Asus Vivobook 37,AMD Ryzen 5 4500U,8,512,Intel Iris Xe,16.1,2880,1800,IPS 144Hz,73,Windows 11 Pro,Privacy Shutter,6400000
+2020,Asus ROG Zephyrus 89,AMD Ryzen 3 3200U,4,256,Intel UHD Graphics,16.0,1366,768,IPS,58,Windows 11 Home,Firmware TPM,5900000
+2018,Asus TUF Gaming 61,AMD Ryzen 5 4500U,16,1024,NVIDIA GTX 1650,14.0,1920,1200,IPS 144Hz,54,Windows 10 Home,Firmware TPM,14900000
+2026,Asus TUF Gaming 83,Snapdragon X Elite X1E-78-100,16,1024,Qualcomm Adreno,16.0,2560,1600,IPS 165Hz,84,Windows 10 Home,Kensington Lock,13300000
+2021,Lenovo Legion 57,AMD Ryzen 7 5800H,16,512,AMD Radeon Graphics,14.2,1366,768,IPS,36,Windows 11 Home,Fingerprint,10100000
+2019,HP Spectre 70,Intel Core i7-1165G7,16,1024,Intel Iris Xe,13.3,3024,1964,IPS 144Hz,60,Windows 10 Home,Privacy Shutter,10300000
+2019,HP OmniBook 94,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,13.6,1920,1080,IPS,74,Windows 10 Home,Privacy Shutter,11500000
+2025,Acer Aspire 54,Snapdragon X Elite X1E-78-100,32,2048,Qualcomm Adreno,16.0,1920,1080,IPS 165Hz,70,Windows 10 Home,Firmware TPM,19200000
+2019,MSI Stealth 25,AMD Ryzen 3 3200U,8,1024,Intel UHD Graphics,13.6,2560,1600,IPS,54,Windows 11 Pro,Firmware TPM,6800000
+2019,MSI Stealth 52,Intel Core i3-8130U,4,256,NVIDIA RTX 3050,16.1,1920,1080,IPS 144Hz,55,Windows 11 Home,Kensington Lock,10600000
+2025,Dell XPS 60,Snapdragon X Elite X1E-78-100,16,512,NVIDIA RTX 5070,14.0,3024,1964,Mini LED 240Hz,71,Windows 11 Pro,Firmware TPM,29900000
+2023,Asus Vivobook 89,Intel Core i7-13700H,16,512,AMD Radeon Graphics,13.3,1920,1200,IPS,70,Windows 11 Pro,IR Camera TPM 2.0,10500000
+2022,Apple MacBook Air 41,Apple M4 10-Core,32,1024,Apple M4 10-Core GPU,14.0,2560,1600,Liquid Retina XDR,59,macOS,Touch ID Apple T2,33800000
+2021,MSI Cyborg 71,AMD Ryzen 5 4500U,8,512,NVIDIA GTX 1650,14.0,1920,1080,TN,43,Windows 10 Home,Fingerprint,10300000
+2018,Lenovo ThinkPad 95,Intel Core i3-8130U,4,1024,NVIDIA GTX 1650,16.1,2880,1800,IPS,99,Windows 11 Home,Fingerprint,12800000
+2020,Acer Predator 81,Intel Core i7-1165G7,4,256,NVIDIA GTX 1650,13.3,2560,1600,IPS 144Hz,71,Windows 11 Home,IR Camera TPM 2.0,13200000
+2021,MSI Katana 63,Intel Core i7-1165G7,4,256,NVIDIA RTX 3050,16.0,1366,768,IPS,78,Windows 11 Pro,Firmware TPM,12100000
+2019,Lenovo Legion 70,AMD Ryzen 5 4500U,16,256,Intel Iris Xe,16.0,3024,1964,IPS,97,Windows 11 Pro,Kensington Lock,7600000
+2026,Apple MacBook Pro 89,Apple M4 10-Core,8,512,Apple M4 10-Core GPU,14.2,2560,1600,Liquid Retina,67,macOS,Touch ID,32000000
+2023,Apple MacBook Pro 48,Apple M4 10-Core,24,1024,Apple M4 10-Core GPU,16.1,1920,1200,IPS Retina,91,macOS,Touch ID,27700000
+2020,Dell Inspiron 95,Intel Core i3-8130U,8,512,Intel UHD Graphics,15.6,1920,1200,TN,59,Windows 11 Home,Firmware TPM,7000000
+2020,Dell XPS 46,AMD Ryzen 7 5800H,4,1024,Intel Iris Xe,16.0,3024,1964,IPS 144Hz,64,Windows 11 Home,Kensington Lock,7200000
+2023,Apple MacBook Air 44,Apple M2 8-Core,8,512,Apple M2 8-Core GPU,13.3,2880,1800,Liquid Retina,44,macOS,Touch ID,12700000
+2025,Apple MacBook Pro 60,Apple M3 8-Core,16,256,Apple M3 8-Core GPU,15.6,1366,768,Liquid Retina XDR,77,macOS,Touch ID,34600000
+2019,Asus Zenbook 70,Intel Core i7-1165G7,8,1024,NVIDIA RTX 3050,14.2,2560,1600,TN,59,Windows 11 Home,IR Camera TPM 2.0,11000000
+2026,Apple MacBook Pro 12,Apple M3 8-Core,24,1024,Apple M3 8-Core GPU,16.0,1366,768,Liquid Retina,57,macOS,Touch ID Apple T2,37200000
+2024,Dell XPS 53,Intel Core i5-1240P,16,1024,NVIDIA RTX 3050,16.0,2880,1800,IPS 144Hz,98,Windows 11 Home,Privacy Shutter,18300000
+2026,HP Victus 51,Intel Core Ultra 7 258V,16,512,NVIDIA RTX 4060,15.6,3024,1964,OLED 120Hz,61,Windows 11 Pro,Kensington Lock,31500000
+2022,HP Victus 15,Intel Core i5-1240P,8,512,NVIDIA RTX 4050,16.0,1366,768,IPS,62,Windows 10 Home,Firmware TPM,9500000
+2020,Acer Swift 25,Intel Core i7-1165G7,8,512,Intel UHD Graphics,14.2,2560,1600,IPS 144Hz,52,Windows 11 Pro,Fingerprint,7900000
+2023,HP Victus 20,AMD Ryzen 5 7520U,16,1024,Intel Iris Xe,16.1,1920,1080,OLED,71,Windows 11 Home,Kensington Lock,15000000
+2025,Lenovo ThinkPad 33,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 4060,15.6,1366,768,OLED 120Hz,96,Windows 11 Pro,IR Camera TPM 2.0,32500000
+2018,Asus Vivobook 84,AMD Ryzen 3 3200U,4,512,Intel Iris Xe,16.0,1366,768,IPS 144Hz,55,Windows 11 Pro,Privacy Shutter,5700000
+2024,HP Victus 53,Intel Core i5-1240P,32,1024,NVIDIA RTX 3050,14.2,2880,1800,OLED 120Hz,39,Windows 11 Home,Firmware TPM,22400000
+2025,Asus ROG Zephyrus 53,Snapdragon X Elite X1E-78-100,16,2048,NVIDIA RTX 5070,14.0,1920,1200,OLED 120Hz,69,Windows 11 Pro,Privacy Shutter,28600000
+2022,MSI Cyborg 33,AMD Ryzen 5 7520U,32,512,AMD Radeon Graphics,13.3,3024,1964,OLED 120Hz,75,Windows 11 Pro,Kensington Lock,18200000
+2019,MSI Stealth 35,Intel Core i5-1035G1,4,1024,NVIDIA RTX 3050,14.2,1366,768,TN,59,Windows 10 Home,Kensington Lock,13100000
+2022,Acer Predator 13,Intel Core i5-1240P,16,512,NVIDIA RTX 3050,13.6,2560,1600,IPS,68,Windows 10 Home,Privacy Shutter,18000000
+2026,Lenovo Yoga 20,Snapdragon X Elite X1E-78-100,64,512,NVIDIA RTX 4060,13.3,3024,1964,IPS 165Hz,50,Windows 10 Home,Fingerprint,43200000
+2018,Lenovo IdeaPad Slim 50,AMD Ryzen 5 4500U,4,1024,Intel UHD Graphics,13.3,2880,1800,TN,66,Windows 10 Home,IR Camera TPM 2.0,6700000
+2021,Asus Zenbook 65,Intel Core i7-1165G7,4,1024,NVIDIA RTX 3050,13.6,1920,1080,IPS 144Hz,55,Windows 11 Home,IR Camera TPM 2.0,13100000
+2020,HP Pavilion 26,AMD Ryzen 3 3200U,4,1024,AMD Radeon Graphics,13.6,1920,1080,IPS 144Hz,63,Windows 11 Home,Fingerprint,8200000
+2018,Lenovo IdeaPad Slim 91,Intel Core i5-1035G1,4,512,Intel UHD Graphics,13.3,1366,768,TN,46,Windows 11 Pro,IR Camera TPM 2.0,5800000
+2022,Acer Predator 99,Intel Core i7-13700H,32,1024,NVIDIA RTX 4050,14.2,1920,1080,OLED 120Hz,50,Windows 10 Home,Fingerprint,20400000
+2018,Dell Vostro 74,AMD Ryzen 7 5800H,8,512,NVIDIA GTX 1650,15.6,1920,1080,TN,70,Windows 11 Pro,Kensington Lock,9900000
+2019,Dell XPS 80,AMD Ryzen 3 3200U,16,1024,Intel Iris Xe,13.3,1366,768,IPS,47,Windows 11 Pro,Fingerprint,10300000
+2020,MSI Stealth 74,AMD Ryzen 7 5800H,4,256,AMD Radeon Graphics,13.6,1920,1200,IPS,62,Windows 10 Home,Fingerprint,5800000
+2025,Asus Vivobook 17,Intel Core i9-16900HX,16,1024,NVIDIA RTX 4070,13.3,3024,1964,OLED 120Hz,50,Windows 11 Pro,Fingerprint,33400000
+2023,Acer Swift 97,Intel Core i5-1240P,16,512,Intel Iris Xe,16.0,1920,1080,IPS 144Hz,81,Windows 11 Home,Fingerprint,11100000
+2021,Asus TUF Gaming 85,AMD Ryzen 3 3200U,4,256,NVIDIA RTX 3050,13.6,1920,1200,IPS,59,Windows 11 Home,Kensington Lock,10200000
+2021,MSI Katana 45,Intel Core i5-1035G1,4,1024,NVIDIA RTX 3050,14.0,1366,768,TN,43,Windows 10 Home,Privacy Shutter,14400000
+2025,Acer Swift 54,Snapdragon X 2nd Gen,16,2048,NVIDIA RTX 4070,15.6,1920,1080,OLED 120Hz,90,Windows 10 Home,Privacy Shutter,28700000
+2026,Acer Swift 86,AMD Ryzen 7 9840U,16,2048,NVIDIA RTX 4060,16.1,1920,1080,IPS 165Hz,70,Windows 11 Home,IR Camera TPM 2.0,28800000
+2021,Dell Vostro 84,Intel Core i3-8130U,4,512,NVIDIA RTX 3050,14.2,2560,1600,TN,68,Windows 10 Home,IR Camera TPM 2.0,12800000
+2019,Acer Predator 41,Intel Core i3-8130U,16,1024,NVIDIA GTX 1650,13.6,1920,1200,TN,57,Windows 10 Home,Firmware TPM,14000000
+2019,Asus TUF Gaming 96,AMD Ryzen 7 5800H,8,1024,NVIDIA RTX 3050,14.2,1920,1080,TN,64,Windows 11 Home,Fingerprint,14800000
+2024,Lenovo Legion 91,AMD Ryzen 9 8945HS,8,1024,NVIDIA RTX 4060,15.6,1920,1200,OLED,57,Windows 11 Home,Kensington Lock,29400000
+2026,Dell Vostro 98,AMD Ryzen 7 9840U,64,512,NVIDIA RTX 4070,14.0,1366,768,IPS 165Hz,38,Windows 10 Home,Firmware TPM,39300000
+2025,Dell Inspiron 57,Snapdragon X 2nd Gen,64,512,NVIDIA RTX 4070,16.1,1920,1080,IPS 165Hz,68,Windows 11 Home,Fingerprint,37600000
+2026,Asus TUF Gaming 85,Intel Core i9-16900HX,32,1024,Qualcomm Adreno,16.0,1920,1200,IPS 165Hz,82,Windows 11 Pro,Fingerprint,17000000
+2019,HP Envy 68,AMD Ryzen 5 4500U,4,512,NVIDIA RTX 3050,16.1,1920,1200,IPS 144Hz,89,Windows 11 Home,Firmware TPM,11100000
+2023,Apple MacBook Air 35,Apple M2 8-Core,32,256,Apple M2 8-Core GPU,14.0,1366,768,IPS Retina,39,macOS,Touch ID Apple T2,17200000
+2019,MSI Cyborg 74,AMD Ryzen 5 4500U,16,256,AMD Radeon Graphics,16.0,1920,1080,IPS,89,Windows 10 Home,Fingerprint,8500000
+2023,Acer Predator 93,Intel Core i7-13700H,8,512,NVIDIA RTX 4070,16.1,3024,1964,IPS 144Hz,88,Windows 10 Home,Privacy Shutter,22800000
+2023,MSI Katana 73,AMD Ryzen 7 7840HS,16,1024,AMD Radeon Graphics,16.1,1920,1080,IPS 144Hz,74,Windows 11 Pro,Firmware TPM,12700000
+2022,Lenovo ThinkPad 58,Intel Core i7-13700H,16,1024,NVIDIA RTX 3050,15.6,3024,1964,IPS 144Hz,65,Windows 11 Home,Kensington Lock,16300000
+2020,Lenovo Yoga 31,Intel Core i3-8130U,8,1024,Intel Iris Xe,14.0,1920,1080,IPS,58,Windows 10 Home,Kensington Lock,7700000
+2026,MSI Modern 96,Intel Core i9-16900HX,32,1024,NVIDIA RTX 4070,15.6,1366,768,OLED 120Hz,74,Windows 11 Home,Privacy Shutter,30900000
+2025,Apple MacBook Air 69,Apple M2 8-Core,24,1024,Apple M2 8-Core GPU,16.0,2560,1600,IPS Retina,73,macOS,Touch ID Apple T2,19400000
+2020,Apple MacBook Pro 54,Intel Core i7-9750H,8,128,Intel UHD Graphics,16.0,1366,768,Liquid Retina XDR,90,macOS,Touch ID,9200000
+2024,Dell Vostro 68,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4050,16.1,1920,1080,IPS 144Hz,72,Windows 11 Home,Kensington Lock,8900000
+2019,Dell Alienware 97,AMD Ryzen 5 4500U,8,256,NVIDIA GTX 1650,15.6,2880,1800,IPS,93,Windows 11 Pro,Kensington Lock,12600000
+2023,Acer Swift 65,Intel Core Ultra 7 155H,8,1024,AMD Radeon Graphics,14.0,2880,1800,OLED,63,Windows 11 Home,IR Camera TPM 2.0,11900000
+2025,MSI Stealth 67,Snapdragon X Elite X1E-78-100,64,1024,AMD Radeon 880M,15.6,1920,1080,IPS 165Hz,60,Windows 11 Home,Fingerprint,24700000
+2022,Acer Nitro 19,Intel Core i5-1240P,8,1024,NVIDIA RTX 4060,14.2,2880,1800,OLED,46,Windows 11 Pro,IR Camera TPM 2.0,30400000
+2020,Lenovo Yoga 59,AMD Ryzen 3 3200U,4,512,NVIDIA RTX 3050,14.2,3024,1964,IPS,70,Windows 11 Home,Firmware TPM,10900000
+2018,Apple MacBook Air 30,Apple M1 8-Core,16,128,Apple M1 7-Core GPU,16.0,1920,1200,Liquid Retina,97,macOS,Touch ID Apple T2,10800000
+2025,MSI Cyborg 14,Snapdragon X Elite X1E-78-100,16,2048,NVIDIA RTX 5070,15.6,2880,1800,Mini LED 240Hz,85,Windows 10 Home,Privacy Shutter,33500000
+2025,MSI Modern 58,Intel Core Ultra 7 258V,32,512,NVIDIA RTX 4070,13.6,2560,1600,OLED 120Hz,55,Windows 11 Pro,Firmware TPM,38400000
+2020,Asus ROG Zephyrus 57,Intel Core i3-8130U,8,512,NVIDIA RTX 3050,13.3,1920,1080,IPS 144Hz,67,Windows 11 Home,Privacy Shutter,14000000
+2020,Apple MacBook Air 87,Intel Core i7-9750H,16,512,Intel UHD Graphics,16.1,1920,1200,Liquid Retina XDR,74,macOS,Touch ID,14800000
+2023,Asus ROG Zephyrus 29,AMD Ryzen 7 7840HS,16,1024,NVIDIA RTX 4070,14.2,1920,1080,OLED 120Hz,56,Windows 10 Home,Fingerprint,24000000
+2026,Lenovo Yoga 82,Snapdragon X 2nd Gen,64,2048,NVIDIA RTX 5070,14.2,1366,768,OLED 120Hz,64,Windows 11 Pro,Firmware TPM,40800000
+2018,Acer Nitro 50,Intel Core i5-1035G1,8,1024,NVIDIA RTX 3050,13.6,1366,768,IPS,54,Windows 11 Pro,Privacy Shutter,13900000
+2019,Lenovo Yoga 99,Intel Core i7-1165G7,4,256,Intel Iris Xe,14.2,1366,768,TN,42,Windows 10 Home,Fingerprint,4500000
+2025,Apple MacBook Pro 16,Apple M2 8-Core,8,512,Apple M2 8-Core GPU,13.3,1366,768,IPS Retina,51,macOS,Touch ID,12400000
+2018,Apple MacBook Air 26,Intel Core i5-8210Y,8,512,Intel UHD Graphics,14.0,1366,768,Liquid Retina XDR,36,macOS,Touch ID,9700000
+2022,Dell XPS 56,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 4050,13.3,1366,768,IPS,72,Windows 10 Home,Firmware TPM,14800000
+2021,MSI Cyborg 47,Intel Core i3-8130U,16,256,Intel Iris Xe,16.1,1920,1200,IPS 144Hz,85,Windows 10 Home,Firmware TPM,10100000
+2020,Acer Aspire 34,AMD Ryzen 3 3200U,4,1024,Intel Iris Xe,13.3,1366,768,IPS,55,Windows 11 Home,IR Camera TPM 2.0,7200000
+2019,Dell Vostro 74,AMD Ryzen 5 4500U,16,256,Intel UHD Graphics,14.2,2560,1600,IPS,42,Windows 11 Home,Privacy Shutter,8100000
+2025,Dell XPS 98,Snapdragon X 2nd Gen,32,1024,NVIDIA RTX 4060,16.1,2560,1600,OLED 120Hz,59,Windows 11 Home,Fingerprint,39500000
+2018,MSI Stealth 97,AMD Ryzen 3 3200U,16,1024,Intel UHD Graphics,13.6,2560,1600,TN,60,Windows 10 Home,IR Camera TPM 2.0,9500000
+2019,MSI Cyborg 19,Intel Core i7-1165G7,4,1024,NVIDIA GTX 1650,13.6,3024,1964,TN,62,Windows 11 Home,Fingerprint,11300000
+2022,Apple MacBook Pro 56,Apple M4 10-Core,32,512,Apple M4 10-Core GPU,15.6,1920,1080,Liquid Retina XDR,72,macOS,Touch ID Apple T2,32000000
+2022,Acer Predator 40,Intel Core i5-1240P,8,512,NVIDIA RTX 4070,14.2,1920,1080,IPS,36,Windows 11 Pro,Fingerprint,23400000
+2023,Lenovo Legion 90,Intel Core i5-1240P,32,1024,NVIDIA RTX 4070,13.6,3024,1964,OLED 120Hz,53,Windows 11 Pro,Kensington Lock,36500000
+2022,Dell XPS 80,Intel Core i5-1240P,16,512,NVIDIA RTX 3050,14.0,2560,1600,OLED 120Hz,59,Windows 11 Pro,Kensington Lock,16800000
+2020,Dell XPS 32,Intel Core i5-1035G1,8,1024,NVIDIA GTX 1650,16.1,2880,1800,IPS,62,Windows 11 Home,IR Camera TPM 2.0,14100000
+2026,MSI Stealth 71,Snapdragon X 2nd Gen,16,1024,Qualcomm Adreno,15.6,2880,1800,Mini LED 240Hz,79,Windows 11 Pro,Fingerprint,18400000
+2022,HP Pavilion 14,Intel Core i7-13700H,16,1024,NVIDIA RTX 4070,16.1,1920,1200,IPS,95,Windows 11 Pro,Kensington Lock,25000000
+2024,HP Envy 63,AMD Ryzen 9 8945HS,8,512,Intel Arc Graphics,15.6,3024,1964,OLED,60,Windows 11 Home,Kensington Lock,13000000
+2022,Asus ROG Zephyrus 32,Intel Core Ultra 7 155H,8,1024,NVIDIA RTX 4060,15.6,2560,1600,OLED 120Hz,87,Windows 10 Home,Firmware TPM,24500000
+2025,Dell Inspiron 51,Snapdragon X Elite X1E-78-100,32,2048,Intel Arc Graphics 140V,13.3,1920,1200,Mini LED 240Hz,48,Windows 11 Home,Firmware TPM,22900000
+2023,Lenovo Legion 57,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 4070,14.0,1366,768,IPS 144Hz,51,Windows 11 Home,Fingerprint,28500000
+2024,Apple MacBook Air 90,Apple M4 10-Core,8,1024,Apple M4 10-Core GPU,14.0,1366,768,Liquid Retina XDR,52,macOS,Touch ID,32400000
+2024,Lenovo Legion 20,AMD Ryzen 7 7840HS,16,1024,NVIDIA RTX 4060,13.6,2560,1600,OLED,61,Windows 11 Pro,Privacy Shutter,29600000
+2025,MSI Cyborg 13,Intel Core i9-16900HX,64,1024,AMD Radeon 880M,16.1,1920,1200,IPS 165Hz,84,Windows 11 Pro,Firmware TPM,26200000
+2026,Apple MacBook Pro 83,Apple M2 8-Core,24,512,Apple M2 8-Core GPU,13.6,1920,1080,Liquid Retina XDR,50,macOS,Touch ID,20500000
+2022,Apple MacBook Pro 63,Apple M4 10-Core,16,512,Apple M4 10-Core GPU,14.0,3024,1964,IPS Retina,53,macOS,Touch ID Apple T2,24900000
+2021,Acer Swift 25,Intel Core i3-8130U,4,512,NVIDIA GTX 1650,15.6,2560,1600,IPS,82,Windows 10 Home,Fingerprint,13700000
+2018,Lenovo Yoga 45,Intel Core i7-1165G7,8,1024,NVIDIA RTX 3050,16.0,3024,1964,TN,57,Windows 10 Home,Kensington Lock,12700000
+2018,Asus Vivobook 51,Intel Core i3-8130U,8,512,Intel UHD Graphics,16.1,1920,1080,IPS,63,Windows 11 Pro,Privacy Shutter,5500000
+2026,Asus ROG Zephyrus 74,Snapdragon X 2nd Gen,16,1024,Qualcomm Adreno,16.0,3024,1964,IPS 165Hz,79,Windows 10 Home,Fingerprint,14400000
+2021,Acer Swift 29,Intel Core i5-1035G1,8,512,NVIDIA GTX 1650,16.1,1366,768,IPS,92,Windows 10 Home,Fingerprint,13200000
+2023,MSI Modern 51,AMD Ryzen 5 7520U,32,512,AMD Radeon Graphics,14.0,3024,1964,IPS 144Hz,65,Windows 11 Pro,IR Camera TPM 2.0,15000000
+2022,Asus Vivobook 95,Intel Core Ultra 7 155H,32,1024,AMD Radeon Graphics,16.1,1366,768,OLED,98,Windows 10 Home,Fingerprint,20500000
+2021,Apple MacBook Pro 60,Apple M3 8-Core,24,256,Apple M3 8-Core GPU,16.1,1920,1200,Liquid Retina,70,macOS,Touch ID,26800000
+2025,MSI Katana 93,AMD Ryzen 7 9840U,16,1024,NVIDIA RTX 4060,14.2,3024,1964,IPS 165Hz,56,Windows 11 Home,Kensington Lock,29200000
+2019,Apple MacBook Air 44,Intel Core i7-9750H,16,256,Intel UHD Graphics,16.0,1366,768,Liquid Retina,56,macOS,Touch ID,13500000
+2020,MSI Stealth 93,AMD Ryzen 3 3200U,4,1024,AMD Radeon Graphics,15.6,1366,768,IPS,60,Windows 10 Home,Kensington Lock,6600000
+2021,Dell Vostro 87,Intel Core i7-1165G7,8,512,Intel Iris Xe,13.6,1920,1200,IPS,72,Windows 11 Pro,IR Camera TPM 2.0,8700000
+2022,Lenovo IdeaPad Slim 64,AMD Ryzen 5 7520U,16,512,Intel Iris Xe,15.6,2880,1800,IPS,96,Windows 11 Home,Fingerprint,11000000
+2021,Asus TUF Gaming 36,Intel Core i3-8130U,8,1024,NVIDIA GTX 1650,14.0,1366,768,IPS 144Hz,44,Windows 11 Home,Fingerprint,12700000
+2019,Asus TUF Gaming 69,Intel Core i3-8130U,4,1024,Intel Iris Xe,16.1,1920,1200,TN,72,Windows 11 Pro,IR Camera TPM 2.0,7200000
+2025,Acer Swift 66,Intel Core i9-16900HX,32,2048,NVIDIA RTX 5070,14.2,2560,1600,OLED 120Hz,46,Windows 10 Home,Firmware TPM,30900000
+2022,Lenovo ThinkPad 42,AMD Ryzen 9 8945HS,32,1024,Intel Iris Xe,14.2,1920,1200,IPS,43,Windows 11 Home,Firmware TPM,15900000
+2024,MSI Cyborg 60,AMD Ryzen 9 8945HS,32,1024,Intel Iris Xe,15.6,1366,768,IPS,58,Windows 11 Pro,IR Camera TPM 2.0,16300000
+2021,Acer Nitro 88,AMD Ryzen 7 5800H,16,256,Intel UHD Graphics,15.6,2560,1600,IPS,94,Windows 11 Pro,Firmware TPM,9300000
+2024,MSI Katana 27,AMD Ryzen 7 7840HS,8,1024,Intel Arc Graphics,14.0,1920,1080,OLED 120Hz,64,Windows 11 Pro,Kensington Lock,12700000
+2026,Acer Swift 44,Intel Core Ultra 7 258V,16,1024,Qualcomm Adreno,14.0,1920,1200,IPS 165Hz,62,Windows 10 Home,Privacy Shutter,14700000
+2022,Dell XPS 77,Intel Core i7-13700H,16,1024,NVIDIA RTX 4070,15.6,3024,1964,IPS 144Hz,97,Windows 11 Home,IR Camera TPM 2.0,25900000
+2021,Lenovo IdeaPad Slim 40,AMD Ryzen 3 3200U,8,256,NVIDIA GTX 1650,13.3,1366,768,IPS,66,Windows 10 Home,Kensington Lock,12300000
+2026,Acer Predator 74,Intel Core Ultra 7 258V,32,512,AMD Radeon 880M,13.6,3024,1964,Mini LED 240Hz,45,Windows 10 Home,Fingerprint,21900000
+2022,Dell Vostro 85,AMD Ryzen 7 7840HS,8,1024,Intel Iris Xe,16.1,3024,1964,IPS 144Hz,86,Windows 10 Home,Firmware TPM,8600000
+2023,Asus ROG Zephyrus 98,AMD Ryzen 5 7520U,16,512,NVIDIA RTX 4070,13.6,1366,768,OLED,36,Windows 11 Pro,Kensington Lock,32300000
+2025,Acer Nitro 87,AMD Ryzen 7 9840U,16,2048,NVIDIA RTX 4070,14.0,1920,1080,Mini LED 240Hz,71,Windows 11 Pro,Kensington Lock,29200000
+2022,HP Pavilion 20,AMD Ryzen 5 7520U,8,1024,AMD Radeon Graphics,13.6,1366,768,IPS 144Hz,60,Windows 11 Pro,Firmware TPM,8500000
+2021,Lenovo ThinkPad 62,Intel Core i3-8130U,8,512,NVIDIA GTX 1650,16.1,3024,1964,IPS 144Hz,74,Windows 11 Home,Fingerprint,12900000
+2023,MSI Modern 58,AMD Ryzen 5 7520U,16,1024,NVIDIA RTX 3050,15.6,2560,1600,OLED,93,Windows 11 Pro,Fingerprint,19900000
+2023,Dell Vostro 66,Intel Core i5-1240P,8,1024,NVIDIA RTX 3050,16.0,3024,1964,IPS 144Hz,98,Windows 11 Pro,IR Camera TPM 2.0,14600000
+2025,Dell Inspiron 48,Intel Core Ultra 7 258V,32,1024,AMD Radeon 880M,16.0,1920,1080,OLED 120Hz,74,Windows 11 Home,IR Camera TPM 2.0,21300000
+2022,Dell Inspiron 81,AMD Ryzen 7 7840HS,8,1024,NVIDIA RTX 3050,14.2,1920,1200,IPS,71,Windows 10 Home,Kensington Lock,13500000
+2019,Apple MacBook Air 25,Intel Core i5-8210Y,16,128,Intel UHD Graphics,13.3,3024,1964,IPS Retina,61,macOS,Touch ID Apple T2,11200000
+2025,Apple MacBook Pro 90,Apple M2 8-Core,16,256,Apple M2 8-Core GPU,13.3,1920,1200,Liquid Retina,73,macOS,Touch ID Apple T2,16100000
+2024,Dell Inspiron 11,Intel Core i5-1240P,8,1024,NVIDIA RTX 3050,16.1,3024,1964,OLED 120Hz,97,Windows 11 Home,Kensington Lock,19800000
+2023,MSI Stealth 49,Intel Core i7-13700H,8,512,Intel Iris Xe,16.0,1366,768,IPS,67,Windows 10 Home,Fingerprint,8700000
+2025,MSI Cyborg 94,Snapdragon X 2nd Gen,16,512,Qualcomm Adreno,13.6,2560,1600,Mini LED 240Hz,65,Windows 10 Home,IR Camera TPM 2.0,13800000
+2020,Lenovo ThinkPad 73,AMD Ryzen 3 3200U,16,256,Intel Iris Xe,15.6,1366,768,IPS,80,Windows 11 Home,Kensington Lock,8800000
+2018,Asus TUF Gaming 64,AMD Ryzen 5 4500U,16,1024,AMD Radeon Graphics,14.2,2560,1600,TN,60,Windows 11 Home,Firmware TPM,9100000
+2025,Lenovo IdeaPad Slim 78,Snapdragon X 2nd Gen,32,2048,Intel Arc Graphics 140V,16.0,2560,1600,Mini LED 240Hz,81,Windows 10 Home,IR Camera TPM 2.0,21300000
+2023,Acer Predator 13,AMD Ryzen 9 8945HS,8,1024,AMD Radeon Graphics,13.6,1920,1080,OLED 120Hz,67,Windows 10 Home,Privacy Shutter,15400000
+2023,Dell Alienware 27,AMD Ryzen 5 7520U,32,1024,NVIDIA RTX 4070,16.1,2880,1800,OLED 120Hz,65,Windows 11 Home,IR Camera TPM 2.0,31100000
+2019,MSI Stealth 27,Intel Core i5-1035G1,16,512,Intel UHD Graphics,14.2,1920,1080,IPS,54,Windows 10 Home,Fingerprint,8300000
+2026,Asus Vivobook 56,Intel Core i9-16900HX,16,2048,Intel Arc Graphics 140V,14.0,1366,768,OLED 120Hz,62,Windows 11 Home,Privacy Shutter,19400000
+2019,Dell Vostro 73,Intel Core i7-1165G7,4,1024,AMD Radeon Graphics,16.1,2880,1800,TN,99,Windows 11 Home,Privacy Shutter,6900000
+2019,MSI Modern 67,Intel Core i3-8130U,16,1024,Intel UHD Graphics,13.3,1366,768,IPS 144Hz,67,Windows 11 Home,Kensington Lock,9000000
+2019,Apple MacBook Air 57,Intel Core i7-9750H,16,512,Intel UHD Graphics,14.2,1920,1080,Liquid Retina XDR,41,macOS,Touch ID,13300000
+2023,Apple MacBook Air 26,Apple M3 8-Core,8,256,Apple M3 8-Core GPU,16.1,1920,1200,Liquid Retina,85,macOS,Touch ID,25200000
+2019,HP Envy 64,Intel Core i5-1035G1,16,512,Intel Iris Xe,16.1,2560,1600,TN,82,Windows 11 Home,Fingerprint,9800000
+2024,Acer Nitro 14,Intel Core i5-1240P,32,512,Intel Iris Xe,14.0,1920,1080,OLED,60,Windows 11 Home,Fingerprint,18800000
+2024,Apple MacBook Air 95,Apple M2 8-Core,24,512,Apple M2 8-Core GPU,14.2,1920,1200,Liquid Retina XDR,70,macOS,Touch ID,18100000
+2023,Asus ROG Zephyrus 78,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4060,15.6,2880,1800,IPS 144Hz,94,Windows 11 Pro,Fingerprint,30900000
+2023,Apple MacBook Pro 36,Apple M2 8-Core,24,512,Apple M2 8-Core GPU,16.0,2880,1800,IPS Retina,63,macOS,Touch ID Apple T2,17100000
+2021,Asus ROG Zephyrus 77,Intel Core i3-8130U,4,1024,NVIDIA RTX 3050,13.6,3024,1964,IPS,54,Windows 11 Home,Fingerprint,12700000
+2019,MSI Modern 58,Intel Core i7-1165G7,4,256,Intel UHD Graphics,14.0,3024,1964,IPS,71,Windows 11 Home,Firmware TPM,4500000
+2025,HP Victus 85,Snapdragon X 2nd Gen,16,1024,Qualcomm Adreno,16.0,3024,1964,Mini LED 240Hz,91,Windows 11 Pro,Firmware TPM,16300000
+2024,Dell Vostro 24,AMD Ryzen 7 7840HS,8,1024,NVIDIA RTX 3050,13.6,2560,1600,IPS,62,Windows 11 Home,Firmware TPM,13200000
+2018,Acer Swift 71,Intel Core i3-8130U,8,1024,NVIDIA RTX 3050,15.6,2880,1800,IPS,90,Windows 10 Home,IR Camera TPM 2.0,13100000
+2022,Dell Alienware 92,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4070,13.6,1920,1080,IPS 144Hz,67,Windows 11 Home,IR Camera TPM 2.0,28100000
+2025,Lenovo IdeaPad Slim 99,Snapdragon X Elite X1E-78-100,16,2048,AMD Radeon 880M,14.0,2880,1800,IPS 165Hz,42,Windows 10 Home,IR Camera TPM 2.0,15600000
+2024,Asus Vivobook 58,Intel Core i5-1240P,32,512,Intel Iris Xe,14.0,1920,1200,OLED,58,Windows 11 Pro,Privacy Shutter,19100000
+2018,Apple MacBook Air 29,Intel Core i7-9750H,16,128,Intel UHD Graphics,13.6,1366,768,IPS Retina,66,macOS,Touch ID Apple T2,10400000
+2023,Asus Vivobook 64,Intel Core Ultra 7 155H,32,1024,AMD Radeon Graphics,14.2,1920,1080,OLED 120Hz,73,Windows 11 Home,Firmware TPM,18700000
+2025,Apple MacBook Pro 96,Apple M4 10-Core,24,256,Apple M4 10-Core GPU,16.1,3024,1964,IPS Retina,94,macOS,Touch ID Apple T2,36100000
+2021,Acer Nitro 80,AMD Ryzen 7 5800H,8,1024,Intel UHD Graphics,16.0,2880,1800,TN,56,Windows 10 Home,IR Camera TPM 2.0,9200000
+2022,Dell Inspiron 93,Intel Core i7-13700H,32,512,NVIDIA RTX 4050,16.1,2880,1800,IPS 144Hz,85,Windows 11 Pro,Kensington Lock,15500000
+2018,Asus Zenbook 13,Intel Core i5-1035G1,16,1024,NVIDIA GTX 1650,16.1,2880,1800,TN,89,Windows 11 Home,Fingerprint,13200000
+2018,Acer Aspire 54,AMD Ryzen 3 3200U,4,1024,AMD Radeon Graphics,14.0,1366,768,IPS,40,Windows 11 Home,Fingerprint,5200000
+2026,Lenovo Legion 29,Intel Core Ultra 7 258V,16,1024,NVIDIA RTX 4060,13.6,2880,1800,IPS 165Hz,38,Windows 10 Home,Privacy Shutter,26700000
+2018,MSI Modern 49,Intel Core i7-1165G7,4,512,AMD Radeon Graphics,14.2,1366,768,IPS,42,Windows 11 Home,Kensington Lock,4700000
+2021,Apple MacBook Air 74,Apple M3 8-Core,8,512,Apple M3 8-Core GPU,14.2,2560,1600,IPS Retina,70,macOS,Touch ID Apple T2,20300000
+2024,MSI Cyborg 13,AMD Ryzen 7 7840HS,32,512,Intel Arc Graphics,14.0,2560,1600,IPS 144Hz,71,Windows 11 Home,Firmware TPM,15800000
+2019,Apple MacBook Air 29,Intel Core i5-8210Y,8,512,Intel UHD Graphics,14.2,2560,1600,Liquid Retina XDR,70,macOS,Touch ID Apple T2,8000000
+2025,Apple MacBook Pro 94,Apple M2 8-Core,32,512,Apple M2 8-Core GPU,15.6,3024,1964,IPS Retina,71,macOS,Touch ID,19800000
+2021,Dell XPS 16,AMD Ryzen 5 4500U,4,512,Intel UHD Graphics,16.0,1920,1080,IPS,62,Windows 10 Home,Firmware TPM,7600000
+2026,HP Spectre 37,AMD Ryzen 7 9840U,64,1024,NVIDIA RTX 5070,16.1,1920,1200,Mini LED 240Hz,83,Windows 11 Pro,Firmware TPM,42400000
+2023,Lenovo ThinkPad 87,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 4050,13.3,3024,1964,OLED 120Hz,35,Windows 11 Home,Kensington Lock,11900000
+2026,MSI Stealth 61,Intel Core Ultra 7 258V,64,512,NVIDIA RTX 5070,16.0,1920,1200,Mini LED 240Hz,62,Windows 11 Pro,Kensington Lock,43700000
+2024,Lenovo IdeaPad Slim 26,Intel Core i7-13700H,16,512,Intel Arc Graphics,16.1,3024,1964,IPS,72,Windows 11 Home,Privacy Shutter,12800000
+2023,Lenovo IdeaPad Slim 89,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 3050,13.3,2560,1600,OLED,52,Windows 11 Pro,Privacy Shutter,21500000
+2021,Asus Zenbook 92,Intel Core i7-1165G7,16,1024,NVIDIA GTX 1650,15.6,3024,1964,TN,67,Windows 11 Home,Kensington Lock,17100000
+2020,Asus Zenbook 19,AMD Ryzen 5 4500U,4,1024,AMD Radeon Graphics,16.1,1366,768,TN,98,Windows 10 Home,Privacy Shutter,7700000
+2026,Dell XPS 98,Intel Core Ultra 7 258V,32,2048,NVIDIA RTX 5070,13.3,2560,1600,IPS 165Hz,55,Windows 11 Pro,IR Camera TPM 2.0,33800000
+2019,MSI Stealth 74,Intel Core i3-8130U,16,256,Intel UHD Graphics,14.2,2560,1600,IPS,69,Windows 11 Home,Firmware TPM,8100000
+2018,Acer Swift 53,Intel Core i3-8130U,16,256,NVIDIA GTX 1650,13.6,1920,1080,TN,47,Windows 10 Home,Firmware TPM,11900000
+2019,MSI Modern 14,Intel Core i3-8130U,16,1024,AMD Radeon Graphics,13.6,2560,1600,IPS,41,Windows 11 Home,IR Camera TPM 2.0,9100000
+2023,Apple MacBook Air 53,Apple M4 10-Core,32,256,Apple M4 10-Core GPU,16.0,2880,1800,IPS Retina,83,macOS,Touch ID,26500000
+2018,Acer Nitro 99,Intel Core i3-8130U,8,256,AMD Radeon Graphics,16.0,1366,768,IPS 144Hz,82,Windows 10 Home,Fingerprint,5100000
+2018,Dell Inspiron 48,Intel Core i3-8130U,16,512,Intel Iris Xe,16.1,2880,1800,IPS 144Hz,97,Windows 11 Home,IR Camera TPM 2.0,7300000
+2025,Acer Predator 65,Intel Core Ultra 7 258V,32,2048,NVIDIA RTX 5070,14.2,1920,1200,OLED 120Hz,68,Windows 11 Pro,Firmware TPM,38700000
+2019,Asus Vivobook 86,Intel Core i5-1035G1,16,1024,AMD Radeon Graphics,14.2,3024,1964,IPS,65,Windows 10 Home,Firmware TPM,9900000
+2025,Lenovo Yoga 28,Intel Core i9-16900HX,32,2048,NVIDIA RTX 4060,16.0,1920,1200,IPS 165Hz,77,Windows 10 Home,Kensington Lock,37400000
+2026,Apple MacBook Air 29,Apple M4 10-Core,24,512,Apple M4 10-Core GPU,14.0,2880,1800,Liquid Retina,35,macOS,Touch ID Apple T2,38100000
+2020,Asus Zenbook 75,AMD Ryzen 3 3200U,8,256,Intel Iris Xe,13.6,1920,1200,IPS 144Hz,39,Windows 11 Pro,Kensington Lock,6500000
+2025,MSI Stealth 87,Snapdragon X 2nd Gen,64,1024,NVIDIA RTX 4070,14.2,1920,1080,Mini LED 240Hz,56,Windows 11 Pro,Privacy Shutter,39700000
+2018,Acer Swift 11,AMD Ryzen 7 5800H,4,512,NVIDIA RTX 3050,13.6,3024,1964,TN,65,Windows 11 Pro,Fingerprint,12500000
+2023,Apple MacBook Pro 37,Apple M2 8-Core,24,256,Apple M2 8-Core GPU,13.3,1366,768,IPS Retina,57,macOS,Touch ID Apple T2,16500000
+2020,HP Spectre 35,Intel Core i7-1165G7,4,256,Intel Iris Xe,14.0,1920,1080,TN,46,Windows 11 Pro,Firmware TPM,6900000
+2022,MSI Cyborg 54,Intel Core i7-13700H,8,512,Intel Arc Graphics,13.3,3024,1964,OLED,36,Windows 11 Pro,Fingerprint,11000000
+2019,HP Victus 50,Intel Core i7-1165G7,8,1024,Intel Iris Xe,16.1,2560,1600,IPS 144Hz,94,Windows 11 Home,Fingerprint,8500000
+2019,Asus Zenbook 27,AMD Ryzen 5 4500U,8,1024,AMD Radeon Graphics,15.6,3024,1964,IPS,82,Windows 10 Home,Fingerprint,7100000
+2018,Apple MacBook Air 79,Intel Core i7-9750H,8,128,Intel UHD Graphics,16.0,1920,1080,IPS Retina,72,macOS,Touch ID Apple T2,10000000
+2025,Lenovo IdeaPad Slim 71,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 4060,16.1,1920,1200,IPS 165Hz,87,Windows 11 Pro,Firmware TPM,31200000
+2025,Lenovo Legion 58,Snapdragon X Elite X1E-78-100,32,1024,NVIDIA RTX 4070,16.0,3024,1964,Mini LED 240Hz,92,Windows 11 Pro,IR Camera TPM 2.0,28200000
+2021,Acer Swift 61,AMD Ryzen 3 3200U,8,1024,Intel Iris Xe,14.0,1366,768,IPS,70,Windows 10 Home,Privacy Shutter,8100000
+2019,HP Spectre 77,AMD Ryzen 5 4500U,4,512,NVIDIA RTX 3050,14.0,2560,1600,IPS 144Hz,62,Windows 11 Home,Fingerprint,10700000
+2024,HP Spectre 51,Intel Core i5-1240P,8,1024,Intel Arc Graphics,16.0,1920,1200,OLED,59,Windows 11 Home,IR Camera TPM 2.0,12600000
+2026,Dell Inspiron 46,Intel Core Ultra 7 258V,16,1024,Intel Arc Graphics 140V,13.6,1920,1080,IPS 165Hz,56,Windows 10 Home,Kensington Lock,14300000
+2023,HP Envy 98,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 4070,13.3,1920,1200,OLED,54,Windows 11 Home,Fingerprint,33800000
+2024,Apple MacBook Air 71,Apple M2 8-Core,16,1024,Apple M2 8-Core GPU,16.0,2560,1600,Liquid Retina,68,macOS,Touch ID,15700000
+2026,Apple MacBook Pro 70,Apple M3 8-Core,16,512,Apple M3 8-Core GPU,16.1,2560,1600,IPS Retina,99,macOS,Touch ID Apple T2,28400000
+2026,Asus ROG Zephyrus 28,AMD Ryzen 7 9840U,64,512,NVIDIA RTX 4060,16.1,1920,1200,IPS 165Hz,77,Windows 11 Pro,Fingerprint,36700000
+2024,MSI Stealth 99,Intel Core Ultra 7 155H,32,512,NVIDIA RTX 4050,13.6,1920,1200,IPS,44,Windows 11 Pro,Privacy Shutter,16100000
+2024,Acer Swift 61,AMD Ryzen 5 7520U,8,1024,Intel Iris Xe,15.6,3024,1964,OLED,83,Windows 10 Home,Firmware TPM,13100000
+2020,Asus Zenbook 15,AMD Ryzen 3 3200U,4,256,Intel Iris Xe,14.2,1920,1080,TN,53,Windows 11 Pro,Firmware TPM,5600000
+2022,MSI Modern 69,AMD Ryzen 7 7840HS,8,512,AMD Radeon Graphics,14.2,1366,768,OLED 120Hz,45,Windows 10 Home,Privacy Shutter,11300000
+2024,Acer Aspire 60,Intel Core i7-13700H,16,1024,NVIDIA RTX 4070,13.6,2880,1800,OLED 120Hz,73,Windows 10 Home,Fingerprint,29700000
+2026,MSI Stealth 46,Intel Core i9-16900HX,32,512,NVIDIA RTX 4060,16.1,2880,1800,IPS 165Hz,70,Windows 10 Home,Kensington Lock,31500000
+2025,Acer Predator 84,AMD Ryzen 7 9840U,64,1024,Qualcomm Adreno,16.1,2560,1600,IPS 165Hz,74,Windows 10 Home,Kensington Lock,25500000
+2020,Acer Swift 33,AMD Ryzen 3 3200U,8,1024,Intel Iris Xe,15.6,2560,1600,IPS 144Hz,61,Windows 11 Pro,IR Camera TPM 2.0,8700000
+2018,Lenovo Yoga 46,Intel Core i7-1165G7,16,256,Intel Iris Xe,14.2,1366,768,IPS,70,Windows 11 Pro,Firmware TPM,7700000
+2019,Apple MacBook Air 75,Intel Core i7-9750H,8,256,Intel UHD Graphics,13.6,1366,768,Liquid Retina,67,macOS,Touch ID Apple T2,9500000
+2019,MSI Stealth 59,Intel Core i5-1035G1,8,256,Intel UHD Graphics,13.3,1920,1200,IPS,43,Windows 11 Home,IR Camera TPM 2.0,6900000
+2025,Acer Predator 19,Intel Core i9-16900HX,64,1024,AMD Radeon 880M,16.1,1920,1080,Mini LED 240Hz,72,Windows 10 Home,Firmware TPM,28700000
+2018,Dell Inspiron 33,AMD Ryzen 5 4500U,16,512,Intel Iris Xe,16.0,3024,1964,TN,55,Windows 11 Home,Kensington Lock,7800000
+2020,Acer Nitro 33,AMD Ryzen 7 5800H,16,256,NVIDIA GTX 1650,13.3,2880,1800,IPS 144Hz,75,Windows 10 Home,Kensington Lock,15200000
+2019,Acer Nitro 67,Intel Core i3-8130U,4,512,Intel Iris Xe,14.0,1920,1080,TN,50,Windows 10 Home,Firmware TPM,5100000
+2018,Acer Aspire 12,AMD Ryzen 7 5800H,16,256,Intel Iris Xe,16.1,1920,1080,TN,97,Windows 11 Home,Fingerprint,8400000
+2020,Asus TUF Gaming 76,Intel Core i7-1165G7,16,1024,Intel Iris Xe,13.6,2560,1600,IPS 144Hz,69,Windows 10 Home,Privacy Shutter,11200000
+2024,Asus Zenbook 38,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 3050,13.3,1920,1080,OLED,59,Windows 10 Home,Privacy Shutter,16900000
+2022,MSI Katana 16,AMD Ryzen 5 7520U,16,1024,Intel Iris Xe,14.0,2880,1800,IPS 144Hz,41,Windows 10 Home,Fingerprint,11100000
+2024,MSI Cyborg 53,AMD Ryzen 9 8945HS,16,512,AMD Radeon Graphics,15.6,2560,1600,IPS,92,Windows 10 Home,Privacy Shutter,11700000
+2026,MSI Cyborg 75,Intel Core i9-16900HX,16,2048,Intel Arc Graphics 140V,13.6,1920,1080,Mini LED 240Hz,62,Windows 11 Pro,Kensington Lock,19100000
+2018,Lenovo Legion 74,Intel Core i5-1035G1,8,256,Intel UHD Graphics,16.0,2560,1600,TN,93,Windows 11 Home,Fingerprint,6400000
+2023,Lenovo Legion 51,AMD Ryzen 7 7840HS,16,1024,NVIDIA RTX 4070,13.6,1920,1200,IPS,56,Windows 11 Pro,Kensington Lock,23500000
+2026,Asus Zenbook 98,Snapdragon X 2nd Gen,32,2048,Qualcomm Adreno,14.2,1366,768,OLED 120Hz,75,Windows 11 Pro,Fingerprint,22500000
+2025,Asus Zenbook 17,Intel Core i9-16900HX,16,512,AMD Radeon 880M,15.6,1920,1080,IPS 165Hz,68,Windows 11 Pro,Fingerprint,12500000
+2019,Acer Predator 50,Intel Core i5-1035G1,8,256,NVIDIA RTX 3050,14.0,2880,1800,TN,53,Windows 10 Home,Fingerprint,11700000
+2021,HP Spectre 21,AMD Ryzen 3 3200U,4,512,NVIDIA GTX 1650,15.6,3024,1964,IPS,94,Windows 11 Home,IR Camera TPM 2.0,12500000
+2020,Apple MacBook Pro 13,Intel Core i5-8210Y,16,512,Intel UHD Graphics,15.6,2880,1800,Liquid Retina,64,macOS,Touch ID Apple T2,11700000
+2024,Acer Nitro 69,AMD Ryzen 7 7840HS,32,1024,Intel Iris Xe,13.6,1920,1080,OLED,65,Windows 11 Home,IR Camera TPM 2.0,20200000
+2021,Asus Vivobook 75,AMD Ryzen 3 3200U,8,512,NVIDIA GTX 1650,14.0,2560,1600,IPS 144Hz,59,Windows 11 Pro,Privacy Shutter,12700000
+2019,Acer Aspire 26,Intel Core i5-1035G1,4,512,AMD Radeon Graphics,14.0,3024,1964,IPS 144Hz,67,Windows 11 Home,Firmware TPM,5900000
+2023,MSI Modern 94,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 3050,16.1,3024,1964,IPS,78,Windows 11 Home,IR Camera TPM 2.0,15700000
+2018,MSI Cyborg 44,AMD Ryzen 7 5800H,4,512,Intel Iris Xe,15.6,1920,1080,IPS 144Hz,97,Windows 11 Pro,IR Camera TPM 2.0,4300000
+2019,Apple MacBook Air 93,Apple M1 8-Core,8,512,Apple M1 7-Core GPU,13.6,1920,1080,Liquid Retina,62,macOS,Touch ID Apple T2,10200000
+2022,Dell Alienware 86,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 4060,16.1,1920,1200,OLED,64,Windows 11 Home,IR Camera TPM 2.0,24300000
+2022,Asus Zenbook 73,Intel Core i5-1240P,32,1024,NVIDIA RTX 4050,16.0,3024,1964,OLED 120Hz,73,Windows 10 Home,Kensington Lock,18600000
+2020,HP Victus 28,Intel Core i5-1035G1,16,256,NVIDIA GTX 1650,16.1,1920,1080,IPS 144Hz,68,Windows 10 Home,IR Camera TPM 2.0,12100000
+2020,Apple MacBook Air 44,Apple M1 8-Core,8,512,Apple M1 7-Core GPU,13.6,1920,1200,Liquid Retina,40,macOS,Touch ID Apple T2,9600000
+2019,HP Pavilion 54,Intel Core i5-1035G1,8,512,Intel UHD Graphics,13.3,1366,768,TN,52,Windows 10 Home,Firmware TPM,7300000
+2018,Asus Zenbook 77,AMD Ryzen 5 4500U,16,512,NVIDIA GTX 1650,16.1,2880,1800,IPS,76,Windows 10 Home,IR Camera TPM 2.0,12800000
+2023,MSI Katana 51,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4050,14.0,1366,768,IPS,56,Windows 10 Home,Privacy Shutter,11000000
+2025,Apple MacBook Pro 28,Apple M2 8-Core,24,1024,Apple M2 8-Core GPU,16.1,1920,1200,Liquid Retina XDR,70,macOS,Touch ID,19400000
+2025,Dell Alienware 95,AMD Ryzen 7 9840U,16,2048,Qualcomm Adreno,16.1,3024,1964,OLED 120Hz,75,Windows 10 Home,Kensington Lock,18100000
+2025,Acer Aspire 55,Intel Core Ultra 7 258V,64,1024,Qualcomm Adreno,13.6,2880,1800,IPS 165Hz,44,Windows 11 Home,IR Camera TPM 2.0,26100000
+2026,Asus Zenbook 74,Snapdragon X 2nd Gen,32,512,NVIDIA RTX 4060,14.2,1920,1080,OLED 120Hz,69,Windows 10 Home,Privacy Shutter,31400000
+2019,Asus TUF Gaming 14,AMD Ryzen 3 3200U,8,256,AMD Radeon Graphics,14.2,3024,1964,IPS 144Hz,42,Windows 10 Home,Privacy Shutter,5800000
+2026,MSI Stealth 22,Intel Core i9-16900HX,64,2048,Intel Arc Graphics 140V,14.0,3024,1964,IPS 165Hz,59,Windows 11 Pro,Privacy Shutter,27900000
+2024,MSI Stealth 40,Intel Core i5-1240P,16,512,Intel Iris Xe,14.0,1920,1080,IPS,72,Windows 10 Home,Privacy Shutter,12400000
+2019,Dell XPS 27,AMD Ryzen 5 4500U,16,256,AMD Radeon Graphics,15.6,1920,1080,TN,89,Windows 11 Home,IR Camera TPM 2.0,9300000
+2024,Acer Nitro 57,AMD Ryzen 7 7840HS,32,512,Intel Iris Xe,13.3,2560,1600,OLED 120Hz,69,Windows 11 Pro,Fingerprint,18500000
+2022,Apple MacBook Air 74,Apple M4 10-Core,24,256,Apple M4 10-Core GPU,16.0,3024,1964,IPS Retina,97,macOS,Touch ID Apple T2,25000000
+2022,Dell Inspiron 46,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 3050,16.0,1366,768,OLED,79,Windows 11 Pro,Firmware TPM,23800000
+2021,Apple MacBook Air 17,Apple M4 10-Core,32,512,Apple M4 10-Core GPU,16.1,1920,1080,Liquid Retina,97,macOS,Touch ID,26600000
+2023,Acer Predator 55,Intel Core i5-1240P,32,1024,AMD Radeon Graphics,16.0,2560,1600,IPS 144Hz,90,Windows 11 Home,IR Camera TPM 2.0,15200000
+2020,HP OmniBook 17,AMD Ryzen 3 3200U,16,256,NVIDIA RTX 3050,14.2,1920,1200,TN,65,Windows 11 Pro,Privacy Shutter,15200000
+2021,Lenovo Yoga 94,AMD Ryzen 7 5800H,16,256,Intel Iris Xe,14.2,1366,768,IPS,45,Windows 10 Home,Privacy Shutter,8900000
+2023,Acer Swift 17,AMD Ryzen 9 8945HS,16,1024,Intel Arc Graphics,13.6,1366,768,OLED 120Hz,37,Windows 10 Home,Firmware TPM,14900000
+2025,HP OmniBook 33,Intel Core Ultra 7 258V,32,2048,NVIDIA RTX 4060,16.0,2560,1600,Mini LED 240Hz,96,Windows 11 Pro,IR Camera TPM 2.0,34200000
+2019,Asus Vivobook 73,Intel Core i5-1035G1,4,1024,NVIDIA RTX 3050,14.2,3024,1964,IPS 144Hz,52,Windows 11 Pro,Firmware TPM,12000000
+2020,Acer Predator 93,Intel Core i7-1165G7,16,256,Intel UHD Graphics,13.3,1920,1080,IPS,69,Windows 11 Pro,IR Camera TPM 2.0,8900000
+2018,Acer Predator 19,AMD Ryzen 5 4500U,16,1024,Intel UHD Graphics,16.0,1920,1080,TN,62,Windows 11 Pro,Firmware TPM,9800000
+2020,Asus TUF Gaming 51,Intel Core i5-1035G1,16,256,Intel Iris Xe,15.6,1366,768,TN,71,Windows 10 Home,Kensington Lock,8300000
+2019,Dell XPS 57,AMD Ryzen 3 3200U,16,256,Intel Iris Xe,13.3,1920,1200,IPS,68,Windows 11 Pro,Fingerprint,8900000
+2026,Acer Swift 84,Snapdragon X 2nd Gen,32,2048,NVIDIA RTX 4070,13.6,3024,1964,IPS 165Hz,41,Windows 11 Home,Privacy Shutter,27600000
+2018,Lenovo Yoga 49,AMD Ryzen 5 4500U,16,256,NVIDIA RTX 3050,14.0,3024,1964,IPS,43,Windows 10 Home,Fingerprint,13400000
+2019,Dell XPS 44,AMD Ryzen 3 3200U,8,256,AMD Radeon Graphics,14.2,2880,1800,IPS 144Hz,44,Windows 11 Home,Fingerprint,5900000
+2019,MSI Katana 92,AMD Ryzen 7 5800H,8,1024,NVIDIA RTX 3050,13.6,1920,1080,IPS 144Hz,61,Windows 11 Pro,Fingerprint,12600000
+2024,Acer Aspire 88,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4060,13.3,3024,1964,OLED 120Hz,56,Windows 10 Home,Kensington Lock,23800000
+2023,Apple MacBook Pro 29,Apple M2 8-Core,8,512,Apple M2 8-Core GPU,13.6,1366,768,Liquid Retina,59,macOS,Touch ID,11200000
+2026,MSI Katana 86,Snapdragon X 2nd Gen,32,2048,NVIDIA RTX 4070,15.6,2880,1800,Mini LED 240Hz,72,Windows 11 Home,Kensington Lock,30600000
+2023,Apple MacBook Pro 34,Apple M4 10-Core,32,512,Apple M4 10-Core GPU,15.6,1920,1200,Liquid Retina XDR,63,macOS,Touch ID Apple T2,28400000
+2020,MSI Cyborg 29,AMD Ryzen 7 5800H,8,256,AMD Radeon Graphics,16.1,3024,1964,IPS 144Hz,70,Windows 11 Home,Firmware TPM,7400000
+2024,MSI Stealth 34,AMD Ryzen 5 7520U,32,1024,AMD Radeon Graphics,15.6,1920,1200,OLED 120Hz,69,Windows 11 Home,Privacy Shutter,22100000
+2019,HP Spectre 51,Intel Core i3-8130U,16,256,Intel UHD Graphics,15.6,1366,768,TN,58,Windows 10 Home,Kensington Lock,9000000
+2022,Dell Alienware 12,AMD Ryzen 9 8945HS,8,1024,NVIDIA RTX 3050,14.2,2880,1800,IPS,35,Windows 11 Home,Firmware TPM,14100000
+2018,MSI Stealth 79,Intel Core i5-1035G1,16,1024,NVIDIA RTX 3050,15.6,2880,1800,IPS 144Hz,57,Windows 11 Pro,Privacy Shutter,13300000
+2026,Lenovo Yoga 20,Snapdragon X 2nd Gen,32,512,NVIDIA RTX 4060,14.2,1920,1200,Mini LED 240Hz,45,Windows 11 Home,Fingerprint,31300000
+2021,Apple MacBook Air 48,Apple M3 8-Core,24,256,Apple M3 8-Core GPU,13.3,2880,1800,Liquid Retina,75,macOS,Touch ID Apple T2,30100000
+2022,MSI Modern 70,Intel Core i5-1240P,16,512,NVIDIA RTX 4050,14.0,1920,1200,OLED 120Hz,54,Windows 11 Pro,IR Camera TPM 2.0,12100000
+2023,MSI Cyborg 62,Intel Core i5-1240P,16,1024,Intel Arc Graphics,15.6,1920,1080,IPS,87,Windows 11 Home,Kensington Lock,11900000
+2019,Acer Aspire 30,Intel Core i5-1035G1,8,512,AMD Radeon Graphics,14.0,1920,1080,IPS,62,Windows 11 Pro,Privacy Shutter,7000000
+2022,Asus TUF Gaming 95,Intel Core i7-13700H,16,1024,Intel Iris Xe,16.1,1366,768,OLED,67,Windows 11 Home,Fingerprint,13800000
+2018,Lenovo ThinkPad 64,Intel Core i3-8130U,4,1024,Intel Iris Xe,16.0,1366,768,IPS,72,Windows 11 Pro,Privacy Shutter,5900000
+2025,Dell Alienware 98,AMD Ryzen 7 9840U,32,2048,NVIDIA RTX 5070,16.1,1920,1080,IPS 165Hz,79,Windows 11 Pro,Fingerprint,27800000
+2018,Lenovo Yoga 55,AMD Ryzen 7 5800H,4,256,AMD Radeon Graphics,15.6,2560,1600,IPS,55,Windows 11 Pro,Kensington Lock,4900000
+2022,HP Spectre 21,AMD Ryzen 7 7840HS,8,512,Intel Arc Graphics,16.1,1920,1200,OLED,62,Windows 11 Home,Fingerprint,13100000
+2024,Lenovo ThinkPad 24,AMD Ryzen 7 7840HS,8,512,NVIDIA RTX 4070,13.6,1920,1080,IPS 144Hz,42,Windows 11 Pro,Firmware TPM,23700000
+2022,Lenovo Yoga 65,Intel Core i7-13700H,8,512,NVIDIA RTX 3050,15.6,3024,1964,OLED 120Hz,74,Windows 10 Home,Firmware TPM,16800000
+2023,Acer Predator 18,AMD Ryzen 9 8945HS,8,1024,Intel Iris Xe,14.0,1920,1200,OLED,52,Windows 11 Pro,IR Camera TPM 2.0,14900000
+2021,HP Pavilion 34,Intel Core i3-8130U,16,1024,AMD Radeon Graphics,14.0,1920,1200,TN,65,Windows 10 Home,Kensington Lock,11700000
+2019,Acer Swift 43,Intel Core i7-1165G7,8,256,Intel UHD Graphics,13.3,1920,1080,IPS 144Hz,70,Windows 11 Home,Privacy Shutter,6200000
+2023,MSI Katana 86,Intel Core Ultra 7 155H,8,1024,Intel Arc Graphics,13.3,1920,1080,OLED 120Hz,41,Windows 11 Pro,Firmware TPM,15200000
+2019,Asus Zenbook 35,Intel Core i3-8130U,4,1024,NVIDIA RTX 3050,14.0,1920,1080,IPS,65,Windows 11 Pro,IR Camera TPM 2.0,12400000
+2020,Asus Zenbook 35,AMD Ryzen 7 5800H,8,1024,AMD Radeon Graphics,14.2,3024,1964,IPS,75,Windows 11 Home,Firmware TPM,7500000
+2024,Asus TUF Gaming 64,Intel Core i5-1240P,8,1024,NVIDIA RTX 4060,14.0,2880,1800,IPS 144Hz,37,Windows 11 Pro,Firmware TPM,20300000
+2021,MSI Stealth 74,AMD Ryzen 5 4500U,4,256,NVIDIA GTX 1650,14.2,2560,1600,IPS 144Hz,70,Windows 11 Pro,Firmware TPM,11600000
+2022,Lenovo Yoga 11,Intel Core i7-13700H,32,512,NVIDIA RTX 4070,15.6,1920,1200,OLED 120Hz,88,Windows 10 Home,Firmware TPM,30300000
+2022,Dell Inspiron 32,AMD Ryzen 7 7840HS,8,1024,Intel Iris Xe,14.0,1920,1200,IPS 144Hz,43,Windows 10 Home,Kensington Lock,10300000
+2018,MSI Cyborg 37,Intel Core i3-8130U,16,512,NVIDIA RTX 3050,14.0,3024,1964,IPS,40,Windows 11 Pro,Kensington Lock,15100000
+2022,MSI Cyborg 63,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4070,13.6,1920,1080,OLED,52,Windows 11 Pro,Privacy Shutter,23200000
+2019,MSI Stealth 94,AMD Ryzen 5 4500U,4,512,Intel Iris Xe,14.0,2880,1800,IPS,48,Windows 11 Home,Firmware TPM,6200000
+2024,Lenovo ThinkPad 40,Intel Core Ultra 7 155H,8,1024,Intel Iris Xe,13.6,1920,1080,OLED 120Hz,64,Windows 11 Pro,IR Camera TPM 2.0,12800000
+2025,MSI Cyborg 93,AMD Ryzen 7 9840U,16,512,NVIDIA RTX 4060,15.6,1366,768,IPS 165Hz,67,Windows 11 Home,Kensington Lock,22000000
+2024,Lenovo ThinkPad 93,AMD Ryzen 9 8945HS,32,512,NVIDIA RTX 4060,15.6,2560,1600,IPS,61,Windows 11 Home,Kensington Lock,29400000
+2019,Apple MacBook Air 93,Intel Core i5-8210Y,8,256,Intel UHD Graphics,13.6,2880,1800,IPS Retina,75,macOS,Touch ID,9200000
+2018,Apple MacBook Air 80,Intel Core i5-8210Y,8,128,Intel UHD Graphics,14.2,2560,1600,Liquid Retina XDR,71,macOS,Touch ID Apple T2,8000000
+2023,Acer Swift 42,AMD Ryzen 9 8945HS,16,512,Intel Iris Xe,13.3,1920,1200,IPS,69,Windows 10 Home,Firmware TPM,10500000
+2026,Apple MacBook Pro 29,Apple M2 8-Core,16,512,Apple M2 8-Core GPU,14.2,1920,1200,IPS Retina,44,macOS,Touch ID,17400000
+2021,MSI Stealth 98,AMD Ryzen 3 3200U,4,256,Intel Iris Xe,14.0,1366,768,TN,57,Windows 11 Pro,Kensington Lock,7000000
+2023,Asus ROG Zephyrus 21,Intel Core i7-13700H,8,1024,NVIDIA RTX 4050,15.6,3024,1964,OLED,66,Windows 10 Home,Firmware TPM,13100000
+2022,Dell XPS 55,AMD Ryzen 5 7520U,32,1024,AMD Radeon Graphics,16.1,1920,1080,IPS,55,Windows 10 Home,Privacy Shutter,16100000
+2020,HP Victus 60,Intel Core i3-8130U,4,1024,NVIDIA GTX 1650,14.0,1366,768,IPS 144Hz,44,Windows 11 Home,IR Camera TPM 2.0,10900000
+2020,Apple MacBook Pro 56,Intel Core i7-9750H,16,512,Intel UHD Graphics,14.2,3024,1964,Liquid Retina,73,macOS,Touch ID Apple T2,12200000
+2021,Acer Predator 81,AMD Ryzen 5 4500U,8,1024,NVIDIA RTX 3050,14.2,2880,1800,TN,40,Windows 11 Home,Firmware TPM,14700000
+2026,Dell Vostro 22,Intel Core Ultra 7 258V,16,512,Qualcomm Adreno,14.2,1366,768,IPS 165Hz,43,Windows 10 Home,Privacy Shutter,12200000
+2023,HP Victus 48,AMD Ryzen 7 7840HS,16,512,Intel Arc Graphics,13.3,1366,768,IPS 144Hz,43,Windows 11 Home,Fingerprint,11700000
+2020,Acer Aspire 65,AMD Ryzen 7 5800H,4,1024,NVIDIA RTX 3050,14.2,1920,1080,TN,73,Windows 11 Home,Kensington Lock,9700000
+2023,Lenovo IdeaPad Slim 42,AMD Ryzen 7 7840HS,16,512,NVIDIA RTX 4070,14.2,3024,1964,IPS 144Hz,43,Windows 10 Home,Kensington Lock,28600000
+2022,Acer Predator 54,Intel Core Ultra 7 155H,8,512,Intel Iris Xe,15.6,2880,1800,IPS,66,Windows 11 Home,Kensington Lock,8000000
+2018,Acer Predator 98,AMD Ryzen 7 5800H,8,1024,NVIDIA RTX 3050,16.0,2560,1600,IPS,69,Windows 11 Home,Firmware TPM,13300000
+2022,Asus TUF Gaming 27,AMD Ryzen 5 7520U,32,512,Intel Arc Graphics,13.6,2880,1800,OLED 120Hz,70,Windows 11 Pro,Fingerprint,17700000
+2025,Acer Nitro 94,Snapdragon X Elite X1E-78-100,16,512,Qualcomm Adreno,14.2,1920,1200,IPS 165Hz,47,Windows 11 Pro,IR Camera TPM 2.0,11700000
+2019,Asus ROG Zephyrus 88,Intel Core i5-1035G1,8,256,NVIDIA RTX 3050,13.3,2880,1800,TN,48,Windows 11 Home,Kensington Lock,10100000
+2022,Lenovo Yoga 92,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4050,13.3,1920,1200,OLED 120Hz,38,Windows 10 Home,Fingerprint,12000000
+2022,Asus ROG Zephyrus 47,Intel Core i7-13700H,16,1024,NVIDIA RTX 4060,13.6,1920,1200,OLED,41,Windows 11 Home,Firmware TPM,29600000
+2026,Apple MacBook Air 14,Apple M4 10-Core,8,512,Apple M4 10-Core GPU,13.6,3024,1964,Liquid Retina,44,macOS,Touch ID Apple T2,30000000
+2019,MSI Cyborg 38,AMD Ryzen 7 5800H,4,1024,NVIDIA RTX 3050,15.6,2880,1800,IPS 144Hz,96,Windows 11 Pro,Fingerprint,14100000
+2023,Acer Swift 54,AMD Ryzen 7 7840HS,16,512,NVIDIA RTX 4060,13.6,2880,1800,OLED 120Hz,48,Windows 11 Home,Privacy Shutter,31100000
+2025,Asus Vivobook 29,Intel Core Ultra 7 258V,32,512,NVIDIA RTX 4060,13.6,1920,1080,Mini LED 240Hz,53,Windows 11 Home,Firmware TPM,29000000
+2023,HP Pavilion 20,Intel Core Ultra 7 155H,16,1024,NVIDIA RTX 4070,16.0,1366,768,OLED 120Hz,63,Windows 10 Home,IR Camera TPM 2.0,32700000
+2023,Apple MacBook Pro 62,Apple M4 10-Core,16,512,Apple M4 10-Core GPU,14.0,2880,1800,Liquid Retina XDR,67,macOS,Touch ID Apple T2,27300000
+2024,Dell Alienware 44,AMD Ryzen 7 7840HS,32,512,NVIDIA RTX 4060,16.0,1366,768,IPS 144Hz,90,Windows 11 Pro,Kensington Lock,27300000
+2019,HP Spectre 31,Intel Core i3-8130U,4,512,NVIDIA GTX 1650,13.3,2560,1600,IPS 144Hz,57,Windows 11 Pro,IR Camera TPM 2.0,11200000
+2026,Apple MacBook Pro 24,Apple M4 10-Core,8,512,Apple M4 10-Core GPU,16.1,1920,1080,IPS Retina,82,macOS,Touch ID,28300000
+2023,HP OmniBook 73,Intel Core i5-1240P,16,1024,Intel Iris Xe,14.2,3024,1964,IPS 144Hz,44,Windows 10 Home,IR Camera TPM 2.0,11500000
+2023,Dell Inspiron 87,Intel Core Ultra 7 155H,16,1024,Intel Arc Graphics,13.6,3024,1964,IPS,36,Windows 11 Home,Kensington Lock,11900000
+2022,HP Victus 21,Intel Core Ultra 7 155H,16,512,AMD Radeon Graphics,16.1,2880,1800,OLED 120Hz,81,Windows 10 Home,Kensington Lock,14000000
+2022,Lenovo IdeaPad Slim 22,Intel Core Ultra 7 155H,8,512,AMD Radeon Graphics,14.2,2880,1800,OLED 120Hz,65,Windows 11 Home,Privacy Shutter,14200000
+2020,MSI Stealth 56,AMD Ryzen 3 3200U,4,1024,NVIDIA RTX 3050,13.3,2880,1800,TN,72,Windows 11 Pro,Firmware TPM,10500000
+2023,Asus Zenbook 69,Intel Core Ultra 7 155H,8,1024,AMD Radeon Graphics,14.2,3024,1964,IPS,43,Windows 10 Home,IR Camera TPM 2.0,10000000
+2019,Asus Zenbook 35,Intel Core i5-1035G1,16,512,Intel Iris Xe,13.6,3024,1964,IPS,47,Windows 11 Home,Firmware TPM,9100000
+2018,HP Envy 13,AMD Ryzen 5 4500U,4,1024,NVIDIA GTX 1650,14.2,2560,1600,IPS 144Hz,61,Windows 11 Home,Privacy Shutter,10200000
+2026,Acer Nitro 25,Snapdragon X Elite X1E-78-100,32,512,NVIDIA RTX 4070,13.6,2560,1600,IPS 165Hz,69,Windows 10 Home,IR Camera TPM 2.0,31100000
+2024,MSI Katana 90,Intel Core i5-1240P,8,512,NVIDIA RTX 4050,13.3,3024,1964,OLED 120Hz,66,Windows 10 Home,Kensington Lock,15400000
+2026,Asus TUF Gaming 75,AMD Ryzen 7 9840U,32,512,AMD Radeon 880M,15.6,1366,768,Mini LED 240Hz,79,Windows 11 Pro,Kensington Lock,20700000
+2025,Asus ROG Zephyrus 70,Intel Core Ultra 7 258V,32,512,NVIDIA RTX 4070,14.0,1920,1200,Mini LED 240Hz,51,Windows 11 Home,IR Camera TPM 2.0,35800000
+2018,Acer Aspire 12,Intel Core i7-1165G7,16,1024,NVIDIA RTX 3050,14.0,2880,1800,IPS,45,Windows 10 Home,Fingerprint,13300000
+2026,Acer Swift 89,Intel Core Ultra 7 258V,64,1024,AMD Radeon 880M,14.2,2560,1600,IPS 165Hz,46,Windows 11 Pro,IR Camera TPM 2.0,26700000
+2023,Dell Vostro 66,AMD Ryzen 9 8945HS,8,512,NVIDIA RTX 4060,16.1,1920,1200,OLED 120Hz,95,Windows 10 Home,Kensington Lock,30200000
+2023,Lenovo IdeaPad Slim 22,Intel Core i5-1240P,32,512,Intel Iris Xe,15.6,1366,768,IPS,79,Windows 10 Home,IR Camera TPM 2.0,15800000
+2020,Acer Nitro 34,Intel Core i7-1165G7,4,1024,Intel Iris Xe,16.1,1920,1200,IPS 144Hz,79,Windows 10 Home,Fingerprint,7600000
+2018,HP Pavilion 29,AMD Ryzen 7 5800H,16,256,Intel UHD Graphics,15.6,1366,768,IPS,62,Windows 11 Pro,Kensington Lock,7200000
+2022,HP Victus 22,Intel Core Ultra 7 155H,8,1024,Intel Iris Xe,16.1,2560,1600,OLED 120Hz,56,Windows 10 Home,IR Camera TPM 2.0,11800000
+2019,Lenovo ThinkPad 59,Intel Core i5-1035G1,4,512,Intel UHD Graphics,16.0,3024,1964,TN,91,Windows 11 Home,IR Camera TPM 2.0,6100000
+2018,Asus ROG Zephyrus 55,AMD Ryzen 5 4500U,16,256,Intel Iris Xe,16.0,1366,768,IPS 144Hz,71,Windows 11 Home,Firmware TPM,7300000
+2018,Dell Inspiron 77,Intel Core i5-1035G1,8,256,Intel Iris Xe,14.0,1920,1080,TN,43,Windows 11 Pro,Fingerprint,5100000
+2020,HP Envy 72,Intel Core i7-1165G7,16,1024,AMD Radeon Graphics,16.0,2560,1600,IPS,86,Windows 10 Home,Kensington Lock,10300000
+2024,Lenovo Legion 33,AMD Ryzen 5 7520U,8,1024,Intel Arc Graphics,16.0,2560,1600,IPS 144Hz,86,Windows 10 Home,Privacy Shutter,11500000
+2025,Acer Nitro 51,Snapdragon X 2nd Gen,32,1024,AMD Radeon 880M,14.0,3024,1964,IPS 165Hz,58,Windows 11 Pro,Kensington Lock,18000000
+2019,Acer Swift 15,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,15.6,2560,1600,IPS 144Hz,77,Windows 11 Pro,Privacy Shutter,9200000
+2020,Apple MacBook Pro 65,Intel Core i5-8210Y,8,128,Intel UHD Graphics,16.0,1920,1200,Liquid Retina,78,macOS,Touch ID,10100000
+2023,Asus Vivobook 51,AMD Ryzen 9 8945HS,16,512,NVIDIA RTX 3050,13.6,1366,768,OLED,70,Windows 11 Pro,Kensington Lock,19300000
+2021,Dell Vostro 24,AMD Ryzen 7 5800H,16,1024,Intel UHD Graphics,16.0,3024,1964,IPS 144Hz,81,Windows 11 Pro,Privacy Shutter,11400000
+2024,HP Envy 36,AMD Ryzen 5 7520U,16,512,AMD Radeon Graphics,13.3,2560,1600,OLED 120Hz,42,Windows 10 Home,Kensington Lock,14800000
+2023,Dell Alienware 41,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 3050,13.6,1366,768,OLED,60,Windows 11 Pro,Kensington Lock,21200000
+2026,Asus ROG Zephyrus 93,Snapdragon X Elite X1E-78-100,16,1024,NVIDIA RTX 5070,14.0,1920,1200,Mini LED 240Hz,55,Windows 10 Home,Kensington Lock,31100000
+2023,Acer Aspire 61,AMD Ryzen 5 7520U,32,512,NVIDIA RTX 4070,15.6,1366,768,OLED,61,Windows 11 Home,IR Camera TPM 2.0,30000000
+2018,Lenovo IdeaPad Slim 52,Intel Core i5-1035G1,4,256,Intel Iris Xe,16.1,2880,1800,IPS 144Hz,78,Windows 11 Pro,IR Camera TPM 2.0,3900000
+2018,HP Pavilion 25,Intel Core i3-8130U,8,512,NVIDIA RTX 3050,14.0,1920,1080,IPS,45,Windows 10 Home,Privacy Shutter,11700000
+2019,Lenovo Legion 29,AMD Ryzen 7 5800H,8,1024,Intel UHD Graphics,15.6,2880,1800,IPS 144Hz,70,Windows 11 Pro,IR Camera TPM 2.0,7600000
+2025,HP Envy 72,AMD Ryzen 7 9840U,32,2048,Intel Arc Graphics 140V,15.6,3024,1964,Mini LED 240Hz,70,Windows 10 Home,Kensington Lock,24000000
+2021,MSI Modern 20,Intel Core i5-1035G1,4,1024,Intel Iris Xe,16.1,1920,1080,IPS,79,Windows 11 Home,Kensington Lock,7900000
+2019,HP Victus 86,Intel Core i7-1165G7,8,1024,NVIDIA GTX 1650,13.6,1366,768,IPS 144Hz,67,Windows 11 Pro,Firmware TPM,13700000
+2021,HP Spectre 68,Intel Core i5-1035G1,8,256,Intel UHD Graphics,14.2,3024,1964,IPS,45,Windows 11 Pro,Firmware TPM,7300000
+2019,Lenovo ThinkPad 24,Intel Core i5-1035G1,4,512,Intel Iris Xe,13.3,3024,1964,IPS,65,Windows 11 Pro,Kensington Lock,6000000
+2025,HP Envy 26,AMD Ryzen 7 9840U,32,512,AMD Radeon 880M,15.6,2880,1800,Mini LED 240Hz,82,Windows 11 Pro,Kensington Lock,19000000
+2025,HP Envy 23,Snapdragon X Elite X1E-78-100,16,1024,AMD Radeon 880M,13.6,1920,1200,Mini LED 240Hz,73,Windows 10 Home,IR Camera TPM 2.0,17700000
+2025,Dell Alienware 24,Intel Core i9-16900HX,16,512,Intel Arc Graphics 140V,13.3,1920,1200,OLED 120Hz,71,Windows 11 Pro,Kensington Lock,14600000
+2026,Asus ROG Zephyrus 39,Snapdragon X Elite X1E-78-100,32,512,AMD Radeon 880M,16.1,1920,1200,IPS 165Hz,99,Windows 11 Pro,IR Camera TPM 2.0,17100000
+2021,Lenovo Yoga 55,AMD Ryzen 7 5800H,16,512,Intel UHD Graphics,13.6,3024,1964,TN,67,Windows 11 Pro,Privacy Shutter,10400000
+2025,MSI Katana 99,AMD Ryzen 7 9840U,64,512,AMD Radeon 880M,14.0,1920,1080,OLED 120Hz,64,Windows 10 Home,Fingerprint,26900000
+2025,Acer Nitro 13,Intel Core Ultra 7 258V,16,2048,Intel Arc Graphics 140V,14.0,2880,1800,IPS 165Hz,65,Windows 10 Home,Privacy Shutter,13800000
+2025,Apple MacBook Air 71,Apple M2 8-Core,24,256,Apple M2 8-Core GPU,15.6,1920,1080,IPS Retina,87,macOS,Touch ID,17300000
+2019,Asus ROG Zephyrus 53,AMD Ryzen 7 5800H,8,1024,AMD Radeon Graphics,14.2,1920,1200,IPS 144Hz,51,Windows 11 Home,IR Camera TPM 2.0,7600000
+2018,Apple MacBook Pro 49,Apple M1 8-Core,16,128,Apple M1 7-Core GPU,14.0,3024,1964,Liquid Retina XDR,68,macOS,Touch ID Apple T2,11400000
+2020,Acer Swift 95,AMD Ryzen 3 3200U,4,256,NVIDIA RTX 3050,16.0,1920,1200,IPS 144Hz,82,Windows 10 Home,Privacy Shutter,10500000
+2019,Lenovo ThinkPad 92,AMD Ryzen 7 5800H,16,1024,NVIDIA GTX 1650,13.6,3024,1964,IPS 144Hz,51,Windows 10 Home,Privacy Shutter,15000000
+2023,Acer Predator 46,Intel Core i5-1240P,32,1024,NVIDIA RTX 4070,14.2,2880,1800,IPS,64,Windows 11 Home,Fingerprint,29500000
+2019,Asus TUF Gaming 98,AMD Ryzen 7 5800H,4,1024,AMD Radeon Graphics,15.6,1920,1080,IPS 144Hz,97,Windows 10 Home,IR Camera TPM 2.0,6300000
+2025,HP Pavilion 48,Intel Core Ultra 7 258V,16,1024,NVIDIA RTX 4070,13.3,1920,1200,OLED 120Hz,66,Windows 10 Home,IR Camera TPM 2.0,24900000
+2018,Asus ROG Zephyrus 28,AMD Ryzen 5 4500U,16,1024,Intel Iris Xe,16.0,1920,1080,TN,72,Windows 11 Home,Privacy Shutter,9600000
+2021,Acer Aspire 48,AMD Ryzen 3 3200U,8,256,NVIDIA GTX 1650,14.2,1920,1200,IPS,41,Windows 10 Home,Kensington Lock,14200000
+2022,Lenovo ThinkPad 97,Intel Core i7-13700H,32,512,AMD Radeon Graphics,14.2,1920,1080,IPS 144Hz,70,Windows 11 Home,Firmware TPM,14300000
+2022,Asus ROG Zephyrus 83,AMD Ryzen 7 7840HS,8,1024,NVIDIA RTX 4070,13.3,2880,1800,OLED 120Hz,43,Windows 11 Pro,IR Camera TPM 2.0,29400000
+2026,MSI Katana 70,Snapdragon X Elite X1E-78-100,32,1024,NVIDIA RTX 4060,15.6,2560,1600,OLED 120Hz,56,Windows 11 Home,IR Camera TPM 2.0,30200000
+2022,Apple MacBook Air 85,Apple M4 10-Core,24,256,Apple M4 10-Core GPU,16.1,1920,1080,IPS Retina,80,macOS,Touch ID Apple T2,30900000
+2025,Apple MacBook Pro 17,Apple M3 8-Core,8,512,Apple M3 8-Core GPU,15.6,1920,1200,IPS Retina,61,macOS,Touch ID,32400000
+2023,Apple MacBook Air 26,Apple M2 8-Core,16,1024,Apple M2 8-Core GPU,16.0,1920,1080,Liquid Retina XDR,86,macOS,Touch ID,15900000
+2020,HP Envy 11,AMD Ryzen 7 5800H,4,256,Intel UHD Graphics,13.6,1366,768,TN,73,Windows 11 Home,Firmware TPM,6200000
+2019,Lenovo Yoga 24,AMD Ryzen 5 4500U,8,512,Intel UHD Graphics,14.0,2560,1600,TN,60,Windows 11 Home,Kensington Lock,6300000
+2021,Apple MacBook Pro 89,Apple M4 10-Core,8,512,Apple M4 10-Core GPU,13.6,1366,768,Liquid Retina XDR,75,macOS,Touch ID Apple T2,22500000
+2021,Lenovo Yoga 71,Intel Core i7-1165G7,16,256,NVIDIA RTX 3050,14.0,2560,1600,IPS,52,Windows 11 Home,Privacy Shutter,14800000
+2019,Acer Predator 65,Intel Core i7-1165G7,8,256,NVIDIA RTX 3050,13.3,1920,1200,IPS,72,Windows 10 Home,Kensington Lock,10000000
+2025,Asus ROG Zephyrus 28,AMD Ryzen 7 9840U,16,512,Qualcomm Adreno,16.1,1920,1080,IPS 165Hz,87,Windows 11 Home,IR Camera TPM 2.0,12200000
+2026,Acer Aspire 33,AMD Ryzen 7 9840U,64,2048,NVIDIA RTX 4070,14.2,1920,1200,Mini LED 240Hz,43,Windows 11 Pro,Fingerprint,50600000
+2024,Asus TUF Gaming 59,AMD Ryzen 9 8945HS,8,1024,Intel Arc Graphics,15.6,1920,1200,OLED,92,Windows 11 Home,Firmware TPM,15400000
+2024,Asus Vivobook 14,Intel Core i7-13700H,8,512,NVIDIA RTX 3050,14.0,3024,1964,OLED 120Hz,49,Windows 11 Pro,Fingerprint,18400000
+2020,MSI Stealth 64,AMD Ryzen 5 4500U,8,256,Intel UHD Graphics,13.3,1920,1200,IPS 144Hz,63,Windows 10 Home,Kensington Lock,7400000
+2018,Lenovo Legion 24,AMD Ryzen 3 3200U,4,1024,NVIDIA RTX 3050,13.6,1920,1200,IPS 144Hz,47,Windows 11 Pro,IR Camera TPM 2.0,11000000
+2022,Lenovo Yoga 31,Intel Core i7-13700H,8,512,NVIDIA RTX 4060,13.6,1920,1080,IPS,37,Windows 11 Home,Firmware TPM,16500000
+2024,Dell Inspiron 54,AMD Ryzen 5 7520U,8,512,NVIDIA RTX 4050,15.6,1920,1200,OLED 120Hz,77,Windows 10 Home,Firmware TPM,15300000
+2026,Apple MacBook Air 19,Apple M4 10-Core,32,256,Apple M4 10-Core GPU,15.6,1920,1080,Liquid Retina,60,macOS,Touch ID Apple T2,35800000
+2019,Acer Swift 17,Intel Core i7-1165G7,4,256,AMD Radeon Graphics,14.2,1366,768,IPS,57,Windows 11 Pro,Firmware TPM,6300000
+2020,HP Pavilion 79,AMD Ryzen 5 4500U,16,1024,AMD Radeon Graphics,15.6,2880,1800,IPS,58,Windows 11 Pro,Fingerprint,10700000
+2019,Dell Alienware 44,Intel Core i3-8130U,8,512,AMD Radeon Graphics,14.0,1920,1080,TN,38,Windows 11 Pro,Kensington Lock,6300000
+2026,Apple MacBook Pro 95,Apple M3 8-Core,8,1024,Apple M3 8-Core GPU,15.6,1366,768,IPS Retina,99,macOS,Touch ID,28900000
+2024,Dell Inspiron 81,Intel Core Ultra 7 155H,32,512,Intel Iris Xe,14.2,1920,1080,IPS,67,Windows 11 Home,Fingerprint,16200000
+2023,Acer Predator 49,Intel Core i5-1240P,8,512,NVIDIA RTX 4050,16.0,3024,1964,OLED 120Hz,98,Windows 10 Home,Kensington Lock,11500000
+2025,Asus TUF Gaming 59,Snapdragon X Elite X1E-78-100,64,1024,NVIDIA RTX 4070,13.3,1366,768,OLED 120Hz,63,Windows 11 Pro,Fingerprint,46800000
+2021,HP Spectre 18,Intel Core i3-8130U,16,256,Intel Iris Xe,16.0,2880,1800,IPS,89,Windows 10 Home,Fingerprint,8800000
+2018,Apple MacBook Air 18,Intel Core i5-8210Y,16,128,Intel UHD Graphics,14.0,1920,1200,IPS Retina,37,macOS,Touch ID,11400000
+2021,HP Victus 88,AMD Ryzen 7 5800H,4,1024,Intel UHD Graphics,14.0,1920,1080,TN,69,Windows 11 Home,IR Camera TPM 2.0,7900000
+2023,Apple MacBook Air 67,Apple M4 10-Core,24,1024,Apple M4 10-Core GPU,13.6,1920,1200,Liquid Retina,68,macOS,Touch ID Apple T2,32400000
+2026,Asus Vivobook 55,Snapdragon X Elite X1E-78-100,32,512,AMD Radeon 880M,16.1,1920,1080,OLED 120Hz,88,Windows 11 Home,Firmware TPM,20900000
+2026,Lenovo IdeaPad Slim 58,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 4060,16.1,1366,768,IPS 165Hz,84,Windows 11 Pro,Fingerprint,23800000
+2018,HP Envy 86,Intel Core i3-8130U,4,512,NVIDIA RTX 3050,14.2,2560,1600,IPS,36,Windows 11 Home,Privacy Shutter,9800000
+2018,Lenovo Yoga 59,AMD Ryzen 5 4500U,4,1024,AMD Radeon Graphics,15.6,1366,768,TN,77,Windows 10 Home,IR Camera TPM 2.0,6900000
+2023,Apple MacBook Pro 86,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,16.1,1366,768,IPS Retina,58,macOS,Touch ID,37200000
+2022,Apple MacBook Pro 65,Apple M3 8-Core,32,1024,Apple M3 8-Core GPU,13.6,1366,768,IPS Retina,43,macOS,Touch ID Apple T2,34000000
+2022,Asus Zenbook 80,AMD Ryzen 7 7840HS,16,512,NVIDIA RTX 4050,14.0,3024,1964,OLED,52,Windows 11 Home,Privacy Shutter,14400000
+2018,Asus ROG Zephyrus 83,Intel Core i7-1165G7,4,512,NVIDIA GTX 1650,14.2,2560,1600,TN,35,Windows 11 Pro,Privacy Shutter,8200000
+2025,MSI Cyborg 63,Intel Core Ultra 7 258V,32,2048,NVIDIA RTX 4070,13.3,1920,1080,Mini LED 240Hz,63,Windows 10 Home,Firmware TPM,33800000
+2025,Lenovo Yoga 91,Snapdragon X 2nd Gen,64,512,AMD Radeon 880M,16.0,1920,1080,OLED 120Hz,57,Windows 10 Home,Fingerprint,29400000
+2025,Dell XPS 16,Intel Core Ultra 7 258V,64,1024,Qualcomm Adreno,16.0,2880,1800,OLED 120Hz,77,Windows 11 Pro,Fingerprint,27700000
+2021,HP Pavilion 20,Intel Core i3-8130U,16,256,Intel Iris Xe,14.0,1920,1200,TN,71,Windows 11 Pro,IR Camera TPM 2.0,10400000
+2024,Asus TUF Gaming 47,Intel Core Ultra 7 155H,32,1024,AMD Radeon Graphics,16.0,2560,1600,OLED 120Hz,78,Windows 10 Home,Kensington Lock,20200000
+2018,Lenovo Legion 16,AMD Ryzen 5 4500U,4,256,NVIDIA RTX 3050,16.1,2880,1800,TN,75,Windows 11 Home,Fingerprint,11500000
+2026,Apple MacBook Pro 38,Apple M2 8-Core,16,512,Apple M2 8-Core GPU,16.1,1366,768,Liquid Retina XDR,96,macOS,Touch ID Apple T2,16400000
+2021,Dell Alienware 79,AMD Ryzen 5 4500U,4,1024,NVIDIA GTX 1650,15.6,2560,1600,IPS 144Hz,88,Windows 11 Pro,Kensington Lock,11700000
+2021,Apple MacBook Pro 42,Apple M3 8-Core,16,512,Apple M3 8-Core GPU,14.0,3024,1964,IPS Retina,42,macOS,Touch ID Apple T2,26500000
+2024,HP Pavilion 56,Intel Core i5-1240P,16,1024,NVIDIA RTX 4050,14.2,1920,1080,IPS 144Hz,61,Windows 11 Pro,Firmware TPM,12800000
+2020,Dell Vostro 63,AMD Ryzen 7 5800H,4,1024,AMD Radeon Graphics,14.0,1366,768,IPS,55,Windows 11 Pro,Firmware TPM,6400000
+2024,Acer Swift 84,Intel Core i7-13700H,16,512,Intel Arc Graphics,14.2,2880,1800,IPS,51,Windows 11 Home,Fingerprint,12400000
+2025,MSI Modern 27,Intel Core Ultra 7 258V,64,512,Intel Arc Graphics 140V,15.6,2560,1600,OLED 120Hz,88,Windows 10 Home,IR Camera TPM 2.0,28000000
+2020,Acer Swift 48,Intel Core i7-1165G7,16,1024,NVIDIA RTX 3050,16.0,1366,768,TN,57,Windows 10 Home,Privacy Shutter,17300000
+2023,Acer Predator 91,Intel Core Ultra 7 155H,16,512,NVIDIA RTX 4060,16.0,2880,1800,IPS 144Hz,92,Windows 11 Home,IR Camera TPM 2.0,20000000
+2018,Dell XPS 97,AMD Ryzen 3 3200U,8,512,Intel Iris Xe,16.0,1920,1200,IPS 144Hz,92,Windows 11 Pro,IR Camera TPM 2.0,7200000
+2019,Lenovo Legion 74,AMD Ryzen 5 4500U,16,1024,NVIDIA RTX 3050,16.1,1920,1200,IPS 144Hz,82,Windows 11 Home,Kensington Lock,13800000
+2023,Apple MacBook Air 29,Apple M4 10-Core,16,512,Apple M4 10-Core GPU,15.6,2880,1800,Liquid Retina XDR,72,macOS,Touch ID,32100000
+2023,HP Victus 26,AMD Ryzen 5 7520U,16,512,Intel Arc Graphics,14.0,1366,768,OLED,73,Windows 11 Home,Privacy Shutter,14600000
+2022,Lenovo IdeaPad Slim 37,Intel Core i7-13700H,8,512,NVIDIA RTX 4050,13.3,1366,768,IPS 144Hz,66,Windows 11 Pro,Firmware TPM,8400000
+2021,HP OmniBook 65,AMD Ryzen 5 4500U,4,512,AMD Radeon Graphics,16.0,2560,1600,TN,62,Windows 11 Pro,IR Camera TPM 2.0,7900000
+2024,Acer Nitro 22,AMD Ryzen 9 8945HS,32,512,AMD Radeon Graphics,16.0,3024,1964,IPS,69,Windows 10 Home,Privacy Shutter,15000000
+2023,Lenovo Legion 46,AMD Ryzen 9 8945HS,8,1024,Intel Iris Xe,13.3,1920,1200,OLED 120Hz,68,Windows 11 Home,Firmware TPM,13600000
+2026,MSI Modern 92,Intel Core i9-16900HX,16,2048,NVIDIA RTX 4060,16.0,1920,1200,OLED 120Hz,67,Windows 11 Pro,Kensington Lock,33900000
+2020,MSI Stealth 47,AMD Ryzen 7 5800H,4,1024,Intel Iris Xe,14.2,2560,1600,TN,39,Windows 10 Home,Fingerprint,7400000
+2021,MSI Cyborg 15,AMD Ryzen 5 4500U,8,1024,NVIDIA RTX 3050,16.0,2560,1600,TN,77,Windows 11 Home,Privacy Shutter,14400000
+2020,HP Victus 48,AMD Ryzen 3 3200U,16,512,NVIDIA RTX 3050,15.6,1920,1200,IPS,85,Windows 11 Pro,IR Camera TPM 2.0,12300000
+2019,Apple MacBook Pro 64,Intel Core i5-8210Y,16,128,Intel UHD Graphics,13.6,1920,1200,Liquid Retina,64,macOS,Touch ID Apple T2,12300000
+2023,MSI Stealth 27,AMD Ryzen 7 7840HS,16,512,Intel Iris Xe,14.0,1920,1080,OLED,67,Windows 11 Home,IR Camera TPM 2.0,14100000
+2026,Apple MacBook Pro 44,Apple M3 8-Core,32,512,Apple M3 8-Core GPU,14.2,1366,768,Liquid Retina,51,macOS,Touch ID Apple T2,34100000
+2021,HP Pavilion 50,Intel Core i5-1035G1,16,256,NVIDIA RTX 3050,16.1,1366,768,TN,95,Windows 11 Home,IR Camera TPM 2.0,16900000
+2023,Lenovo IdeaPad Slim 13,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4070,16.0,2880,1800,IPS,58,Windows 11 Home,Kensington Lock,23300000
+2026,Lenovo Yoga 79,AMD Ryzen 7 9840U,16,1024,Qualcomm Adreno,13.6,3024,1964,Mini LED 240Hz,70,Windows 11 Home,Fingerprint,17900000
+2018,Asus Vivobook 78,AMD Ryzen 3 3200U,8,256,Intel Iris Xe,14.0,1920,1080,IPS,36,Windows 10 Home,Firmware TPM,6200000
+2021,Asus ROG Zephyrus 26,Intel Core i5-1035G1,16,512,Intel UHD Graphics,13.3,3024,1964,TN,67,Windows 11 Home,IR Camera TPM 2.0,10500000
+2024,Asus Vivobook 80,Intel Core i5-1240P,32,1024,Intel Arc Graphics,16.1,2560,1600,OLED,75,Windows 11 Pro,Fingerprint,21300000
+2018,HP Envy 69,Intel Core i7-1165G7,16,1024,NVIDIA GTX 1650,14.0,1366,768,IPS,62,Windows 10 Home,Kensington Lock,12800000
+2026,HP Spectre 47,Snapdragon X 2nd Gen,16,1024,Intel Arc Graphics 140V,16.0,1920,1200,Mini LED 240Hz,80,Windows 11 Pro,Firmware TPM,18600000
+2019,Acer Swift 84,Intel Core i5-1035G1,8,512,NVIDIA GTX 1650,13.3,1920,1200,IPS 144Hz,54,Windows 10 Home,IR Camera TPM 2.0,11200000
+2019,Asus Zenbook 37,Intel Core i5-1035G1,4,256,NVIDIA GTX 1650,16.1,2880,1800,IPS 144Hz,85,Windows 11 Home,Firmware TPM,12300000
+2021,Asus TUF Gaming 43,AMD Ryzen 7 5800H,8,256,Intel UHD Graphics,16.0,2880,1800,IPS,91,Windows 11 Home,Privacy Shutter,7500000
+2018,HP Victus 82,AMD Ryzen 3 3200U,8,1024,Intel Iris Xe,14.2,2880,1800,IPS,65,Windows 11 Home,Firmware TPM,7200000
+2019,Asus TUF Gaming 20,Intel Core i3-8130U,4,1024,Intel UHD Graphics,13.6,1366,768,TN,63,Windows 11 Home,Fingerprint,5700000
+2024,Acer Swift 91,Intel Core i7-13700H,32,1024,NVIDIA RTX 3050,14.0,2560,1600,IPS,42,Windows 11 Pro,IR Camera TPM 2.0,21400000
+2022,Dell XPS 89,AMD Ryzen 9 8945HS,8,512,AMD Radeon Graphics,16.1,3024,1964,IPS 144Hz,94,Windows 11 Home,Firmware TPM,8400000
+2026,Dell XPS 71,AMD Ryzen 7 9840U,64,2048,AMD Radeon 880M,15.6,1366,768,OLED 120Hz,85,Windows 11 Home,Fingerprint,30600000
+2020,Lenovo ThinkPad 19,AMD Ryzen 7 5800H,4,256,Intel UHD Graphics,14.2,1366,768,IPS 144Hz,56,Windows 10 Home,Privacy Shutter,5200000
+2025,Dell Vostro 19,Intel Core i9-16900HX,32,2048,Intel Arc Graphics 140V,14.0,2560,1600,OLED 120Hz,53,Windows 11 Home,Firmware TPM,23800000
+2022,HP OmniBook 62,AMD Ryzen 7 7840HS,32,512,Intel Iris Xe,13.3,1920,1200,IPS 144Hz,48,Windows 11 Home,Firmware TPM,14000000
+2022,Dell Inspiron 27,AMD Ryzen 9 8945HS,16,1024,NVIDIA RTX 4050,16.1,3024,1964,OLED,94,Windows 11 Pro,Firmware TPM,14900000
+2020,Asus Zenbook 38,Intel Core i5-1035G1,4,256,NVIDIA GTX 1650,14.0,1366,768,TN,39,Windows 10 Home,Firmware TPM,9700000
+2025,Acer Predator 52,Intel Core Ultra 7 258V,16,2048,NVIDIA RTX 4060,16.1,3024,1964,Mini LED 240Hz,79,Windows 11 Home,Firmware TPM,33900000
+2026,HP OmniBook 21,Intel Core i9-16900HX,64,1024,NVIDIA RTX 5070,16.1,2880,1800,OLED 120Hz,82,Windows 11 Pro,Fingerprint,45800000
+2022,MSI Modern 82,Intel Core i7-13700H,8,1024,NVIDIA RTX 4070,16.1,1920,1200,OLED 120Hz,97,Windows 11 Home,Privacy Shutter,27700000
+2026,Lenovo ThinkPad 58,Intel Core i9-16900HX,32,1024,NVIDIA RTX 4070,13.3,1920,1200,OLED 120Hz,72,Windows 10 Home,Kensington Lock,34700000
+2023,HP OmniBook 12,Intel Core i5-1240P,32,1024,NVIDIA RTX 4060,14.2,3024,1964,OLED 120Hz,37,Windows 11 Pro,Privacy Shutter,38500000
+2018,Dell Inspiron 71,AMD Ryzen 3 3200U,4,512,NVIDIA RTX 3050,13.3,1366,768,TN,58,Windows 11 Pro,IR Camera TPM 2.0,11700000
+2020,MSI Cyborg 27,Intel Core i3-8130U,4,512,Intel UHD Graphics,13.3,1920,1200,IPS,69,Windows 10 Home,IR Camera TPM 2.0,7300000
+2021,MSI Modern 53,AMD Ryzen 7 5800H,4,1024,AMD Radeon Graphics,13.3,2560,1600,IPS 144Hz,60,Windows 11 Pro,Privacy Shutter,8600000
+2018,Asus Zenbook 75,Intel Core i3-8130U,4,512,Intel UHD Graphics,15.6,3024,1964,IPS,67,Windows 10 Home,Privacy Shutter,5300000
+2024,Lenovo IdeaPad Slim 50,Intel Core Ultra 7 155H,8,1024,NVIDIA RTX 3050,15.6,1366,768,IPS,84,Windows 11 Home,Firmware TPM,15000000
+2019,Lenovo IdeaPad Slim 34,AMD Ryzen 7 5800H,4,256,Intel UHD Graphics,16.0,2560,1600,TN,78,Windows 11 Home,Firmware TPM,4700000
+2021,HP Victus 27,AMD Ryzen 3 3200U,16,512,Intel Iris Xe,13.6,1920,1200,IPS,71,Windows 11 Home,Kensington Lock,9900000
+2021,Apple MacBook Air 45,Apple M3 8-Core,24,1024,Apple M3 8-Core GPU,14.2,1366,768,IPS Retina,51,macOS,Touch ID,32800000
+2023,HP OmniBook 68,Intel Core i5-1240P,32,1024,Intel Arc Graphics,16.0,1920,1200,IPS 144Hz,82,Windows 11 Pro,Fingerprint,16400000
+2022,Lenovo Legion 75,Intel Core i5-1240P,32,512,AMD Radeon Graphics,14.2,1366,768,IPS 144Hz,51,Windows 11 Pro,Privacy Shutter,15600000
+2019,Dell Vostro 71,AMD Ryzen 5 4500U,8,512,NVIDIA RTX 3050,16.0,1366,768,IPS,92,Windows 10 Home,IR Camera TPM 2.0,11700000
+2019,MSI Katana 12,AMD Ryzen 3 3200U,8,512,Intel UHD Graphics,14.0,1920,1080,TN,54,Windows 10 Home,IR Camera TPM 2.0,6800000
+2026,Lenovo IdeaPad Slim 67,Snapdragon X 2nd Gen,64,2048,NVIDIA RTX 4060,14.2,1920,1080,IPS 165Hz,65,Windows 11 Pro,IR Camera TPM 2.0,40100000
+2023,Dell XPS 72,Intel Core Ultra 7 155H,8,512,NVIDIA RTX 4070,14.2,1920,1200,IPS,62,Windows 11 Pro,IR Camera TPM 2.0,26800000
+2018,Lenovo Yoga 49,Intel Core i5-1035G1,16,256,Intel Iris Xe,14.0,1366,768,IPS 144Hz,38,Windows 11 Pro,Firmware TPM,7500000
+2020,Apple MacBook Pro 69,Intel Core i7-9750H,8,512,Intel UHD Graphics,13.6,1920,1080,IPS Retina,47,macOS,Touch ID Apple T2,10400000
+2019,Lenovo Yoga 37,AMD Ryzen 7 5800H,4,256,NVIDIA RTX 3050,13.3,1920,1080,IPS,65,Windows 11 Home,Kensington Lock,9100000
+2025,Dell Alienware 38,Snapdragon X Elite X1E-78-100,64,512,Intel Arc Graphics 140V,13.6,1920,1080,Mini LED 240Hz,55,Windows 11 Home,IR Camera TPM 2.0,28800000
+2023,HP Spectre 87,Intel Core i5-1240P,16,1024,NVIDIA RTX 4060,13.6,1920,1080,IPS,73,Windows 11 Home,Firmware TPM,23800000
+2023,HP OmniBook 11,AMD Ryzen 5 7520U,8,512,Intel Arc Graphics,13.6,1920,1080,OLED 120Hz,37,Windows 11 Pro,Firmware TPM,12400000
+2019,HP Spectre 94,Intel Core i5-1035G1,8,512,NVIDIA GTX 1650,16.1,1366,768,IPS 144Hz,85,Windows 10 Home,IR Camera TPM 2.0,10800000
+2020,Lenovo ThinkPad 98,AMD Ryzen 3 3200U,4,512,Intel UHD Graphics,16.1,1366,768,IPS 144Hz,80,Windows 11 Pro,Kensington Lock,5800000
+2023,Lenovo ThinkPad 98,AMD Ryzen 5 7520U,32,1024,NVIDIA RTX 3050,14.0,1920,1200,IPS,62,Windows 11 Home,Kensington Lock,22500000
+2019,Dell Alienware 75,AMD Ryzen 7 5800H,8,1024,AMD Radeon Graphics,16.1,2560,1600,TN,66,Windows 11 Home,IR Camera TPM 2.0,7800000
+2024,Apple MacBook Air 30,Apple M4 10-Core,24,256,Apple M4 10-Core GPU,15.6,3024,1964,Liquid Retina,94,macOS,Touch ID,32000000
+2025,HP Pavilion 26,AMD Ryzen 7 9840U,16,2048,NVIDIA RTX 5070,14.0,1920,1200,Mini LED 240Hz,62,Windows 11 Home,IR Camera TPM 2.0,37900000
+2018,Dell XPS 33,AMD Ryzen 3 3200U,4,512,AMD Radeon Graphics,16.0,2880,1800,IPS,57,Windows 11 Home,Privacy Shutter,4500000
+2023,MSI Modern 79,Intel Core i7-13700H,8,512,NVIDIA RTX 4050,13.6,3024,1964,IPS,44,Windows 11 Pro,IR Camera TPM 2.0,9300000
+2024,HP Envy 69,Intel Core i7-13700H,32,1024,Intel Iris Xe,14.0,1366,768,IPS,58,Windows 11 Pro,Firmware TPM,15900000
+2019,Acer Aspire 54,AMD Ryzen 3 3200U,8,256,Intel Iris Xe,14.0,2560,1600,IPS 144Hz,40,Windows 11 Pro,Privacy Shutter,5700000
+2021,Dell XPS 49,AMD Ryzen 5 4500U,4,1024,Intel UHD Graphics,15.6,1920,1080,IPS,85,Windows 11 Pro,Firmware TPM,8400000
+2024,HP Victus 46,AMD Ryzen 7 7840HS,16,512,NVIDIA RTX 4060,14.0,2560,1600,OLED,35,Windows 11 Pro,Kensington Lock,26100000
+2024,MSI Cyborg 46,AMD Ryzen 7 7840HS,32,1024,Intel Iris Xe,13.6,3024,1964,IPS 144Hz,36,Windows 11 Home,IR Camera TPM 2.0,16300000
